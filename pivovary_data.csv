@@ -1,0 +1,830 @@
+id,nazev_pivovaru,detail_nazvu,zeme,typ,mesto,kraj,adresa,zalozeno,ico,ico_obchodni_jmeno,web,prodejna,prodejna_vycap
+1,Bajer,NULL,Česká republika,uzavřený pivovar,Frymburk,Jihočeský kraj,"Kovářov 13, 38226 Frymburk",2019,1134710,Petr Bajer,http://www.divoch.net/,0,0
+2,Beeranek,NULL,Česká republika,restaurační pivovar,České Budějovice,Jihočeský kraj,"Česká 7/55, České Budějovice",2014,NULL,Radim Beránek fyzická osoba,https://beeranek.cz,1,1
+3,Bohemia Regent,NULL,Česká republika,průmyslový pivovar,Třeboň,Jihočeský kraj,"Trocnovské náměstí 124, Třeboň",1379,25189298,Bohemia Regent spol. s r.o.,https://www.pivovar-regent.cz/,1,1
+4,Brandlínská Kuna,NULL,Česká republika,minipivovar,Brandlín,Jihočeský kraj,"Brandlín 46, 392 01 Tučapy",2019,88352552,Lukáš Mládek fyzická osoba,www.pivovarkuna.cz,1,0
+5,Březí koza,NULL,Česká republika,minipivovar,Vlachovo Březí,Jihočeský kraj,"Vlachova 353, 38422 Vlachovo Březí",2019,NULL,Panský pivovar Vlachovo Březí s.r.o.,https://brezikoza.cz,1,1
+6,Budweiser Budvar,NULL,Česká republika,průmyslový pivovar,České Budějovice,Jihočeský kraj,"Karolíny Světlé 512/4, České Budějovice",1895,514152,"Budějovický Budvar, národní podnik, Budweiser Budvar, National Corporation, Budweiser Budvar, Entreprise Nationale",https://www.budejovickybudvar.cz/,1,1
+7,Bukovar,NULL,Česká republika,minipivovar,Dolní Bukovsko,Jihočeský kraj,"Jiráskovo 54, Dolní Bukovsko",2018,4483588,Rodinný pivovar Bukovar s.r.o.,https://bukovar.cz,1,1
+8,Čejetice,NULL,Česká republika,minipivovar,Čejetice,Jihočeský kraj,"Čejetice 13, Čejetice",2020,251054,Obec Čejetice,https://www.pivovarcejetice.cz/,1,1
+9,Český Krumlov,Eggenberg,Česká republika,minipivovar,Český Krumlov,Jihočeský kraj,"Pivovarská 27, Český Krumlov",1560,38041,Bytové družstvo Český Krumlov,https://www.pivovarceskykrumlov.cz/,1,1
+10,Čížová,NULL,Česká republika,minipivovar,Čížová,Jihočeský kraj,"Čížová 1, 398 31 Čížová",2019,1909878,Pivovar Čížová s.r.o.,https://www.pivovarcizova.cz/,1,NULL
+11,DOUBLE*BEER,NULL,Česká republika,minipivovar,Doudleby,Jihočeský kraj,"Doudleby 65, 370 07 Doudleby",2022,14265273,DOUDLEBEER s.r.o.,www.doudlebeer.cz,1,0
+12,Glokner,NULL,Česká republika,restaurační pivovar,Mirkovice,Jihočeský kraj,"Svachova Lhotka 1, Mirkovice",2013,NULL,NULL,https://www.svachovka.cz/restaurace-a-pivovar#pivovar-svachovka,1,1
+13,Haďák,NULL,Česká republika,minipivovar,Strakonice,Jihočeský kraj,"Čelakovského 289, 386 01 Strakonice",2019,47541245,HADAK  s.r.o.,https://www.facebook.com/Minipivovarhadak/,0,NULL
+14,Hluboká,NULL,Česká republika,restaurační pivovar,Hluboká nad Vltavou,Jihočeský kraj,"náměstí Československé armády 1111, Hluboká nad Vltavou",2017,4800931,Pivovar Hluboká s.r.o.,https://pivovarhluboka.cz,1,1
+15,Horní Chrášťany,NULL,Česká republika,uzavřený pivovar,Horní Chrášťany,Jihočeský kraj,"Horní Chrášťany 43, Horní Chrášťany",2017,7988001,Myslivecký spolek Horní Chrášťany,https://www.ekofarmachrastany.cz,0,0
+16,Hulvát,NULL,Česká republika,minipivovar,Truskovice,Jihočeský kraj,Truskovice 32,2018,14096692,"Pivovar Hulvát, s.r.o.",https://pivovarhulvat.cz,1,0
+17,Chotoviny,NULL,Česká republika,uzavřený pivovar,Chotoviny,Jihočeský kraj,"Na Nádvoří 1, Chotoviny",2011,64578640,Pivovar Chotoviny s.r.o.,NULL,0,0
+18,Jindřichohradecký pivovar Černý orel,NULL,Česká republika,uzavřený pivovar,Jindřichův Hradec,Jihočeský kraj,"Náměstí míru 165/I, Jindřichův Hradec",2013,NULL,NULL,NULL,0,0
+19,Keras Bechyně,NULL,Česká republika,restaurační pivovar,Bechyně,Jihočeský kraj,"Písecká 376, Bechyně",2018,NULL,CERASUS BOHEMIA s.r.o.,https://www.pivovarkerasbechyne.cz/,1,1
+20,Krajinská 27,NULL,Česká republika,restaurační pivovar,České Budějovice,Jihočeský kraj,"Krajinská 27, České Budějovice",2014,2679159,PIVOVARSKÁ RESTAURACE KRAJINSKÁ 27 s.r.o.,https://www.krajinska27.cz,1,1
+21,Křížek,NULL,Česká republika,minipivovar,Tábor,Jihočeský kraj,"Za Hřištěm 448, Tábor",2018,1051482,MUDr. Pavel Křížek,https://pivovarkrizek.cz,1,1
+22,Kvilda,NULL,Česká republika,restaurační pivovar,Kvilda,Jihočeský kraj,"Kvilda 75, Kvilda",2011,250511,Obec Kvilda,https://www.obeckvilda.cz/kvilda/,0,1
+23,Lachtan,NULL,Česká republika,létající pivovar,Prachatice,Jihočeský kraj,"Velké náměstí 5, Prachatice",2016,8792551,Lachtan Gusto s.r.o.,https://www.lachtan.cz/,0,0
+24,Malt,NULL,Česká republika,létající pivovar,České Budějovice,Jihočeský kraj,"České Vrbné 1959, České Budějovice",2014,2898721,Pivovar Malt s.r.o.,NULL,NULL,0
+25,Městský pivovar Volary,NULL,Česká republika,restaurační pivovar,Volary,Jihočeský kraj,"Náměstí 325, Volary",2013,NULL,NULL,https://www.facebook.com/pages/M%C4%9Bstsk%C3%BD%20Pivovar%20Volary/132281624142171/#,0,1
+26,Minipivovar ZF JU,NULL,Česká republika,minipivovar,České Budějovice,Jihočeský kraj,"Na Zlaté stoce 690/3, České Budějovice",2016,NULL,NULL,https://www.facebook.com/minipivovarctyrak/?locale=cs_CZ,0,NULL
+27,Nová Bystřice,NULL,Česká republika,restaurační pivovar,Nová Bystřice,Jihočeský kraj,"Vídeňská 136, Nová Bystřice",2018,247138,Město Nová Bystřice,https://pivovarnovabystrice.cz,1,1
+28,Obora,NULL,Česká republika,minipivovar,Malšice,Jihočeský kraj,"Obora 4, Malšice",2016,5292913,Pivovar Obora s.r.o.,https://www.pivovarobora.cz/,1,1
+29,Písecký Hradební pivovar,NULL,Česká republika,uzavřený pivovar,Písek,Jihočeský kraj,"V Koutě 90/4, Písek",2017,NULL,Písecký hradební pivovar a.s.,NULL,0,0
+30,Pivovar Český Rudolec,NULL,Česká republika,restaurační pivovar,Český Rudolec,Jihočeský kraj,"Český Rudolec 75, Český Rudolec",2015,NULL,NULL,https://malahluboka.cz/pivovar-grasel/,NULL,1
+31,Pivovar Jílovice,NULL,Česká republika,minipivovar,Jílovice,Jihočeský kraj,Jílovice 147,2015,22821163,PIVOVAR JÍLOVICE Z.S.,https://pivovarjilovice.cz,1,1
+32,Pivovar Prachatice,NULL,Česká republika,restaurační pivovar,Prachatice,Jihočeský kraj,Horní 174,2015,7397623,"Restaurace & Penzion Pivovar Prachatice, s.r.o.",https://www.pivovarprachatice.cz/,1,1
+33,Pivovárek pánů z Růže Jindřichův Hradec,NULL,Česká republika,uzavřený pivovar,Jindřichův Hradec,Jihočeský kraj,"Vídeňská 159, Jindřichův Hradec",2013,NULL,NULL,NULL,0,0
+34,Pivovarský dvůr Lipan,NULL,Česká republika,restaurační pivovar,Dražíč,Jihočeský kraj,"Dražíč 50, Týn nad Vltavou",1998,NULL,Papula s.r.o.,https://www.pivovar-lipan.cz,1,1
+35,Pivovarský dvůr Zvíkov,NULL,Česká republika,restaurační pivovar,Zvíkovské Podhradí,Jihočeský kraj,"Zvíkovské Podhradí 92, Písek",1994,27176797,Pivovarský dvůr Zvíkov s.r.o.,https://www.pivovar-zvikov.cz/,0,1
+36,Platan Protivín,"Pivovary Lobkowicz, a.s.",Česká republika,průmyslový pivovar,Protivín,Jihočeský kraj,"Pivovar 168, Protivín",1598,60083263,Myslivecký spolek Platan Protivín,https://www.pivovar-protivin.cz/,1,1
+37,Pod Besedou,NULL,Česká republika,restaurační pivovar,Tábor,Jihočeský kraj,"Žižkovo náměstí 5, 39001 Tábor",2018,NULL,SSJS Tábor,https://www.restaurace-beseda.cz,1,1
+38,Popelín,NULL,Česká republika,minipivovar,Popelín,Jihočeský kraj,"Popelín 43, Popelín",2014,1744160,Pivovar Popelín s.r.o.,https://pivovarpopelin.cz,NULL,1
+39,První českobudějovický minipivovar Kněžínek,NULL,Česká republika,restaurační pivovar,České Budějovice,Jihočeský kraj,"Nové Dvory 2235, České Budějovice",2012,NULL,NULL,https://www.knezinek.cz/,1,1
+40,Samson,NULL,Česká republika,průmyslový pivovar,České Budějovice,Jihočeský kraj,"Lidická 51, České Budějovice",1795,2495520,Pivovar Samson s.r.o.,https://samson.cz,1,1
+41,Solnice,NULL,Česká republika,restaurační pivovar,České Budějovice,Jihočeský kraj,"Hroznová 187/34, České Budějovice",2019,7118279,PIVOVAR SOLNICE a.s.,https://www.pivovarsolnice.cz/,1,1
+42,Strakonice,NULL,Česká republika,průmyslový pivovar,Strakonice,Jihočeský kraj,"Podskalská 324, Strakonice",1649,38911,Stavební bytové družstvo Strakonice,https://www.pivovar-strakonice.cz,1,1
+43,Studánky,NULL,Česká republika,restaurační pivovar,Vyšší Brod,Jihočeský kraj,"Studánky 98, 38273 Vyšší Brod",2018,6312021,Myslivecký spolek Studánky,https://pivovarstudanky.cz,0,1
+44,Šumavský pivovar,NULL,Česká republika,restaurační pivovar,Vimperk,Jihočeský kraj,"Steinbrenerova 48/1, Vimperk",2010,NULL,"Hojdarovi, s.r.o.",https://sumavskypivovar.cz,1,1
+45,Transformátor,NULL,Česká republika,minipivovar,Hlavatce,Jihočeský kraj,"Hlavatce 9, Hlavatce",2016,24273031,ABB Transformator Servis Praha a.s.,https://www.facebook.com/pivovar.transformator/,0,NULL
+46,Vltavotýnský pivovar,NULL,Česká republika,minipivovar,Týn nad Vltavou,Jihočeský kraj,"Pivovarská 510 37501, Týn nad Vltavou",2019,4435478,Vltavotýnský pivovar s.r.o.,www.pivovartyn.cz,1,1
+47,Vyšší Brod,NULL,Česká republika,uzavřený pivovar,Vyšší Brod,Jihočeský kraj,"Kaplická 28, Vyšší Brod",2008,246191,Město Vyšší Brod,https://www.mestovyssibrod.cz/,0,0
+48,Zámecká palírna & pivovar Blatná,NULL,Česká republika,minipivovar,Blatná,Jihočeský kraj,"Plzeňská 315, Blatná",2016,NULL,NULL,https://zameckapalirna.cz/index.php,1,0
+49,Zevlův mlýn,NULL,Česká republika,minipivovar,Nové Hrady,Jihočeský kraj,"Jižní město 143, Nové Hrady",2018,6260349,Zevlův mlýn s.r.o.,https://www.zevluvmlyn.cz/,1,1
+50,Žumberk,NULL,Česká republika,minipivovar,Žumberk,Jihočeský kraj,"Žumberk 15, Trhové Sviny",2011,271292,Městys Žumberk,https://pivovarzumberk.cz,0,1
+51,Lhotecký mlýn,NULL,Česká republika,restaurační pivovar,Dolní Lhota,Jihomoravský kraj,"Dolní Lhota 123, 678 01 Blansko - Dolní Lhota",2022,25341774,Lhotecký mlýn s.r.o.,https://www.lhoteckymlyn.cz/,1,1
+52,HARRY,NULL,Česká republika,restaurační pivovar,Brno,Jihomoravský kraj,"Poštovská 68/3, 602 00 Brno-střed",2021,8951004,Pivovar HARRY a.s.,http://www.harry.com/,0,1
+53,Holy Farm / Pod Ořechem,NULL,Česká republika,létající pivovar,Petrov,Jihomoravský kraj,"Petrov 349, Petrov",2012,NULL,Wista Cz-Ek s.r.o.,https://www.pod-orechem.cz,0,0
+54,Černá Hora,"Pivovary Lobkowicz, a.s.",Česká republika,průmyslový pivovar,Černá Hora,Jihomoravský kraj,"Černá Hora 3/5, Černá Hora",1298,280097,Městys Černá Hora,https://www.cernahora.eu/,1,1
+55,Vyškov,NULL,Česká republika,uzavřený pivovar,Vyškov,Jihomoravský kraj,"Čs. armády 116/4, Vyškov",1680,226548,"Pečovatelská služba Vyškov, příspěvková organizace",https://www.pivovyskov.cz/,0,0
+56,Starobrno,Heineken,Česká republika,průmyslový pivovar,Brno,Jihomoravský kraj,"Hlinky 160/12, Brno",1872,11698314,Futsal Starobrno staré Brno z. s.,https://www.starobrno.cz/,1,NULL
+57,Kvasar,NULL,Česká republika,minipivovar,Sentice,Jihomoravský kraj,"Sentice 13, Tišnov",1992,27754316,PIVO KVASAR s.r.o.,https://www.pivokvasar.cz/,1,1
+58,Pegas,NULL,Česká republika,restaurační pivovar,Brno,Jihomoravský kraj,"Jakubská 4, Brno",1992,7137974,PEGAS BYTY s.r.o.,https://brnopivovar.hotelpegas.com,1,1
+59,Sladařský ústav Brno,domovarnictví,Česká republika,domovarnictví,Brno,Jihomoravský kraj,"Mostecká 971/7, Brno",1994,62159402,"ZO NOS PPP Výzkumný ústav pivovarský a sladařský, a.s. Praha, pracoviště Brno",https://beerresearch.cz/,0,0
+60,Kunc,NULL,Česká republika,restaurační pivovar,Hodonín,Jihomoravský kraj,"Národní třída 10, Hodonín",1994,1090186,David Kunc,https://www.facebook.com/minipivovarkunc/?locale=cs_CZ,0,1
+61,Zámecký pivovar Oslavany,NULL,Česká republika,uzavřený pivovar,Oslavany,Jihomoravský kraj,"Zámecká 1/16, Oslavany",2003,29376998,Městský zámecký pivovar Oslavany s.r.o.,NULL,0,0
+62,U Richarda,NULL,Česká republika,restaurační pivovar,Brno,Jihomoravský kraj,"Ríšova 12, Brno",2004,19484151,U Richarda Rychaltice s.r.o.,https://uricharda.cz,0,1
+63,Xaver,NULL,Česká republika,minipivovar,Blučina,Jihomoravský kraj,"Havlíčkova 99, Blučina",2006,537705,XAVER akciová společnost,https://xtv.cz/,0,1
+64,Pod Kněží horou,NULL,Česká republika,minipivovar,Bzenec,Jihomoravský kraj,"Partyzánská 1012, Bzenec",2007,NULL,Radomil Paták fyzická osoba,https://www.knezihora.cz,NULL,0
+65,Santon,NULL,Česká republika,minipivovar,Měnín,Jihomoravský kraj,"Měnín 440, Měnín",2010,3830535,TopAuto Santon s.r.o.,https://santon.com,0,0
+66,Na Mlýně Ratíškovice,NULL,Česká republika,restaurační pivovar,Ratíškovice,Jihomoravský kraj,"Vítězná 1220, Ratíškovice",2010,NULL,NULL,https://www.namlyne.com/,NULL,1
+67,Mamut,NULL,Česká republika,minipivovar,Mikulov,Jihomoravský kraj,"Venušina 1, Mikulov",2011,2458764,Sportovní klub MAMUT s.r.o.,https://www.pivovarmamut.cz/,1,1
+68,Mazák,NULL,Česká republika,minipivovar,Dolní Bojanovice,Jihomoravský kraj,"Hodonínská 1110, Dolní Bojanovice",2011,7677065,Pivovar Mazák s.r.o.,https://pivovarmazak.cz,1,1
+69,Magistr,NULL,Česká republika,uzavřený pivovar,Brno,Jihomoravský kraj,"Hrnčířská 23, Brno",2011,1522248,Magistr TOM s.r.o.,https://www.magistr.cz/,0,0
+70,Líšeňský pivovar,NULL,Česká republika,restaurační pivovar,Brno,Jihomoravský kraj,"Kotlanova 5, Brno",2011,5325773,Restaurace - Líšeňský pivovar s.r.o.,https://www.lisenskypivovar.cz/,1,1
+71,1. chodský pivovárek na Moravě,NULL,Česká republika,uzavřený pivovar,Šitbořice,Jihomoravský kraj,"Osvobození 29, Šitbořice",2012,NULL,1.chodský pivovárek na Moravě,NULL,0,0
+72,Moravský Žižkov,NULL,Česká republika,restaurační pivovar,Moravský Žižkov,Jihomoravský kraj,"Chalúpky 485, Moravský Žižkov",2012,29310539,"PIVOVAR MORAVSKÝ ŽIŽKOV, s.r.o.",https://www.moravskyzizkov.cz/,1,1
+73,Syrovar,NULL,Česká republika,minipivovar,Syrovín,Jihomoravský kraj,"Syrovín 31, Syrovín",2012,66627605,Vojtěch Kolaja fyzická osoba,https://www.syrovar.cz/,1,1
+74,Minipivovar U Dyje,NULL,Česká republika,minipivovar,Nový Šaldorf - Sedlešovice,Jihomoravský kraj,"Sedlešovice 95, Nový Šaldorf - Sedlešovice",2012,4090209,Minipivovar U Dyje s.r.o.,https://www.minipivovarudyje.cz/,1,1
+75,Sovíček,NULL,Česká republika,létající pivovar,Brno,Jihomoravský kraj,Brno,2013,5224365,Lesní klub U tří soviček z.s.,NULL,NULL,0
+76,Slavkovský pivovar,NULL,Česká republika,restaurační pivovar,Slavkov u Brna,Jihomoravský kraj,"U Mlýna 1422, Slavkov u Brna",2013,29313678,Slavkovský pivovar s.r.o.,https://slavkovskypivovar.cz,1,1
+77,Zámecký pivovar Bratčice,NULL,Česká republika,minipivovar,Bratčice,Jihomoravský kraj,"Bratčice 106, Bratčice, Jihomoravský kraj",2013,NULL,"Zámecký pivovar, a.s.",https://www.pivovarbratcice.cz/,1,1
+78,Zámecký pivovar Břeclav,NULL,Česká republika,průmyslový pivovar,Břeclav,Jihomoravský kraj,"Pod Zámkem 625/8, Břeclav",2013,NULL,Pivovary Koruny české s.r.o.,https://www.pivovarbreclav.cz/,1,0
+79,Vesnický pivovar Ohrada,NULL,Česká republika,restaurační pivovar,Vísky,Jihomoravský kraj,"Vísky 100, Vísky u Letovic",2013,29297419,Vesnický pivovar OHRADA s.r.o.,https://www.ohrada.cz/co-u-nas-najdete/pivovar,1,1
+80,Lucky Bastard,NULL,Česká republika,minipivovar,Brno,Jihomoravský kraj,"Kytnerova 5, Brno",2013,NULL,"Czech Craft Beers, a.s.",https://www.lucky-bastard.cz/,1,NULL
+81,Lišák,NULL,Česká republika,minipivovar,Topolany,Jihomoravský kraj,"Topolany 19, Topolany",2013,3999289,Spolek Lišák,https://www.lisak.cz/,0,0
+82,Městský zámecký pivovar Oslavany,NULL,Česká republika,restaurační pivovar,Oslavany,Jihomoravský kraj,"Zámecká 1/16, Oslavany",2013,29376998,Městský zámecký pivovar Oslavany s.r.o.,https://www.facebook.com/p/M%C4%9Bstsk%C3%BD-z%C3%A1meck%C3%BD-pivovar-Oslavany-100057213499755/,0,1
+83,Albert kočovný pivovar,NULL,Česká republika,létající pivovar,Brno,Jihomoravský kraj,"Pellicova 10, Brno",2014,NULL,NULL,https://www.facebook.com/albertalecz/?locale=cs_CZ,0,0
+84,Veselský pivovárek,domovarnictví,Česká republika,domovarnictví,Brno,Jihomoravský kraj,Brno,2014,NULL,NULL,NULL,0,0
+85,Pivečka,NULL,Česká republika,létající pivovar,Brno,Jihomoravský kraj,Brno,2014,13027310,Ing. arch. Tomáš Pivečka,https://pivecka.cz,1,0
+86,Hodonínský Vojáček,NULL,Česká republika,uzavřený pivovar,Hodonín,Jihomoravský kraj,"Bratislavská 1/6, Hodonín",2014,NULL,ESTREMIA a.s.,NULL,0,0
+87,Charlie's square,NULL,Česká republika,restaurační pivovar,Brno,Jihomoravský kraj,"Masarykova 25, Brno",2014,NULL,Charlie's Square,https://www.charliessquare.cz/,1,1
+88,Doubravník,NULL,Česká republika,minipivovar,Doubravník,Jihomoravský kraj,"Doubravník 109, Doubravník",2014,6723179,Pivovar Doubravník s.r.o.,https://pivovardoubravnik.cz,1,1
+89,Frankies,NULL,Česká republika,minipivovar,Břeclav,Jihomoravský kraj,"J. Palacha 121/8, Břeclav",2014,11728752,Frankies Gym s.r.o.,https://frankies.com,0,0
+90,Baran,NULL,Česká republika,létající pivovar,Brno,Jihomoravský kraj,Brno,2014,1076353,David Baran,https://baran.cz,1,0
+91,Parní pivovar Hauskrecht,NULL,Česká republika,minipivovar,Brno,Jihomoravský kraj,"Porážka 208/3, Brno",2014,NULL,NULL,https://www.hauskrecht.cz/,1,1
+92,Šumický pivovar Vildenberg,NULL,Česká republika,restaurační pivovar,Viničné Šumice,Jihomoravský kraj,Viničné Šumice 389,2014,49413279,Aleš Šmerda fyzická osoba,www.vildenberg.cz,1,1
+93,Kyjovský pivovar,NULL,Česká republika,restaurační pivovar,Kyjov,Jihomoravský kraj,"Komenského 596/66, Kyjov",2014,NULL,Kyjovský pivovar,https://www.kyjovsky-pivovar.cz/,1,1
+94,Velický Bombarďák,NULL,Česká republika,minipivovar,Velká nad Veličkou,Jihomoravský kraj,Velká nad Veličkou 111,2015,3157661,Velický Bombarďák s.r.o.,https://www.velickybombardak.cz/,1,1
+95,Hradní pivovar Hustopeče,NULL,Česká republika,uzavřený pivovar,Hustopeče,Jihomoravský kraj,"Hradní 2, Hustopeče",2015,NULL,"MATOCHA, spol. s r.o.",NULL,0,0
+96,Minipivovar Dráteník,NULL,Česká republika,minipivovar,Únanov,Jihomoravský kraj,Únanov 150,2015,NULL,Málek Beer s.r.o.,https://www.pivovar-dratenik.cz,1,1
+97,Minipivovar Na Vyhlídce,NULL,Česká republika,minipivovar,Moravská Nová Ves,Jihomoravský kraj,Na Kopci 575,2015,4303628,"Minipivovar Na Vyhlídce, s.r.o.",https://pivovarnavyhlidce.cz,1,1
+98,Pivovar Padochov,NULL,Česká republika,minipivovar,Padochov,Jihomoravský kraj,"Padochov 231, Oslavany",2015,29183952,Pivovar Padochov s.r.o.,https://www.pivovarpadochov.cz/,1,1
+99,Pivovar Galant,NULL,Česká republika,restaurační pivovar,Mikulov,Jihomoravský kraj,"Mlýnská 2, Mikulov",2015,NULL,Hotel Galant s.r.o.,https://galant.cz,1,1
+100,Létající pivovar Dragonfly,NULL,Česká republika,létající pivovar,Brno,Jihomoravský kraj,"Skryjova 8, Brno",2015,NULL,"Pivovar Dragon Beer, s.r.o.",https://www.facebook.com/dragonflybeer/?locale=cs_CZ,0,0
+101,Pivovar u Šneka,NULL,Česká republika,minipivovar,Znojmo,Jihomoravský kraj,"Vídeňská třída 3442/10, Znojmo",2015,4042751,Pivovar u Šneka s.r.o.,https://www.pivovarusneka.cz/,1,1
+102,Minipivovar Manner,NULL,Česká republika,uzavřený pivovar,Bohdalice-Pavlovice,Jihomoravský kraj,Bohdalice 303,2015,NULL,Stáj Manner Bohdalice,NULL,0,0
+103,Schrott Brewing Company,NULL,Česká republika,létající pivovar,Brno,Jihomoravský kraj,"Křenová 10, Brno",2015,NULL,Jan Dvořák fyzická osoba,https://www.schrott.cz,0,0
+104,Znojemský pivovar,NULL,Česká republika,minipivovar,Znojmo,Jihomoravský kraj,Hradní 87/2,2015,3517187,Znojemský městský pivovar a.s.,https://www.pivovarznojmo.cz,1,1
+105,Hasičský pivovar Bítov,NULL,Česká republika,restaurační pivovar,Bítov,Jihomoravský kraj,"Bítov 101, Bítov",2015,NULL,Roman Tesař fyzická osoba,https://www.pivovarbitov.cz,1,1
+106,Kočovný Kozi,NULL,Česká republika,létající pivovar,Brno,Jihomoravský kraj,"Vlhká 172/16, Brno",2016,NULL,LetKoz s.r.o,https://www.kocovnykozi.cz/,1,0
+107,Beerserker / Duck&Dog,NULL,Česká republika,minipivovar,Rajhrad,Jihomoravský kraj,"Stará pošta 750, Rajhrad",2016,NULL,NULL,https://www.duckdog.cz/,1,1
+108,Květnice,NULL,Česká republika,minipivovar,Tišnov,Jihomoravský kraj,"Hornická 1698, Tišnov",2016,48577,"KVĚTNICE, stavební bytové družstvo",https://pivovar-kvetnice.cz/,1,1
+109,Wild Creatures,NULL,Česká republika,minipivovar,Dolní Dunajovice,Jihomoravský kraj,"Mlýnská, Dolní Dunajovice",2016,9242872,Wild Creatures s.r.o.,https://www.wildcreatures.cz/,1,0
+110,Tišnov,NULL,Česká republika,minipivovar,Tišnov,Jihomoravský kraj,"Ostrovec 233, Tišnov",2016,4479939,Pivovar Tišnov s.r.o.,https://www.pivovartisnov.cz/,1,1
+111,Grádo,NULL,Česká republika,minipivovar,Tišnov,Jihomoravský kraj,"Červený mlýn 170, Tišnov",2017,2554224,Bytové družstvo Grádo Louky,https://www.grado.com/,0,0
+112,Křikloun,NULL,Česká republika,minipivovar,Hodonín,Jihomoravský kraj,"Velkomoravská 2209/69, Hodonín",2017,6494595,KŘIKLOUN s.r.o.,https://krikloun.cz,1,1
+113,JBM Brew Lab,NULL,Česká republika,restaurační pivovar,Brno,Jihomoravský kraj,"Grohova 17, Brno",2017,NULL,Masters of craft s.r.o.,https://www.jbmbrewlab.cz,0,1
+114,Brewniverse,NULL,Česká republika,létající pivovar,Brno,Jihomoravský kraj,"Tábor 25, Brno",2017,NULL,NULL,https://www.facebook.com/brewniverse.nbs/,0,0
+115,Repete,NULL,Česká republika,létající pivovar,Brno,Jihomoravský kraj,"Kolískova 15, Brno",2017,21918988,REPETE food s.r.o.,https://www.facebook.com/repetebeer/?locale=cs_CZ,0,0
+116,První soběšický pivovar,NULL,Česká republika,minipivovar,Brno,Jihomoravský kraj,"Zeiberlichova 60/52, Brno Soběšice",2017,NULL,Pavel Nekut fyzická osoba,https://www.sobesicke-pivo.cz,1,1
+117,Hnanice,NULL,Česká republika,restaurační pivovar,Hnanice u Znojma,Jihomoravský kraj,"Hnanice 97, Hnanice u Znojma",2017,600351,Obec Hnanice,https://www.vinice-hnanice.cz/pivovar/,1,1
+118,Slivon's Brewing Company,NULL,Česká republika,létající pivovar,Brno,Jihomoravský kraj,"Nové Sady 988/2, Brno",2017,6095895,Slivon´s Brewing Company s.r.o.,NULL,NULL,0
+119,Krum,NULL,Česká republika,restaurační pivovar,Moravský Krumlov,Jihomoravský kraj,"Znojemská 393, Moravský Krumlov",2017,26097648,Krum Art s.r.o.,https://www.pivokrum.cz/,0,1
+120,Moravia,NULL,Česká republika,minipivovar,Brno,Jihomoravský kraj,"Kytnerova 5, Brno",2017,149390,"MORAVIA GLASS, akciová společnost v likvidaci",https://pivovar-moravia.cz/,1,1
+121,Panský pivovar Sokolnice,NULL,Česká republika,restaurační pivovar,Sokolnice,Jihomoravský kraj,"Zámecká 151, Sokolnice",2017,NULL,"Pivovar Sokolnice, s.r.o.",https://pivovarsokolnice.cz,1,1
+122,Genius noci,NULL,Česká republika,minipivovar,Lomnice,Jihomoravský kraj,"Palackého nám. 330, Lomnice",2017,4955153,"Genius noci, s.r.o.",https://geniusnoci.cz,1,1
+123,Vranov,NULL,Česká republika,létající pivovar,Vranov,Jihomoravský kraj,"Vranov 67, Vranov",2018,6301983,Pivovar Vranov s.r.o.,http://www.pivovar-vranov.cz/o-nas/,1,0
+124,Tor,NULL,Česká republika,minipivovar,Šatov,Jihomoravský kraj,"Šatov 387, Šatov",2018,1625632,ToR s.r.o.,https://www.facebook.com/torpivovar/?locale=cs_CZ,0,NULL
+125,Feldsberg,NULL,Česká republika,restaurační pivovar,Valtice,Jihomoravský kraj,"Zámecká 1222, Valtice",2018,6957536,Feldsberg Valtice s.r.o.,https://www.pivovar-feldsberg.cz,1,1
+126,Rojc,NULL,Česká republika,minipivovar,Rozdrojovice,Jihomoravský kraj,"Rozdrojovice, 66434 Rozdrojovice",2018,19971265,ROJC s.r.o.,https://www.rojc.cz/,NULL,0
+127,U Tomana,NULL,Česká republika,restaurační pivovar,Brno,Jihomoravský kraj,"Náměstí Svobody 93/22, Brno",2018,NULL,LERAM brewery s.r.o.,https://utomana.cz/cz/,1,1
+128,Březácký Sup,NULL,Česká republika,minipivovar,Březí,Jihomoravský kraj,"Hlavní 49, 69181 Březí",2018,6619304,pivovaRT s.r.o.,https://www.brezackysup.cz/,1,1
+129,Starý dvůr,NULL,Česká republika,restaurační pivovar,Prušánky,Jihomoravský kraj,"Prušánky 132, 696 21 Prušánky",2019,1910485,Myslivecké sdružení Rýzmberk Starý Dvůr,www.penzionprusanky.cz,1,1
+130,Fagan,NULL,Česká republika,minipivovar,Brno,Jihomoravský kraj,"Útěchovská 251/48, 644 00 Brno",2019,5624177,Neil Fagan,https://www.fagan.com/,0,0
+131,Slovácký pivovar,NULL,Česká republika,minipivovar,Šardice,Jihomoravský kraj,Šardice 1,2019,3535177,"Slovácký pivovar, s.r.o.",https://www.facebook.com/p/Slov%C3%A1ck%C3%BD-pivovar-100057003777192/,0,NULL
+132,Stern,NULL,Česká republika,minipivovar,Brno,Jihomoravský kraj,"Komárovská 466/16, Komárov, 617 00 Brno",2019,6867308,Pivovar Stern s.r.o.,https://www.pivovarstern.cz/,1,1
+133,Klášterní pivovar Porta Coeli,NULL,Česká republika,restaurační pivovar,Předklášteří,Jihomoravský kraj,"Pivovarská 1002, 666 02 Předklášteří",2019,6461832,"Klášterní pivovar Porta Coeli, a.s.",https://www.vorkloster.cz/,1,1
+134,Dubňák,NULL,Česká republika,minipivovar,Dubňany,Jihomoravský kraj,"Nádražní 7 696 03, Dubňany",2019,NULL,Marek Hoch fyzická osoba,https://dubnak.cz,1,1
+135,Kos,NULL,Česká republika,minipivovar,Brno,Jihomoravský kraj,"Kotlářská 989/51a, Brno",2020,765651,Milan Kos,pivokos.cz,1,1
+136,Beer Daddy,NULL,Česká republika,minipivovar,Sivice,Jihomoravský kraj,Sivice 504,2020,7996845,BEER DADDY s.r.o.,https://www.beerdaddy.cz/,1,1
+137,Louka,NULL,Česká republika,minipivovar,Louka,Jihomoravský kraj,Louka 59,2020,5732115,Pivovar Louka s.r.o.,https://pivovarlouka.cz,1,1
+138,EFI Pivovar,NULL,Česká republika,restaurační pivovar,Brno,Jihomoravský kraj,"Náměstí 28. října 23, Brno",2020,9166343,"EFI Pivovar, s.r.o.",https://www.efipivovar.cz/,1,1
+139,Bos Boskovice,NULL,Česká republika,létající pivovar,Brno,Jihomoravský kraj,"Josefy Faimonové 2232/13, Brno",2020,NULL,NULL,https://www.pivobos.cz/,1,0
+140,Thrills,NULL,Česká republika,minipivovar,Velké Pavlovice,Jihomoravský kraj,"Tovární 509/3a, Velké Pavlovice",2021,9614010,"Pivovar Thrills Brewing, s.r.o.",https://www.thrills.cz/,0,0
+141,Kosmix,NULL,Česká republika,létající pivovar,Brno,Jihomoravský kraj,"Gorkého 98/58, Brno",2021,14267705,KOSMIX VZDĚLÁVÁNÍ s.r.o.,https://kosmix.cz,0,0
+142,Rustikal,NULL,Česká republika,restaurační pivovar,Hustopeče,Jihomoravský kraj,"Na hradbách 5, 693 01 Hustopeče",2022,26291495,"RUSTIKAL, s.r.o.",https://rustikal.cz,1,1
+143,Lednice,NULL,Česká republika,restaurační pivovar,Lednice,Jihomoravský kraj,"Břeclavská 368, 691 44 Lednice",2022,283339,Obec Lednice,https://pivovarlednice.cz,1,1
+144,Pivovarský dům Poupě,NULL,Česká republika,restaurační pivovar,Brno,Jihomoravský kraj,"Dominikánská 342/15, Brno-střed",2022,2058421,PIVOVARSKÝ DŮM POUPĚ s.r.o.,https://pivovar-poupe.cz,1,1
+145,Červený vlk,NULL,Česká republika,restaurační pivovar,Boží Dar,Karlovarský kraj,"Anny Letenské 1120/17, Boží Dar",2020,7707401,Pivovar Červený vlk s.r.o.,https://cervenyvlk.cz,1,1
+146,Dymáček / Chebbeer,NULL,Česká republika,uzavřený pivovar,Cheb,Karlovarský kraj,"Boční, 350 02 Cheb",2003,NULL,NULL,NULL,0,0
+147,Evropské centrum přírodních pivních lázní,NULL,Česká republika,restaurační pivovar,Nivy,Karlovarský kraj,"Nivy 4, Děpoltovice",2014,NULL,NULL,https://www.eurobeerspa.cz/cs/,0,1
+148,Karel IV.,NULL,Česká republika,restaurační pivovar,Karlovy Vary,Karlovarský kraj,"Tomáše Garrigue Masaryka 57, Karlovy Vary",2012,2065207,"Otec vlasti Karel IV., z.s.",https://kareliv.com,0,1
+149,Kronl,NULL,Česká republika,restaurační pivovar,Mariánské Lázně,Karlovarský kraj,"Kollárova 94/26, Mariánské Lázně",2018,6719996,Pivo Kronl    s.r.o.,https://kronl.cz,1,1
+150,Krušnohor,NULL,Česká republika,restaurační pivovar,Tisová,Karlovarský kraj,"Tisová 1792, Kraslice",2015,26454670,PIVOVAR KRUŠNOHOR s.r.o.,https://krusnohor.cz,0,1
+151,Kynšperk,NULL,Česká republika,minipivovar,Kynšperk nad Ohří,Karlovarský kraj,"Sokolovská 482/40, Kynšperk nad Ohří",2013,5622719,"Společenství vlastníků U Pivovaru 359/12, Kynšperk nad Ohří",https://pivovar-kynsperk.cz/cs,1,1
+152,Permon,NULL,Česká republika,minipivovar,Sokolov,Karlovarský kraj,"Komenského 77, Sokolov",2006,2276186,Pivovar PERMON s.r.o.,https://www.pivopermon.cz/cs,1,1
+153,Pivní skaut / Hvězda,NULL,Česká republika,restaurační pivovar,Cheb,Karlovarský kraj,"náměstí Krále Jiřího z Poděbrad 1, Cheb",2021,NULL,NULL,https://pivniskaut.cz/,1,1
+154,Rudohor,NULL,Česká republika,minipivovar,Ostrov,Karlovarský kraj,"Dolní Žďár 1, 36301 Ostrov",2018,6961649,Pivovar Rudohor s.r.o.,https://rudohor.cz,1,1
+155,Ryžovna,NULL,Česká republika,připravovaný pivovar,Boží Dar,Karlovarský kraj,Neuvedeno,Neuvedeno,1787411,Pivovar Ryžovna s.r.o.,https://www.ryzovna.cz/,0,0
+156,Svatý Florian,NULL,Česká republika,restaurační pivovar,Loket,Karlovarský kraj,"Tomáše Garrigue Masaryka 81, Loket",2006,1905872,"Svatý Florián - Dobrovolní hasiči roku, z. s.",https://pivovarloket.cz,1,1
+157,Toulavej pes,NULL,Česká republika,létající pivovar,Cheb,Karlovarský kraj,"Vančurova 15/747, Cheb",2020,46793801,Pavel Kousal fyzická osoba,www.toulavejpes.cz,0,0
+158,Valeč,NULL,Česká republika,připravovaný pivovar,Valeč,Karlovarský kraj,Neuvedeno,Neuvedeno,255114,Obec Valeč,https://www.obecvalec.cz/,0,0
+159,Velichovský Forman,uzavřeno,Česká republika,uzavřený pivovar,Velichov,Karlovarský kraj,Velichov 147,2006,NULL,NULL,NULL,0,0
+160,Velkorybnický Hastrman,NULL,Česká republika,restaurační pivovar,Hroznětín,Karlovarský kraj,"Velký Rybník 9, Hroznětín",2006,NULL,NULL,http://www.pivohastrman.cz/,1,1
+161,Zámecký pivovar Chyše,NULL,Česká republika,restaurační pivovar,Chyše,Karlovarský kraj,Chyše 54,2006,NULL,Vladimír Lažanský fyzická osoba,https://www.chyse.com,1,1
+162,Agent,NULL,Česká republika,minipivovar,Olešnice v Orlických horách,Královéhradecký kraj,"Olešnice v Orlických horách č. p. 63, 517 83 Olešnice v Orlických horách",2019,1567519,Agent Company s.r.o.,https://agentcompany.com,0,0
+163,Bakovský pivovar,NULL,Česká republika,připravovaný pivovar,Bakov,Královéhradecký kraj,Neuvedeno,Neuvedeno,10814221,Bakovský pivovar s.r.o.,https://www.bakovskypivovar.cz/,0,0
+164,Baron,NULL,Česká republika,minipivovar,Opočno,Královéhradecký kraj,"Hradecká 217, 51773 Opočno",2019,1095706,Ing. Michael Baron,https://pivobaron.cz,1,1
+165,Beránek,NULL,Česká republika,restaurační pivovar,Stěžery,Královéhradecký kraj,"Zámecká ul. 3/11, 50321 Stěžery",2018,5650909,Pivovar Štajner a Beránek s.r.o.,https://pivovarberanek.cz,1,1
+166,Berko,NULL,Česká republika,restaurační pivovar,Bernartice,Královéhradecký kraj,Bernartice 96,2015,3418847,Bc. Daniel Berko,https://www.facebook.com/p/Berko-100027720081366/,0,1
+167,Clock,NULL,Česká republika,restaurační pivovar,Potštejn,Královéhradecký kraj,"Školní 2, Potštejn",2014,28854039,Pivovar Clock s.r.o.,https://www.pivovarclock.cz/,1,1
+168,Černý potoka,NULL,Česká republika,létající pivovar,Staré Místo,Královéhradecký kraj,"Staré Místo 48, Jičín",2016,6934536,černý potoka s.r.o.,https://cernypotoka.cz,0,0
+169,Čtyři lípy,NULL,Česká republika,minipivovar,Libáň,Královéhradecký kraj,"Boženy Němcové, Libáň",2018,17226813,Čtyři Lípy I. s.r.o.,www.pivovar-liban.cz,1,0
+170,Dětenice,NULL,Česká republika,restaurační pivovar,Dětenice,Královéhradecký kraj,"Dětenice 1, Dětenice, Královéhradecký kraj",2003,5295262,Zámecký PIVOVAR Dětenice s. r. o.,https://www.pivovardetenice.cz/pivovar/o-pivovaru/,1,1
+171,Fenetra,NULL,Česká republika,létající pivovar,Potštejn,Královéhradecký kraj,"Na Brnou 394, Potštejn",2019,NULL,Pivovar Clock s.r.o.,https://fenetra.cz,1,0
+172,Friesovy Boudy / Fries,NULL,Česká republika,restaurační pivovar,Strážné,Královéhradecký kraj,Strážné 95,2013,NULL,NULL,https://friesovyboudy.cz/,1,1
+173,Hendrych,NULL,Česká republika,minipivovar,Vrchlabí,Královéhradecký kraj,"Horská 192, Vrchlabí",2012,1116533,Bc. Radek Hendrych,https://pivohendrych.cz,1,1
+174,Hradecký Klenot,NULL,Česká republika,restaurační pivovar,Hradec Králové,Královéhradecký kraj,"Velké náměstí 26, Hradec Králové",2017,8648808,"Hradecký Klenot, s.r.o.",https://hradeckyklenot.cz,1,1
+175,JungBerg,NULL,Česká republika,minipivovar,Hořice,Královéhradecký kraj,"Riegrova 619, Hořice",2017,5262011,JungBerg s.r.o.,https://www.jungberg.eu,1,1
+176,Krakonoš,NULL,Česká republika,průmyslový pivovar,Trutnov,Královéhradecký kraj,"Křižíkova 486, Trutnov",1582,25943677,Bytové družstvo KRAKONOŠ,https://www.pivovar-krakonos.cz,1,1
+177,Krodo,NULL,Česká republika,minipivovar,Mokrovousy,Královéhradecký kraj,"Mokrovousy 111, 503 15 Mokrovousy",2019,NULL,Jiří Hradecký fyzická osoba,https://krodo.cz,1,1
+178,Kubík,NULL,Česká republika,minipivovar,Hradec Králové,Královéhradecký kraj,"Profesora Smotlachy 1275/34, Hradec Králové",2010,743364,Ing. Petr Kubík,https://kubik.cz,0,0
+179,Lindr,NULL,Česká republika,restaurační pivovar,Mžany,Královéhradecký kraj,Mžany 21,2014,11702907,Lukáš Lindr,https://www.lindr.cz/,1,1
+180,Lončák,NULL,Česká republika,létající pivovar,Jičín,Královéhradecký kraj,"Na Jihu 529, Jičín",2019,25479199,Pivovar Lončák s.r.o.,https://www.pivovarloncak.cz/,1,0
+181,Luční bouda,NULL,Česká republika,restaurační pivovar,Pec pod Sněžkou,Královéhradecký kraj,"Pec pod Sněžkou 203, Pec pod Sněžkou",2012,NULL,"AEZZ a.s., Hotel Luční bouda",https://www.lucnibouda.cz/cs/,0,1
+182,Městský Podorlický pivovar Rychnov,NULL,Česká republika,restaurační pivovar,Rychnov nad Kněžnou,Královéhradecký kraj,"Kaštany 435, Rychnov nad Kněžnou",2008,NULL,Městský Podorlický pivovar s.r.o. Rychnov nad Kněžnou,https://www.pivovarrychnov.cz/,1,1
+183,Neratov,NULL,Česká republika,minipivovar,Neratov,Královéhradecký kraj,"Bartošovice v Orlických horách 118, Neratov",2017,580686,Obec Neratov,https://pivovarneratov.cz,1,1
+184,Nová Paka,NULL,Česká republika,průmyslový pivovar,Nová Paka,Královéhradecký kraj,"Pivovarská 400, Nová Paka",1872,32140,"JEDNOTA, spotřební družstvo Nová Paka",https://novapaka.com,0,0
+185,Opat Broumov,NULL,Česká republika,průmyslový pivovar,Broumov,Královéhradecký kraj,"Třída Osvobození 55, Broumov",1348,NULL,"Pivovar Broumov,s.r.o.",https://www.pivovarbroumov.cz/,1,1
+186,Ovipistán,NULL,Česká republika,restaurační pivovar,Ledce,Královéhradecký kraj,"Ledce 16, 517 71 Ledce",2020,4616341,Pivovar Ovipistán s.r.o.,https://www.pivovarovipistan.cz/,0,1
+187,Pecký pivovar,NULL,Česká republika,restaurační pivovar,Pec pod Sněžkou,Královéhradecký kraj,"Pec pod Sněžkou 124, Pec pod Sněžkou",2017,NULL,SUPER Sport spol. s r.o.,https://www.peckypivovar.cz/,1,1
+188,Pivovar Trautenberk,NULL,Česká republika,restaurační pivovar,Malá Úpa,Královéhradecký kraj,Horní Malá Úpa 87,2015,4186982,"Pivovar Trautenberk, a.s.",https://www.pivovartrautenberk.cz/,1,1
+189,Pivovarská Bašta Vrchlabí / Krkonošský medvěd,NULL,Česká republika,restaurační pivovar,Vrchlabí,Královéhradecký kraj,"Horská 198, Vrchlabí",1995,NULL,NULL,https://www.pivovarskabasta.cz/pivovar,0,1
+190,Primátor,NULL,Česká republika,průmyslový pivovar,Náchod,Královéhradecký kraj,"Dobrošovská 130, Náchod",1872,27337201,PRIMÁTOR DISTRIBUCE s.r.o.,https://primator.cz,1,1
+191,Rambousek,NULL,Česká republika,uzavřený pivovar,Hradec Králové,Královéhradecký kraj,"Velké nám. 130, Hradec Králové",2002,933813,Josef Rambousek,https://rambousek.cz,0,0
+192,Rampušák Dobruška,NULL,Česká republika,minipivovar,Dobruška,Královéhradecký kraj,"Křovická 267, Dobruška",1870,NULL,NULL,https://www.pivovarrampusak.cz/,1,1
+193,Recesní pivovárek U Antéňáka,domovarnictví,Česká republika,domovarnictví,Hradec Králové,Královéhradecký kraj,"Pospíšilova 342, Hradec Králové",1995,NULL,Pivovárek U Antéňáka a Pivní klub,NULL,0,0
+194,Rodinný pivovar 713,NULL,Česká republika,minipivovar,Hradec Králové,Královéhradecký kraj,"Albertova 713, Hradec Králové",2015,NULL,"AREA-HK, s.r.o.",https://www.hradeckepivo.cz,1,1
+195,Rodinný pivovar Propper,NULL,Česká republika,uzavřený pivovar,Praskačka,Královéhradecký kraj,"Praskačka 71, Praskačka",2012,NULL,5P Brand Production spol. s r.o.,NULL,0,0
+196,Rodinný pivovárek Antonín,NULL,Česká republika,minipivovar,Stará Paka,Královéhradecký kraj,"Jaromíra Brože 230, Stará Paka",2020,7955847,Rodinný pivovárek Antonín s.r.o.,www.pivovar-antonin.cz,0,0
+197,Safari,NULL,Česká republika,restaurační pivovar,Dvůr Králové nad Labem,Královéhradecký kraj,"Štefánikova 3213, 54401 Dvůr Králové nad Labem",2018,14111349,SAFARI PIVOVAR s.r.o.,https://www.safaripivovar.cz/,1,1
+198,Tambor,NULL,Česká republika,průmyslový pivovar,Dvůr Králové nad Labem,Královéhradecký kraj,"Raisova 699, Dvůr Králové nad Labem",2009,3751031,Tambor capital s.r.o. v likvidaci,https://www.pivovar-tambor.cz,1,1
+199,U bojiště 1866 Miletín,NULL,Česká republika,minipivovar,Miletín,Královéhradecký kraj,"náměstí Karla Jaromíra Erbena 98, Miletín",1996,8835080,Pivovar Miletín s.r.o.,www.pivovarmiletin.cz,1,1
+200,U Hušků,NULL,Česká republika,restaurační pivovar,Běleč nad Orlicí,Královéhradecký kraj,"Běleč nad Orlicí 58, Třebechovice pod Orebem",1993,5404878,Pivovar u Hušků s.r.o.,https://pivovaruhusku.cz,1,1
+201,U Vacků,NULL,Česká republika,restaurační pivovar,Chlumec nad Cidlinou,Královéhradecký kraj,"Klicperova 52, Chlumec nad Cidlinou",2014,3864456,U Vacků s.r.o.,https://www.uvacku.cz/,1,1
+202,Beranův pivovar,NULL,Česká republika,létající pivovar,Trávníček,Liberecký kraj,Trávníček 14,2018,6748571,"Beranův pivovar, s.r.o.",https://www.beranuv-pivovar.cz/,1,0
+203,Born,NULL,Česká republika,minipivovar,Nový Bor,Liberecký kraj,"náměstí Míru 100, Nový Bor",2019,1116975,Michal Born,https://www.pivovarborn.cz/,1,1
+204,Cvikov,NULL,Česká republika,minipivovar,Cvikov,Liberecký kraj,"Pivovarská 405, Cvikov",2014,14384892,"Společenství vlastníků jednotek č.p. 55, ul. Pivovarská, Cvikov",https://pivovarcvikov.cz/cs/,1,1
+205,Hroch,NULL,Česká republika,minipivovar,Liberec,Liberecký kraj,"České mládeže 324/5, 46006 Liberec",2018,4694040,Martin Hroch,https://martinhroch.com,0,NULL
+206,Konrad,NULL,Česká republika,průmyslový pivovar,Vratislavice nad Nisou,Liberecký kraj,"Pivovarská 164, Vratislavice nad Nisou, Liberec 30",1872,965995,Pavel Konrád,https://pavelkonrad.cz,0,0
+207,Kosa Prérií,NULL,Česká republika,létající pivovar,Liberec,Liberecký kraj,Liberec,2020,NULL,Létající pivovar Kosa Prerií,https://www.facebook.com/kosa.prerii.3,0,0
+208,Kousek Piva,NULL,Česká republika,restaurační pivovar,Liberec,Liberecký kraj,"Hanychovskou 328/10, Liberec 7",2018,5941784,KOUSEK PIVA s.r.o.,https://www.kousekpiva.cz/,1,1
+209,Kristýna,NULL,Česká republika,uzavřený pivovar,Hrádek nad Nisou,Liberecký kraj,"Žitavská 745, Hrádek nad Nisou, Česko",2021,NULL,brewery innovation s.r.o.,https://pivovarkristyna.cz,0,0
+210,Lípák,NULL,Česká republika,létající pivovar,Česká Lípa,Liberecký kraj,"Hálkova 1691,  Česká Lípa",2017,NULL,Pavel Konvalina fyzická osoba,https://pivovarlipak.cz,1,0
+211,Lomnice nad Popelkou,NULL,Česká republika,minipivovar,Lomnice nad Popelkou,Liberecký kraj,"Poděbradova 49, 51251 Lomnice Nad Popelkou",2018,5553334,ŘEMESLNÝ PIVOVAR Lomnice nad Popelkou s.r.o.,https://lomnicenadpopelkou.cz,1,1
+212,Maloskalský pivovar,NULL,Česká republika,restaurační pivovar,Malá Skála,Liberecký kraj,"Labe 196, Malá Skála",2016,NULL,"První maloskalská, s.r.o.",https://www.maloskalskypivovar.cz/,1,1
+213,Měšťanský pivovar Turnov,NULL,Česká republika,minipivovar,Turnov,Liberecký kraj,"Na Lukách 669, 51101 Turnov",2018,24294381,Měšťanský pivovar Turnov a.s.,https://pivovarturnov.cz,1,1
+214,Minipivovar Studánka,NULL,Česká republika,restaurační pivovar,Liberec,Liberecký kraj,"Albrechtická 227, Krásná Studánka, Liberec 31",2010,60245239,Iva Vrbová fyzická osoba,NULL,NULL,1
+215,Na Perlíčku,NULL,Česká republika,restaurační pivovar,Paseky nad Jizerou,Liberecký kraj,"Paseky nad Jizerou 222, Paseky nad Jizerou",2017,3314006,Petr Lacina fyzická osoba,www.prdek.cz,1,1
+216,Novosad,NULL,Česká republika,restaurační pivovar,Harrachov,Liberecký kraj,"Harrachov 95, Harrachov",2002,982083,Petr Novosad,https://www.sklarnaharrachov.cz,1,1
+217,O.SKAR,NULL,Česká republika,létající pivovar,Jablonec nad Nisou,Liberecký kraj,Jablonec nad Nisou,2017,NULL,Ondřej Škarvada fyzická osoba,https://minipivovar-oskar.cz,0,0
+218,Rezek,NULL,Česká republika,restaurační pivovar,Zásada,Liberecký kraj,Zásada 154,2015,705683,František Rezek,https://www.pivovarrezek.cz/,1,1
+219,Rodinný pivovar Vendelín,NULL,Česká republika,restaurační pivovar,Liberec,Liberecký kraj,"Lukášovská 43, Liberec",1999,69388946,Václav Krkoška fyzická osoba,www.pivovarvendelin.cz,0,1
+220,Rohozec,NULL,Česká republika,průmyslový pivovar,Turnov,Liberecký kraj,"Malý Rohozec 29, Turnov",1850,26011603,"PIVOVAR ROHOZEC, a.s.",https://www.pivorohozec.cz/,1,1
+221,Skalický Budulínek,NULL,Česká republika,minipivovar,Skalice u České Lípy,Liberecký kraj,Skalice u České Lípy 464,2016,NULL,Rodinný pivovar Skalický Budulínek,https://www.facebook.com/profile.php?id=100057357375044,0,NULL
+222,Svijany,NULL,Česká republika,průmyslový pivovar,Svijany,Liberecký kraj,"Svijany 25, Příšovice",1564,25009699,"PIVOVAR SVIJANY - DISTRIBUCE, s.r.o.",https://www.pivovarsvijany.cz/,1,1
+223,U Čápa,Příchovice,Česká republika,restaurační pivovar,Příchovice,Liberecký kraj,Příchovice 1,2015,27564576,U Čápa Příchovice s.r.o.,https://www.ucapa.eu,1,1
+224,Vagabund,NULL,Česká republika,létající pivovar,Česká Lípa,Liberecký kraj,"Klášterní 249/2, Česká Lípa",2021,2443881,Vagabund Gym z.s.,https://www.facebook.com/pivovar.vagabund/,0,0
+225,Volt,NULL,Česká republika,restaurační pivovar,Jablonec nad Nisou,Liberecký kraj,"Palackého 2302/28, Jablonec n. Nisou",2017,6270077,Pivovar Volt s.r.o.,https://pivovarvolt.cz,1,1
+226,Zámecký pivovar Frýdlant,NULL,Česká republika,minipivovar,Frýdlant,Liberecký kraj,"Hejnická 4073, Frýdlant",2014,NULL,Pivovar Albrecht s.r.o.,https://www.facebook.com/PivovarAlbrecht/,0,NULL
+227,Zrzavá Veverka,NULL,Česká republika,připravovaný pivovar,Česká Lípa,Liberecký kraj,Neuvedeno,Neuvedeno,12785938,Roman Sklenka fyzická osoba,https://www.facebook.com/PivovarZrzavaVeverka.cz/,0,0
+228,Aero,NULL,Česká republika,restaurační pivovar,Ostrava,Moravskoslezský kraj,"Edisonova 795/88, Ostrava-Hrabůvka",2018,2127,AERO HOLDING a.s. v likvidaci,https://www.aero.cz/,1,1
+229,Albrechtický pivovar,NULL,Česká republika,minipivovar,Albrechtice,Moravskoslezský kraj,"Osvobození 43, Albrechtice",2017,NULL,Mecon Service s.r.o.,https://eshop.albrechtickypivovar.cz/,1,NULL
+230,Albrechtický pivovar,Karviná,Česká republika,uzavřený pivovar,Karviná,Moravskoslezský kraj,"Lešetinská 366/14, Karviná",2014,297534,Statutární město Karviná,https://www.albrechtickypivovar.cz,0,0
+231,Avar,NULL,Česká republika,restaurační pivovar,Hlučín,Moravskoslezský kraj,"Pode zdí 13, Hlučín",1993,1778170,AVAR Group s.r.o. v likvidaci,https://www.avarbrewing.com/,1,1
+232,Baraba,NULL,Česká republika,restaurační pivovar,Český Těšín,Moravskoslezský kraj,"Štefanikova 877/3, Český Těšín",2021,8712689,Spolek BARABA,https://www.pivobaraba.cz/,0,1
+233,Beerokracie,NULL,Česká republika,létající pivovar,Ostrava,Moravskoslezský kraj,"Hlavní třída 1031/35, Ostrava",2017,6420737,Beerokracie s.r.o.,https://www.beerokracie.cz/,1,0
+234,Beskydský pivovárek,NULL,Česká republika,restaurační pivovar,Ostravice,Moravskoslezský kraj,Ostravice 449,2013,29397405,"Beskydský pivovárek, s.r.o.",https://beskydskypivovarek.cz,1,1
+235,Brabčák Vratimov,NULL,Česká republika,minipivovar,Vratimov,Moravskoslezský kraj,"K Sokolovně 135, Vratimov",2012,29399335,Hostinec Ve Dvoře s.r.o.,www.pivobrabcak.cz,1,1
+236,Dejf,NULL,Česká republika,minipivovar,Studénka,Moravskoslezský kraj,"2. května 390, Studénka",2017,11953870,Dejf team s.r.o.,https://www.pivovardejf.cz/,1,1
+237,Dva Kusy,NULL,Česká republika,minipivovar,Třinec,Moravskoslezský kraj,"Karpentná 152, Třinec",2020,9170227,Dva Kusy s.r.o.,https://www.dvakusy.cz,1,0
+238,Dva plešouni,NULL,Česká republika,létající pivovar,Hýlov,Moravskoslezský kraj,"Hýlov 39, Klimkovice",2016,NULL,NULL,https://www.facebook.com/2plesouni/?locale=cs_CZ,0,0
+239,Garage Club / Pivovar Garage,NULL,Česká republika,restaurační pivovar,Ostrava,Moravskoslezský kraj,"Martinovská 50, Ostrava",2013,NULL,NULL,https://www.garageclub.cz/stranka/pivovar-garage,1,1
+240,Grove beer co.,NULL,Česká republika,létající pivovar,Ostrava,Moravskoslezský kraj,Ostrava,2018,NULL,Grove beer co.,NULL,NULL,0
+241,Hasič,NULL,Česká republika,minipivovar,Bruntál,Moravskoslezský kraj,Ruská 1448/1,2015,5032679,Hasič Jožák s.r.o.,https://hasicpivo.cz,1,1
+242,Heřmanický pivovar,NULL,Česká republika,minipivovar,Ostrava,Moravskoslezský kraj,"Vrbická 131, Ostrava-Heřmanice",2017,NULL,ISSA CZECH s.r.o.,https://hermanicky-pivovar.cz,1,1
+243,HoppyDog,NULL,Česká republika,minipivovar,Ostrava,Moravskoslezský kraj,"Kutuzovova 603/27, Ostrava-Vítkovice",2016,4714300,Pivovar HoppyDog s.r.o.,https://www.hoppydog.cz,1,1
+244,Hostinský pivovar a hotel Excelent,NULL,Česká republika,restaurační pivovar,Rýmařov,Moravskoslezský kraj,"Pivovarská 14, Rýmařov",1993,NULL,NULL,https://www.hotelexcelent.cz/pivovar/,1,1
+245,Karvinský pivovar Larische,NULL,Česká republika,restaurační pivovar,Karviná,Moravskoslezský kraj,"Polská 117/8, Karviná - Ráj",2013,NULL,"Karvinský pivovar, s.r.o.",https://www.facebook.com/KarvinskyPivovar/,0,1
+246,Koníček,NULL,Česká republika,průmyslový pivovar,Vojkovice,Moravskoslezský kraj,"Vojkovice 10, Dobrá",2006,1132962,David Koníček,https://www.pivovar-konicek.cz/,1,1
+247,Koňovárek,NULL,Česká republika,minipivovar,Vojkovice,Moravskoslezský kraj,"Vojkovice 49, Vojkovice",2018,5477310,Koníčkův dvůr s.r.o.,www.konickuv-dvur.cz,1,1
+248,Létající Bezdomovec,NULL,Česká republika,létající pivovar,Ostrava,Moravskoslezský kraj,"Oráčova 1013/1A, Ostrava",2016,NULL,Pivovar Létající Bezdomovec,https://letajicibezdomovec.cz,0,0
+249,Medojed,NULL,Česká republika,minipivovar,Ostrava,Moravskoslezský kraj,"Družební 460/122, 72526 Ostrava-Krásné Pole",2019,7058080,Medojed z.s.,https://medojed.cz,0,0
+250,Městský Karvinský pivovar,NULL,Česká republika,minipivovar,Karviná,Moravskoslezský kraj,"Pivovarská 17, Karviná - Fryštát",2014,NULL,Restart-beer s.r.o,https://www.mestskykarvinskypivovar.cz/,1,1
+251,Městský pivovar Štramberk,NULL,Česká republika,uzavřený pivovar,Štramberk,Moravskoslezský kraj,"Náměstí 5, 742 66 Štramberk",2005,NULL,"Šmíra-Print,s.r.o.",NULL,0,0
+252,Minipivovar Hukvaldy,NULL,Česká republika,restaurační pivovar,Hukvaldy,Moravskoslezský kraj,"Dolní Sklenov 19, Hukvaldy",2004,NULL,NULL,https://hukvaldy.cz,0,1
+253,Minipivovar Krmelín,NULL,Česká republika,restaurační pivovar,Krmelín,Moravskoslezský kraj,"Brušperská 24, Krmelín",2011,NULL,"Minipivovar Krmelín, U Hodže",https://www.krmelin.cz/,1,1
+254,Minipivovar Rohan,NULL,Česká republika,restaurační pivovar,Rohov,Moravskoslezský kraj,"Slezská 86, Rohov",2010,12121452,Artur Komárek fyzické osoba,https://www.pivorohan.cz/,1,1
+255,Minipivovar Třinec,NULL,Česká republika,uzavřený pivovar,Třinec,Moravskoslezský kraj,Třinec-Karpentná 152,2010,NULL,NULL,https://www.trinecko.cz/,0,0
+256,Morava,NULL,Česká republika,restaurační pivovar,Frýdek - Místek,Moravskoslezský kraj,"Jiřího Trnky 82, Frýdek - Místek",2013,302970,Obec Malá Morava,https://pivovarekmorava.cz/,1,1
+257,Morous,NULL,Česká republika,restaurační pivovar,Rýmařov,Moravskoslezský kraj,"Jesenická 4, 79501 Rýmařov",2019,9351299,MOROUS FOREVER s.r.o.,https://www.hotelslunce.eu/pivovar-morous-rymarov-jeseniky,1,1
+258,Nachmelená opice,NULL,Česká republika,minipivovar,Krnov,Moravskoslezský kraj,nám. Míru 153,2015,25857169,Nachmelená Opice s.r.o.,https://www.nachmelenaopice.cz/cs,1,1
+259,Nová Sladovna,NULL,Česká republika,restaurační pivovar,Opava,Moravskoslezský kraj,"U Fortny 49/10, Opava",2013,NULL,Gastronomie Opava s.r.o.,https://nova-sladovna.cz,1,1
+260,Ogar,Kunčický pivovar,Česká republika,restaurační pivovar,Kunčice pod Ondřejníkem,Moravskoslezský kraj,Kunčice pod Ondřejníkem 315,2017,4414055,Pivovar Ogar s.r.o.,https://www.pivovarogar.cz/,1,1
+261,Olbrew,NULL,Česká republika,minipivovar,Sedlnice,Moravskoslezský kraj,"Sedlnice 217, Sedlnice",2020,26092859,OLBREW s.r.o.,https://olbrew.cz,1,1
+262,Ostravar,Molson Coors,Česká republika,průmyslový pivovar,Ostrava,Moravskoslezský kraj,"Hornopolní 57, Ostrava 1",1897,63025710,ZO NOS PPP Pivovary Staropramen s.r.o. pivovar OSTRAVAR,https://www.ostravar.cz/,1,1
+263,Paličák Palačov,NULL,Česká republika,minipivovar,Palačov,Moravskoslezský kraj,"Palačov 43, Starý Jičín",2014,NULL,NULL,https://www.minipivovarpalicak.cz/,1,1
+264,Panský Mlýn,NULL,Česká republika,restaurační pivovar,Opava,Moravskoslezský kraj,U Panského mlýna 267,2015,NULL,Minipivovar Panský mlýn,https://www.panskymlynopava.cz,0,1
+265,Panský pivovar v Paskově,NULL,Česká republika,minipivovar,Paskov,Moravskoslezský kraj,"Nádražní 28, 739 21 Paskov",2019,NULL,"Bur & Ann. CZ, s.r.o.",https://pivovarpaskov.cz,0,0
+266,Penzion / pikopivovar Letohrádek,uzavřeno,Česká republika,uzavřený pivovar,Frýdlant nad Ostravicí,Moravskoslezský kraj,"U letohrádku 143, Frýdlant nad Ostravicí",2008,NULL,NULL,NULL,0,0
+267,Pivovarský dům Ostrava / Biovar,NULL,Česká republika,minipivovar,Ostrava,Moravskoslezský kraj,"Přívozská 34, Ostrava",2007,69243824,Jiří Štverka fyzická osoba,pivovarskydumostrava.webnode.cz,1,1
+268,Pod Kyčmolem / Minipivovar v Lomné,NULL,Česká republika,restaurační pivovar,Horní Lomná,Moravskoslezský kraj,"Horní Lomná 140, Horní Lomná",2011,NULL,NULL,https://www.visionhotels.cz/hotelpodkycmolem-beskydy/gastronomie/pivovar/?utm_source=google&utm_medium=cpc&utm_campaign=PER_PMAX_MIX_CZ~Ky%C4%8Dmol&utm_id=21327209028&gad_source=1&gad_campaignid=21327218574&gbraid=0AAAAA9eLxXgf6tI4OLN29rm9ijuaMZHC4&gclid=Cj0KCQjw2MbPBhCSARIsAP3jP9xbT72saEAWsDaeyPq0kNnD9PKquG68NfrKO1bQjoiv1PO9DdgAsTgaAp95EALw_wcB,1,1
+269,Podhorský pivovar,NULL,Česká republika,uzavřený pivovar,Frýdlant nad Ostravicí,Moravskoslezský kraj,"Náměstí 1, Frýdlant nad Ostravicí",2013,NULL,NULL,NULL,0,0
+270,Polivar,NULL,Česká republika,restaurační pivovar,Kopřivnice,Moravskoslezský kraj,"Štefánikova 1323, Kopřivnice",2015,24538582,Minipivovar POLIVAR s.r.o.,https://www.facebook.com/minipivovarpolivar/?locale=cs_CZ,0,1
+271,První havířovský minipivovar,NULL,Česká republika,uzavřený pivovar,Havířov,Moravskoslezský kraj,"Selská 8a, Havířov",2015,NULL,NULL,NULL,0,0
+272,Radas,NULL,Česká republika,minipivovar,Střítež,Moravskoslezský kraj,Střítež 98,2013,25914499,RADAS COLLECTION STIL s.r.o.,https://www.radas.cz,NULL,NULL
+273,Radegast,Asahi,Česká republika,průmyslový pivovar,Nošovice,Moravskoslezský kraj,"Nošovice 238, Nošovice",1970,60043750,"ZO NOS PPP Plzeňský Prazdroj a.s., Pivovar Radegast",https://www.radegast.cz/,0,NULL
+274,Restaurace a pivovar Kohutka,NULL,Česká republika,restaurační pivovar,Vyšní Lhoty,Moravskoslezský kraj,Vyšní Lhoty 197,2013,73023370,Ivana Březinová fyzická osoba,www.restauracekohutka.cz,1,1
+275,Skřečoňský Žabák,NULL,Česká republika,minipivovar,Bohumín,Moravskoslezský kraj,"Blatná 554, Bohumín-Skřečoň",2011,7524391,SKŘEČOŇSKÝ ŽABÁK s.r.o.,https://skreconskyzabak.cz,1,0
+276,Slezan,NULL,Česká republika,minipivovar,Leskovec,Moravskoslezský kraj,"Pivovar Slezan, Březová",2006,495824,"Tělovýchovná jednota Slezan Frýdek-Místek, z.s.",https://pivovarslezan.cz,1,1
+277,Slezský pivovar / Hostinec U Balona,NULL,Česká republika,restaurační pivovar,Havířov,Moravskoslezský kraj,"Selská 1329, Havířov",2014,NULL,NULL,https://ubalona.cz/,1,1
+278,Starobělský pivovar,NULL,Česká republika,minipivovar,Ostrava,Moravskoslezský kraj,"Proskovická 1169/215, Ostrava",2014,28658043,"STAROBĚLSKÝ PIVOVAR, a.s.",https://www.sbpivovar.cz,1,1
+279,Šenov,NULL,Česká republika,minipivovar,Šenov,Moravskoslezský kraj,"Obecní 6, 73934 Šenov",2019,297291,Město Šenov,https://www.pivovar-senov.cz/,1,1
+280,Troll,NULL,Česká republika,minipivovar,Ostrava,Moravskoslezský kraj,"Orlovská 778/143, Ostrava",2019,46580433,PIVOVAR TROLL s.r.o.,https://www.pivotroll.cz/,1,1
+281,Upside Down Brewing,NULL,Česká republika,létající pivovar,Ostrava,Moravskoslezský kraj,"Ostrava, Česko",2024,NULL,piwa.cz s.r.o.,https://www.facebook.com/UpsideDownBrewery,0,0
+282,Valašský pivovar v Kozlovicích,NULL,Česká republika,uzavřený pivovar,Kozlovice,Moravskoslezský kraj,"Kozlovice 1, Kozlovice",2008,NULL,Moravian food & beer s.r.o.,https://valasskypivovar.cz,0,0
+283,Venuše,NULL,Česká republika,uzavřený pivovar,Havířov,Moravskoslezský kraj,"Jílová 2, Havířov",2014,1096613,Venuše Dudyová Weinholdová,https://pivovarvenuse.cz,0,0
+284,Zámek Zábřeh - Pivovar Pikard,NULL,Česká republika,restaurační pivovar,Ostrava,Moravskoslezský kraj,"ul. U Zámku 42/1, Ostrava Jih - Zábřeh",2007,NULL,NULL,https://www.zamek-zabreh.cz/cs/restaurace-a-pivovar,1,1
+285,Zenke,NULL,Česká republika,minipivovar,Ženklava,Moravskoslezský kraj,Ženklava 210,2017,NULL,Daniel Buzek fyzická osoba,https://zenke.cz,1,1
+286,Zobak,NULL,Česká republika,restaurační pivovar,Bílovec,Moravskoslezský kraj,"Ostravská 5, Bílovec",2012,NULL,Petr Holub fyzická osoba,https://pivovarzobak.cz,0,1
+287,Žíznivý dromedár,NULL,Česká republika,restaurační pivovar,Ostrava,Moravskoslezský kraj,"Alberta Kučery 1274/14, 70030 Ostrava - Hrabůvka",2018,6965580,Žíznivý dromedár s.r.o.,https://www.ziznivydromedar.cz/,1,1
+288,Albert Michler Akciový Pivovar,NULL,Česká republika,minipivovar,Bernartice u Javorníka,Olomoucký kraj,"Buková 110, Bernartice u Javorníka, Česko",2023,NULL,Silezia Craft Brewery a.s.,https://albertmichlerpivovar.cz,1,1
+289,Axiom,NULL,Česká republika,minipivovar,Prostějov,Olomoucký kraj,"Průmyslová 3, 796 01 Prostějov",2019,6190774,AXIOM BREWERY s.r.o.,https://www.axiomtech.cz/,1,NULL
+290,Blázen na čepu,NULL,Česká republika,létající pivovar,Bludov,Olomoucký kraj,"Bludov, Olomoucký kraj, Česká republika",2019,NULL,Vlastislav Kubíček fyzická osoba,https://www.facebook.com/blazennacepu/?locale=cs_CZ,0,0
+291,Bravůr,uzavřeno,Česká republika,uzavřený pivovar,Loučná nad Desnou,Olomoucký kraj,"Filipová 65, Loučná nad Desnou",2009,NULL,Rodinný pivovar Bravůr,NULL,0,0
+292,Buchťák,NULL,Česká republika,restaurační pivovar,Olomouc,Olomoucký kraj,"Nemilany 308, Olomouc",2020,8125686,Lepší pivovar s.r.o.,buchtak.cz,0,1
+293,Castellum Brewery,NULL,Česká republika,létající pivovar,Kostelec na Hané,Olomoucký kraj,"Třebízského 508,  Kostelec na Hané",2022,6191771,Endlesspeak s.r.o.,https://castellumbrewery.cz,0,0
+294,Cestář,NULL,Česká republika,restaurační pivovar,Ostružná,Olomoucký kraj,Ostružná 41,2016,4437675,Novák a dcery s.r.o.,https://www.pivovarcestar.cz/,0,1
+295,Hanácký pivovar,NULL,Česká republika,minipivovar,Olomouc,Olomoucký kraj,"Šlechtitelů 139/14, Olomouc - Holice",2017,27772063,"Hanácký pivovar, s.r.o.",http://www.hanackypivovar.cz/cz,1,1
+296,Helf,Osečan,Česká republika,minipivovar,Osek nad Bečvou,Olomoucký kraj,Osek nad Bečvou 423,2012,NULL,Lipas s.r.o.,https://pivovarhelf.cz,1,1
+297,Holba,NULL,Česká republika,průmyslový pivovar,Hanušovice,Olomoucký kraj,"Pivovarská 261, Hanušovice",1874,982580,Jakub Holba,https://www.holba.cz/,1,1
+298,Hostinský pivovar Moritz,NULL,Česká republika,restaurační pivovar,Olomouc,Olomoucký kraj,"Nešverova 2, Olomouc",2006,27772306,"Hostinský pivovar Moritz, a.s.",https://www.hostinec-moritz.cz,NULL,1
+299,Chomout,NULL,Česká republika,restaurační pivovar,Olomouc,Olomoucký kraj,"Dalimilova 18/92, Olomouc",2014,1446142,CHOMOUT prodej s.r.o.,https://pivochomout.cz,1,1
+300,Chors,NULL,Česká republika,minipivovar,Černotín,Olomoucký kraj,"Černotín 45, 75368 Černotín",2018,6915426,Pivovar CHORS s.r.o.,https://www.pivovar-chors.cz/,1,NULL
+301,Jadrníček,NULL,Česká republika,restaurační pivovar,Náměšť na Hané,Olomoucký kraj,"Komenského 318, Náměšť na Hané",2015,3244032,Luboš Jadrníček,https://jadrnicek.cz/cs,0,1
+302,Jeseník,NULL,Česká republika,uzavřený pivovar,Jeseník,Olomoucký kraj,"Otakara Březiny 1369/002B, Jeseník",2011,53571,Stavební bytové družstvo Jeseník,NULL,0,0
+303,Jižan,NULL,Česká republika,uzavřený pivovar,Přerov,Olomoucký kraj,"Jižní čtvrť III/11, Přerov",2016,22707930,Spolek Osada Jižan,NULL,0,0
+304,Kobeřice,NULL,Česká republika,minipivovar,Hradčany-Kobeřice,Olomoucký kraj,"Kobeřice 60, Hradčany-Kobeřice",2017,300241,Obec Kobeřice,NULL,NULL,NULL
+305,Kobzuv pivovar,NULL,Česká republika,létající pivovar,Bludov,Olomoucký kraj,"Bohutínská 913, Bludov, Česko",2023,NULL,ROLKO BLUDOV s.r.o.,https://www.kobzuvpivovar.cz/,1,0
+306,Kojetín,NULL,Česká republika,restaurační pivovar,Kojetín,Olomoucký kraj,"Kroměřížská 109, Kojetín I-Město, 752 01 Kojetín",2022,9842039,"Měšťanský pivovar Kojetín, a.s.",https://pivovarkojetin.cz/cs_cz/,NULL,1
+307,Koliba & pivovar U Tří králů,NULL,Česká republika,restaurační pivovar,Prostějov,Olomoucký kraj,"Finská ulice 8, Prostějov",2011,NULL,NULL,https://kolibaprostejov.cz/,1,1
+308,Kosíř,NULL,Česká republika,restaurační pivovar,Lhota pod Kosířem,Olomoucký kraj,Lhota pod Kosířem 10,2014,3277291,Pivovar KOSÍŘ s.r.o.,https://www.facebook.com/pivovarkosir/?locale=cs_CZ,0,1
+309,Lipník,NULL,Česká republika,restaurační pivovar,Lipník nad Bečvou,Olomoucký kraj,"Novosady 164, Lipník nad Bečvou",2004,97811,"Technické služby Lipník nad Bečvou, příspěvková organizace",https://pivovarlipnik.cz:443/?lang=cs,1,1
+310,Litovel,NULL,Česká republika,průmyslový pivovar,Litovel,Olomoucký kraj,"Palackého 934, Litovel",1893,299138,Město Litovel,https://www.litovel.cz/cs/,1,1
+311,Mazal,NULL,Česká republika,uzavřený pivovar,Prostějov,Olomoucký kraj,"Josefa Hory 347/2, Prostějov - Vrahovice",2014,5087457,Jiří Mazal,https://mazal.com,0,0
+312,Minipivovar a restaurace Kolštejn,NULL,Česká republika,restaurační pivovar,Branná,Olomoucký kraj,"Branná 56, Branná",2013,NULL,NULL,https://kolstejn.cz/minipivovar/,1,1
+313,Minipivovar Olomouc - Svatý Kopeček,NULL,Česká republika,minipivovar,Olomouc,Olomoucký kraj,"Krejčího 122/4, Olomouc-Svatý Kopeček",2012,NULL,NULL,https://svatokopeckepivo.cz/,1,1
+314,Náměšťský pivovar,NULL,Česká republika,restaurační pivovar,Náměšť na Hané,Olomoucký kraj,"Zákostelí 77, Náměšť na Hané",2020,NULL,Roman Zbořil fyzická osoba,https://www.namestskypivovar.cz/,0,1
+315,Němčice,NULL,Česká republika,restaurační pivovar,Němčice Nad Hanou,Olomoucký kraj,"Masarykova 665, 79827 Němčice Nad Hanou",2019,288497,Město Němčice nad Hanou,https://pivovar-nemcice.cz/,1,1
+316,Ničitel,NULL,Česká republika,létající pivovar,Velká Bystřice,Olomoucký kraj,"Loučná 739, Velká Bystřice",2020,NULL,Pivovar Ničitel,https://pivovarnicitel.cz,1,0
+317,Novodvorský pivovar,NULL,Česká republika,restaurační pivovar,Nové Dvory,Olomoucký kraj,"Nové Dvory 70, Lipník nad Bečvou",2015,NULL,Yveta Vaculíková fyzická osoba,https://www.pivovarnovedvory.cz/,1,1
+318,Panský pivovar Týn nad Bečvou,NULL,Česká republika,minipivovar,Lipník nad Bečvou,Olomoucký kraj,"Zahradní 1330, Lipník nad Bečvou",2020,NULL,Pivovar Týn s.r.o.,https://pivovar-tyn.cz,0,0
+319,Parník,NULL,Česká republika,restaurační pivovar,Přerov,Olomoucký kraj,"Tovární 6, Přerov",2009,62361449,Minipivovar Parník s.r.o.,https://www.parnikpivovar.cz/,1,1
+320,Pidipivovar Pod Kalousem,NULL,Česká republika,minipivovar,Žerotín,Olomoucký kraj,Žerotín 101,2020,NULL,Martin Trokan fyzická osoba,https://podkalousem.cz,0,0
+321,Pivovárek Melichárek,NULL,Česká republika,minipivovar,Horka nad Moravou,Olomoucký kraj,"1.máje 10, Horka nad Moravou",2013,NULL,Petr Melichárek fyzická osoba,https://pivovarekmelicharek.cz,1,1
+322,Riegrovka,NULL,Česká republika,uzavřený pivovar,Olomouc,Olomoucký kraj,"Riegrova 22, Olomouc",2016,10778756,Riegrovka s.r.o.,https://www.riegrovka.cz,0,0
+323,Rodák,NULL,Česká republika,létající pivovar,Prostějov,Olomoucký kraj,"Hlaváčkovo náměstí 217/1, Prostějov",2017,5559901,Pivovar Rodák s.r.o.,https://pivovarrodak.cz,NULL,0
+324,Řemeslný pivovar Husar,NULL,Česká republika,minipivovar,Koválovice-Osíčany,Olomoucký kraj,Koválovice-Osíčany 57,2015,NULL,TEROSOL s.r.o.,https://www.pivohusar.cz,1,1
+325,Sternbeer Šternberk,NULL,Česká republika,minipivovar,Šternberk,Olomoucký kraj,"Bezručova 14, 78501 Šternberk",2016,NULL,NULL,https://www.sternbeer.cz/,NULL,1
+326,Svatováclavský pivovar,NULL,Česká republika,restaurační pivovar,Olomouc,Olomoucký kraj,"Mariánska 4, Olomouc",2006,28594410,SVATOVÁCLAVSKÝ PIVOVAR s.r.o.,https://svatovaclavsky-pivovar.cz,1,1
+327,Švejk restaurant U Mačáků / Mačák Hodolany,NULL,Česká republika,uzavřený pivovar,Olomouc,Olomoucký kraj,"Elišky Krásnohorské 24, Olomouc",2013,NULL,NULL,NULL,0,0
+328,Trubadúr,NULL,Česká republika,uzavřený pivovar,Troubelice,Olomoucký kraj,"Troubelice 252, Troubelice",2014,NULL,NULL,NULL,0,0
+329,Tvarg,NULL,Česká republika,restaurační pivovar,Velká Bystřice,Olomoucký kraj,"Pivovarská 899, Velká Bystřice",2020,NULL,Tavoretus a.s.,https://www.tvarg.cz/,1,1
+330,Twinberg,NULL,Česká republika,minipivovar,Olomouc,Olomoucký kraj,"Řepčínská 340/105, 779 00 Olomouc 9",2023,6998411,TWINBERG Brew s.r.o.,https://www.twinberg.cz/,1,1
+331,U Císařské cesty,NULL,Česká republika,uzavřený pivovar,Držovice,Olomoucký kraj,"Olomoucká 262, Držovice",2014,NULL,PLACER EMINENT group s.r.o.,NULL,0,0
+332,U Jirsáka,NULL,Česká republika,restaurační pivovar,Šumperk,Olomoucký kraj,"Vikýřovice 128,  Vikýřovice",2017,NULL,TERASA s.r.o.,https://penzionjirsak.cz/,0,1
+333,U krále Ječmínka,NULL,Česká republika,restaurační pivovar,Prostějov,Olomoucký kraj,"Újezd 4a, Prostějov",2000,24199966,U krále Ječmínka s.r.o.,https://www.ujecminka.cz/,1,1
+334,Velkorakovský minipivovar,NULL,Česká republika,minipivovar,Raková u Konice,Olomoucký kraj,"Raková u Konice 116, Raková u Konice",2017,NULL,Velkorakovský minipivovar s. r. o.,https://www.velkorakovskepivo.cz/,NULL,NULL
+335,Welzl Zábřeh,NULL,Česká republika,restaurační pivovar,Zábřeh,Olomoucký kraj,"Krumpach 24a, Zábřeh",2016,NULL,NULL,https://www.zabreh-pivovar.cz/pivnice-118/,1,1
+336,Z-Stage,NULL,Česká republika,minipivovar,Velká Bystřice,Olomoucký kraj,"ČSA 556, Velká Bystřice",2017,NULL,NULL,https://z-stage.cz,1,NULL
+337,Zámecký pivovar Sobotín,NULL,Česká republika,minipivovar,Sobotín,Olomoucký kraj,"Sobotín 13, Sobotín",2014,NULL,NULL,https://www.resortsobotin.cz/apartmany-albert/cz/Degustace-piva/,1,1
+338,Zlosin,NULL,Česká republika,restaurační pivovar,Velké Losiny,Olomoucký kraj,"Žárovská 10, Velké Losiny",2016,4794036,Zlosin s.r.o.,https://zlosin.com/,1,1
+339,Zubr,NULL,Česká republika,průmyslový pivovar,Přerov,Olomoucký kraj,"Komenského 35, Přerov",1872,9720618,Pivovary Zubr a.s.,https://www.zubr.cz/,1,1
+340,Arnošt,NULL,Česká republika,uzavřený pivovar,Pardubice,Pardubický kraj,"Palackého 250, Pardubice",2016,761541,Arnošt Panhans,NULL,0,0
+341,Bahno Prachovice,NULL,Česká republika,uzavřený pivovar,Prachovice,Pardubický kraj,"Bučina 233, Prachovice",2020,NULL,Pivovar Bahno s.r.o.,NULL,0,0
+342,Bartoš,NULL,Česká republika,létající pivovar,Horní Dobrouč,Pardubický kraj,Horní Dobrouč 17,2021,14055112,"Pivovar Bartoš a.s., v likvidaci",https://bartos.cz,0,0
+343,Beer Poets,NULL,Česká republika,létající pivovar,Pardubice,Pardubický kraj,"Bělobranské náměstí 9, Pardubice",2017,NULL,Létající pivovar Beer Poets,https://beerpoets.webnode.cz,1,0
+344,Dašice,NULL,Česká republika,restaurační pivovar,Dašice,Pardubický kraj,"Komenského 27, Dašice",2017,3259803,Pivovar Dašice CR s.r.o.,https://dasickesklepy.cz/,1,1
+345,Faltus,NULL,Česká republika,restaurační pivovar,Česká Třebová,Pardubický kraj,"Moravská 207, Česká Třebová",2012,1191284,Adam Faltus,https://www.faltus.cz/,1,1
+346,Filištín,NULL,Česká republika,minipivovar,Chrudim,Pardubický kraj,"Filištínská 34, Chrudim",2017,4897889,Chrudimský pivovar Filištín s.r.o.,https://www.facebook.com/profile.php?id=100063562420871#,0,NULL
+347,Fousek Loučky,NULL,Česká republika,uzavřený pivovar,Lukavice - Loučky,Pardubický kraj,"Loučky 1, 538 21 Lukavice - Loučky",2022,NULL,NULL,NULL,0,0
+348,Kalous,domovarnictví,Česká republika,domovarnictví,Neuvedeno,Olomoucký kraj,"Žerotín 101, 784 01 p. Litovel",2020,NULL,NULL,https://podkalousem.cz/,0,0
+349,Kutílkova palírna a pivovar,NULL,Česká republika,minipivovar,Žlebské Chvalovice,Pardubický kraj,"Žlebské Chvalovice 88, Třemošnice",2010,45520241,Jaroslav Kutílek fyzická osoba,kutilkovapalirna.cz,1,1
+350,Letohradský Jelen,NULL,Česká republika,minipivovar,Žamberk,Pardubický kraj,"Na Drahách 444, Žamberk",2014,1685422,JZD Letohrad a.s.,https://www.facebook.com/letohradskyjelen/?locale=cs_CZ,0,NULL
+351,Loutkář,NULL,Česká republika,restaurační pivovar,Chrudim,Pardubický kraj,"Čs. armády 421, Chrudim",2020,8541957,PIVOVAR LOUTKÁŘ s.r.o.,https://pivovarloutkar.cz,1,1
+352,Medlešice,NULL,Česká republika,restaurační pivovar,Medlešice,Pardubický kraj,"Medlešice 2, Chrudim - Medlešice",2000,15054594,FC Viking Medlešice,https://www.medlesice.cz,1,1
+353,Mejto,Kujeba,Česká republika,minipivovar,Vysoké Mýto,Pardubický kraj,"Masarykovo náměstí 155, Vysoké Mýto",2015,NULL,Evžen Řehák fyzická osoba,https://www.pivovarmejto.cz,1,1
+354,Měšťanský pivovar Kujebák,NULL,Česká republika,restaurační pivovar,Vysoké Mýto,Pardubický kraj,"Husova 216, Vysoké Mýto",2018,NULL,Marek Mandík fyzická osoba,https://www.pivovarkujebak.cz,1,1
+355,Měšťanský pivovar Ústí nad Orlicí,NULL,Česká republika,restaurační pivovar,Ústí nad Orlicí,Pardubický kraj,"Třebovská 1, Ústí nad Orlicí - Hylváty",2022,NULL,"HELP, silnice - železnice s.r.o.",https://pivovar-ustinadorlici.cz,1,1
+356,Minipivovar Bahno,NULL,Česká republika,uzavřený pivovar,Pardubice,Pardubický kraj,"náměstí Jana Pernera 217, Pardubice",2016,NULL,Martin Lammers fyzická osoba,NULL,0,0
+357,Mlejn,NULL,Česká republika,minipivovar,Rozstání,Pardubický kraj,"Rozstání 31, 571 01 Rozstání",2022,10743031,Pivovar Mlejn s.r.o.,https://preview.mailerlite.io/preview/193837/sites/69284473220367436/,1,0
+358,Mordýř,NULL,Česká republika,minipivovar,Dolní Ředice,Pardubický kraj,"Dašická 300, Dolní Ředice",2013,1445553,PIVOVAR MORDÝŘ s.r.o.,https://pivovarmordyr.cz,1,1
+359,Na Políčkách,NULL,Česká republika,minipivovar,Polička,Pardubický kraj,"Jungmannova 325, Polička",2022,NULL,Pivovar Na Políčkách,https://www.facebook.com/pivovarnapolickach/?locale=cs_CZ,0,NULL
+360,Pardubický pivovar,NULL,Česká republika,průmyslový pivovar,Pardubice,Pardubický kraj,"Palackého třída 250, Pardubice",1871,47468556,Pardubický pivovar a.s.,https://pardubicky.cz,0,0
+361,Pol A Czech,NULL,Česká republika,létající pivovar,Žamberk,Pardubický kraj,"Na Drahách 444, Žamberk",2015,NULL,NULL,https://www.facebook.com/polaczechpivovar/?locale=cs_CZ,0,0
+362,Polička,NULL,Česká republika,průmyslový pivovar,Polička,Pardubický kraj,"Pivovarská 151, Polička",1517,45705,Bytové družstvo Polička,https://www.policka.cz,0,0
+363,Rychtář,"Pivovary Lobkowicz, a.s.",Česká republika,průmyslový pivovar,Hlinsko v Čechách,Pardubický kraj,"Resslova 260, Hlinsko v Čechách",1913,NULL,Pivovar Rychtář a.s.,https://www.rychtar.cz/,1,1
+364,Svitavský pivovárek Na Kopečku,NULL,Česká republika,restaurační pivovar,Svitavy,Pardubický kraj,"Radiměřská 5a, Svitavy",2011,NULL,Brewmasters s.r.o.,https://www.pivovareknakopecku.cz/,1,1
+365,Třebovský mlýn,NULL,Česká republika,minipivovar,Dlouhá Třebová,Pardubický kraj,"Na Rybníku 75, Dlouhá Třebová",2019,NULL,"Tomáš Buček CONSULTING, s.r.o.",https://www.facebook.com/Trebovskymlyn1/,0,NULL
+366,U Černého medvěda,NULL,Česká republika,restaurační pivovar,Jablonné nad Orlicí,Pardubický kraj,"Náměstí 5. května 24, Jablonné nad Orlicí",2016,NULL,Adlerka spol. s r.o.,https://www.cernymedved.cz,1,1
+367,U Vojtěchů,NULL,Česká republika,restaurační pivovar,Pardubice,Pardubický kraj,"Pod Lipami 24, Pardubice",2020,NULL,Martin Vojtěch fyzická osoba,https://www.pivovaruvojtechu.cz/,1,1
+368,Veselka,NULL,Česká republika,restaurační pivovar,Litomyšl,Pardubický kraj,"Terezy Novákové 64, Litomyšl",2013,951773,Michal Veselka,https://www.veselka.cz/,1,1
+369,Vichr,NULL,Česká republika,minipivovar,Jaroměřice,Pardubický kraj,"Jaroměřice 23, 56944 Jaromeric",2019,6886299,VIcHR Jaroměřický minipivovar s.r.o.,https://pivovichr.cz,1,1
+370,Volf,NULL,Česká republika,minipivovar,Široký Důl,Pardubický kraj,"Široký Důl 62, 57201 Polička",2018,670944,J.I. Volf s.r.o.,https://volf.com,0,1
+371,Žamberecký kanec,NULL,Česká republika,restaurační pivovar,Žamberk,Pardubický kraj,"České armády 1400, Žamberk",1997,NULL,ERADO a.s,https://pivovarzamberk.cz/,1,1
+372,1. Roudenský pivovar,NULL,Česká republika,restaurační pivovar,Plzeň,Plzeňský kraj,"Na Roudné 17, Plzeň",2018,NULL,ROUDNÁ SOBĚ s.r.o.,https://www.saloonroudna.cz,0,1
+373,Akciový pivovar Letiny,NULL,Česká republika,restaurační pivovar,Letiny,Plzeňský kraj,Letiny 66,2013,3103854,Akciový pivovar LETINY a.s.,https://www.facebook.com/pivovarletiny/?locale=cs_CZ,0,1
+374,Beer Factory,NULL,Česká republika,uzavřený pivovar,Plzeň,Plzeňský kraj,"Dominikánská 8, Plzeň",2016,NULL,Beer Factory s.r.o.,https://beer-factory.cz/,0,0
+375,Belvedér,NULL,Česká republika,restaurační pivovar,Železná Ruda,Plzeňský kraj,"Železná Ruda 189, Železná Ruda",2007,3936686,Hotel a Pivovar Belveder Železná Ruda s.r.o.,https://www.hotelbelveder.cz/belveder/pivovar.asp,0,1
+376,Bezděkov,NULL,Česká republika,uzavřený pivovar,Bezděkov,Plzeňský kraj,"Bezděkov 75, 339 01 Bezděkov",2014,255220,Obec Bezděkov,NULL,0,0
+377,Blahovar,NULL,Česká republika,uzavřený pivovar,Plzeň,Plzeňský kraj,"Mozartova 1, Plzeň",2015,NULL,"Blahovar, spol. s r.o.",NULL,0,0
+378,Čepický minipivovar,NULL,Česká republika,minipivovar,Rabí,Plzeňský kraj,"Čepice 4, Rabí-Čepice",2017,5450659,Čepický minipivovar s.r.o.,https://www.facebook.com/minipivovarcepice/?locale=cs_CZ,0,NULL
+379,Elektrárna,Proud,Česká republika,minipivovar,Plzeň,Plzeňský kraj,"U Prazdroje 64/7, Plzeň",2020,NULL,"Plzeňský Prazdroj,a.s.",https://pivozelektrarny.cz,1,1
+380,Groll,NULL,Česká republika,uzavřený pivovar,Plzeň,Plzeňský kraj,"Truhlářská 10, Plzeň",2008,29113539,Pivovar Groll a.s.,NULL,0,0
+381,Chodovar,NULL,Česká republika,průmyslový pivovar,Chodová Planá,Plzeňský kraj,"Pivovarská 107, Chodová Planá",1573,18252125,CHODOVAR spol. s r.o.,https://www.chodovar.cz/id1001cz-home.htm,1,NULL
+382,Joe’s Garage,NULL,Česká republika,minipivovar,Plzeň,Plzeňský kraj,"K Fořtovně 7, Plzeň",2006,29138973,Joe's Garage Live s.r.o.,https://www.joesgarage.cz/cs,0,NULL
+383,Kalikovar,NULL,Česká republika,restaurační pivovar,Plzeň,Plzeňský kraj,"Radčická 60/40, Plzeň",2017,NULL,"Plzeňské měšťanské pivovary, s.r.o.",NULL,NULL,1
+384,Kašperskohorský pivovar,NULL,Česká republika,restaurační pivovar,Kašperské Hory,Plzeňský kraj,"Náměstí 5, Kašperské Hory",2016,NULL,Kašperský pivovar s.r.o.,https://www.kasperskypivovar.cz,1,1
+385,KH Gurmán,NULL,Česká republika,restaurační pivovar,Horšovský Týn,Plzeňský kraj,"Náměstí Republiky 2, Horšovský Týn",2014,NULL,1.JK - TREND STAV s.r.o.,https://www.hotel-gurman.cz,1,1
+386,Klenot Radnice,NULL,Česká republika,minipivovar,Radnice,Plzeňský kraj,"Puchmajerova 639, 338 28 Radnice",2014,65552890,Zdeněk Mulač fyzická osoba,www.pivovar-radnice.cz,1,1
+387,Knížecí Pivovar Plasy,NULL,Česká republika,restaurační pivovar,Plasy,Plzeňský kraj,Pivovarská 34,2015,29370256,Knížecí pivovar Plasy s.r.o.,https://www.pivovarplasy.cz,0,1
+388,Kout na Šumavě,NULL,Česká republika,uzavřený pivovar,Kout na Šumavě,Plzeňský kraj,"Kout na Šumavě 2, Kout na Šumavě",1736,22478566,STADIONER PIVOVAR KOUT NA ŠUMAVĚ s.r.o.,https://www.koutnasumave.cz/,0,0
+389,Kozojedy,NULL,Česká republika,restaurační pivovar,Kozojedy,Plzeňský kraj,"Kozojedy 120, 331 41 Kozojedy",2016,4902751,Pivovar Kozojedy s.r.o.,https://pivovarkozojedy.cz,NULL,1
+390,Létající Pivovar Zbirožák,NULL,Česká republika,létající pivovar,Zbiroh,Plzeňský kraj,Zbiroh,2020,NULL,Létající pivovar Zbirožák,https://www.facebook.com/pivovarzbirozak/,0,0
+391,Loužek,domovarnictví,Česká republika,domovarnictví,Kamenný Újezd,Plzeňský kraj,Kamenný Újezd 268,2015,5343607,Lubomír Otec fyzická osoba,www.louzek.cz,0,0
+392,Lyer Modrava,NULL,Česká republika,restaurační pivovar,Modrava,Plzeňský kraj,"Modrava 2e, Kašperské Hory",2014,4050029,LYER MODRAVA s.r.o.,https://www.pivovarmodrava.cz/lyer/,0,1
+393,Městský pivovar Domažlice,NULL,Česká republika,restaurační pivovar,Domažlice,Plzeňský kraj,"Pivovarská 10, Domažlice",2020,NULL,Domažlické městské lesy spol. s r. o.,https://www.pivovardomazlice.cz,1,1
+394,Měšťanský pivovar v Klatovech,NULL,Česká republika,minipivovar,Klatovy,Plzeňský kraj,Budovcova 833,2015,NULL,NULL,http://www.klatovskepivo.cz/,0,0
+395,Modrá Hvězda,NULL,Česká republika,restaurační pivovar,Dobřany,Plzeňský kraj,"Náměstí TGM 159, Dobřany",1998,670936,Pivovar - restaurant MODRÁ HVĚZDA s.r.o.,https://www.modra-hvezda.cz/,1,1
+396,Modrý abbé,NULL,Česká republika,uzavřený pivovar,Klatovy,Plzeňský kraj,"Dobrovského 150,  Klatovy 2",2009,NULL,NULL,NULL,0,0
+397,Pašák,NULL,Česká republika,uzavřený pivovar,Plzeň,Plzeňský kraj,"Poděbradova 12, Plzeň, Plzeňský kraj",2010,3556379,Mgr. Zdeněk PASÁK,https://www.pasak.cz/,0,0
+398,Patron,NULL,Česká republika,létající pivovar,Rabí,Plzeňský kraj,"Čepice 21, Rabí - Čepice",2015,537501,DROŽSTVO PATRON,https://patron.com,0,0
+399,Pivovar Chříč,NULL,Česká republika,restaurační pivovar,Chříč,Plzeňský kraj,Chříč 2,2015,29089051,Pivovar Chříč s.r.o.,https://www.pivovarchric.cz/,1,1
+400,Pivovar Petr Petružálek,NULL,Česká republika,minipivovar,Merklín,Plzeňský kraj,"Za školou 383, Merklín",2019,NULL,Petr Petružálek fyzická osoba,https://www.pivovarpetrpetruzalek.cz/,1,1
+401,Plzeňský Bandita,NULL,Česká republika,minipivovar,Plzeň,Plzeňský kraj,"Nová 530/5, Plzeň",2018,6111696,Plzeňský bandita s.r.o.,https://www.plzenskybandita.cz,0,1
+402,Plzeňský Jarovar,NULL,Česká republika,létající pivovar,Plzeň,Plzeňský kraj,Plzeň,2018,NULL,NULL,https://www.facebook.com/plzenskyjarovar/,0,0
+403,Plzeňský Prazdroj,Asahi,Česká republika,průmyslový pivovar,Plzeň,Plzeňský kraj,"U Prazdroje 7, Plzeň",1842,45357366,"Plzeňský Prazdroj, a. s.",https://www.prazdroj.cz/,1,1
+404,Pod Lípou Kyšice,NULL,Česká republika,restaurační pivovar,Kyšice,Plzeňský kraj,"Náves 20, Kyšice",2013,NULL,NULL,https://www.pivovarpodlipou.com/,1,1
+405,Příšov,NULL,Česká republika,uzavřený pivovar,Příšov,Plzeňský kraj,"Příšov 30, Plzeň-Sever",2015,573043,Obec Příšov,https://www.obec-prisov.cz/,0,0
+406,Purkmistr,NULL,Česká republika,restaurační pivovar,Plzeň,Plzeňský kraj,"Selská náves 21/2, Plzeň",2007,NULL,LUKR CZ a.s.,https://www.purkmistr.cz/,1,1
+407,Radnice,NULL,Česká republika,minipivovar,Radnice,Plzeňský kraj,"Puchmajerova 606, Radnice",2012,259021,Město Radnice,https://pivovar-radnice.cz/,1,1
+408,Radouš,NULL,Česká republika,minipivovar,Druztová,Plzeňský kraj,"Druztová 50, 33007 Šťáhlavy",2011,25100904,VK Radouš s.r.o.,https://pivoradous.cz,1,1
+409,Raven,NULL,Česká republika,minipivovar,Plzeň,Plzeňský kraj,"Mozartova 1, Plzeň",2015,17408571,Panorama RAVEN s.r.o.,https://raven.cz,0,0
+410,Rodinný pivovar Radobyčice,NULL,Česká republika,restaurační pivovar,Plzeň,Plzeňský kraj,Radobyčická náves 318,2016,87912881,Jitka Holubová fyzická osoba,www.pivovarradobycice.cz,1,1
+411,Srní,NULL,Česká republika,restaurační pivovar,Srní,Plzeňský kraj,Srní 45,2013,256081,Obec Srní,https://www.sumava.net/ousrni/,0,1
+412,Stará škola,NULL,Česká republika,restaurační pivovar,Chudenice,Plzeňský kraj,"Mírové náměstí 42, Chudenice",2012,29100828,"Stará Škola, spol. s r.o.",http://www2.stara-skola.com/,0,1
+413,Staropilsen,NULL,Česká republika,létající pivovar,Plzeň,Plzeňský kraj,"Na Roudné 443/18, Plzeň",2012,29098815,STAROPILSEN s.r.o.,https://staropilsen.cz,1,0
+414,Šťáhlavický Pivovar U Šenkýřů,NULL,Česká republika,minipivovar,Šťáhlavice,Plzeňský kraj,"Šťáhlavice 150, Šťáhlavice",2017,NULL,Haneza s.r.o.,https://pivovarstahlavice.cz,1,1
+415,TamTam Brewing Co.,NULL,Česká republika,létající pivovar,Plzeň,Plzeňský kraj,"Kpt. Jaroše 1174/17, Plzeň",2024,5755280,Tamara Dolníčková fyzická osoba,https://www.tamtambrewing.com/,1,0
+416,The Barn Beer Co.,NULL,Česká republika,létající pivovar,Druztová,Plzeňský kraj,Druztová 50,2020,NULL,The Barn Beer co.,https://pivoradous.cz/barn-2/,1,0
+417,U Bizona,NULL,Česká republika,restaurační pivovar,Čižice,Plzeňský kraj,"Čižice 76, Štěnovice",2011,27686639,"RANČ U BIZONA, s.r.o.",ubizona.eu,1,1
+418,U Lenocha,NULL,Česká republika,minipivovar,Plzeň,Plzeňský kraj,"Pod Rozhlednou 31, Plzeň",2015,NULL,Pivovar U Lenocha,https://www.pivovarulenocha.cz/,1,1
+419,U Přeška,NULL,Česká republika,restaurační pivovar,Přeštice,Plzeňský kraj,"Masarykovo nám. 311, Přeštice",2017,NULL,NULL,https://www.tadyjepreskovo.cz/,1,1
+420,U Pujiče,NULL,Česká republika,minipivovar,Lazny,Plzeňský kraj,"Lazny 136, 342 01 Lazny",2014,3940225,Pavel Kašák fyzická osoba,www.pidipivovarek.cz,1,NULL
+421,U Rybiček,uzavřeno,Česká republika,uzavřený pivovar,Stříbro,Plzeňský kraj,"Plzeňská 31, Stříbro, Plzeňský kraj",2007,NULL,David Ryba fyzická osoba,NULL,0,0
+422,U rytíře Lochoty,uzavřeno,Česká republika,uzavřený pivovar,Plzeň,Plzeňský kraj,"Karlovarská 103, Plzeň",2002,NULL,Alloza s.r.o.,NULL,0,0
+423,U Stočesů,NULL,Česká republika,restaurační pivovar,Rokycany,Plzeňský kraj,"Sokolská 282, Rokycany",2011,NULL,100čes s.r.o.,https://www.ustocesu.cz,1,1
+424,U Švelchů,NULL,Česká republika,restaurační pivovar,Sušice,Plzeňský kraj,"Nuželická 25, Sušice",2014,NULL,"ŠVELCH, s.r.o.",https://www.pivovarusvelchu.cz/,1,1
+425,Vlček,NULL,Česká republika,minipivovar,Horažďovice,Plzeňský kraj,"Strakonická 160, 341 01 Horažďovice",2022,68802820,Pavel Vlček fyzická osoba,www.minipivovarhorazdovice.cz,1,1
+426,Zhůřák,NULL,Česká republika,minipivovar,Zhůř,Plzeňský kraj,"Zhůř 138, Zhůř, Česká republika",2013,NULL,Christopher Lewis Baerwaldt fyzická osoba,https://pivovarzhurak.cz/cs,1,1
+427,Zlatá kráva,NULL,Česká republika,restaurační pivovar,Nepomuk,Plzeňský kraj,"náměstí Augustina Němejce 416, Nepomuk",2018,8798729,Zlatá kráva gastro s.r.o.,https://www.zlatakrava.cz/,1,1
+428,Andělský pivovar,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Lidická 337/30, Praha",2019,7198108,Andělský pivovar s.r.o.,https://www.andelskypivovar.cz/cs,1,1
+429,Apa★Che,NULL,Česká republika,uzavřený pivovar,Praha,Hlavní město Praha,Praha,2017,NULL,NULL,NULL,0,0
+430,Automat Matuška,NULL,Česká republika,minipivovar,Praha,Hlavní město Praha,"Dejvická 4, Praha",2022,NULL,Dejmat s.r.o,https://automatmatuska.cz,0,0
+431,Bad Flash,NULL,Česká republika,minipivovar,Praha,Hlavní město Praha,"Na Pecích 1044, Praha",2021,3155421,Bad Flash Beers s.r.o.,https://www.badflash.cz/,1,1
+432,Beaver's And Duck's,NULL,Česká republika,uzavřený pivovar,Praha,Hlavní město Praha,Praha,2018,NULL,NULL,NULL,0,0
+433,Beerius,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Bermanova 1009/12, Praha",2021,9381155,BEERIUS BREWERY s.r.o.,NULL,NULL,0
+434,Bohemia Goose,NULL,Česká republika,uzavřený pivovar,Praha,Hlavní město Praha,"Vodičkova 682/20, 110 00 Nové Město",2023,NULL,NULL,NULL,0,0
+435,Brew Team,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,Praha,2018,NULL,ernie solutions s.r.o.,https://www.facebook.com/brewteamcz/,0,0
+436,Břevnovský klášterní pivovar,NULL,Česká republika,minipivovar,Praha,Hlavní město Praha,"Markétská 28/1, Praha 6 - Břevnov",2012,24757896,Břevnovský klášterní pivovar svatého Vojtěcha a.s.,https://brevnovskypivovar.cz/,1,1
+437,Bubeneč,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Bubenečská 321/33, Praha",2018,1620436,Bubeneč House a.s.,https://pivovarbubenec.cz/cs/,1,1
+438,Cobolis,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Burešova 1661/2,  Praha 8-Kobylisy",2018,NULL,"NOLSIRAT, a.s.",https://cobolis.cz,1,1
+439,Craft House Brew,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Navrátilova 11, Praha",2016,NULL,NULL,https://www.crafthouse.cz/,1,0
+440,Crazy Clown,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Pod Harfou 68, Praha",2016,6048692,CRAZY CLOWN BEER s.r.o.,https://crazyclownbeer.com/cs,1,0
+441,Čerstvé pivo,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Ke Stáčírně 1082/44, Praha",2017,NULL,NULL,NULL,NULL,0
+442,Dark Times,Caligula Brewing,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Opatovická 3, Praha",2019,NULL,NULL,https://www.facebook.com/darktimescaligulabrewing/?locale=cs_CZ,0,0
+443,Domovar Komár,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,Praha,2014,NULL,Domovar Komár,https://domovarkomar.cz,1,0
+444,Držseplotu,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Na Vypichu 1956/28, Praha",2021,NULL,NULL,NULL,NULL,0
+445,Dva kohouti,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Sokolovská 81/55, Praha",2018,NULL,"Pilok, s.r.o.",https://www.dvakohouti.ambi.cz/,1,1
+446,Erlich Bier,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Sazovická 11, Praha",2017,NULL,Létající pivovar Erlich Bier,NULL,NULL,0
+447,FUZE Praha,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Na Florenci 2139, Praha",2024,NULL,Pivovar Florenc a.s.,https://www.fuzepraha.cz/,1,0
+448,Hangár,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,Praha,2017,8393125,Hangar 1013 s.r.o.,https://hangar1013.cz,0,0
+449,Heyl Ladronka,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Tomanova 1028/1, Praha",2018,NULL,NULL,NULL,NULL,1
+450,Holá řiť,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Přátelství 64, Uhříněves, Praha",2016,NULL,NULL,https://www.facebook.com/holaritpivovar/?locale=cs_CZ,0,0
+451,Holešovický Pražan,NULL,Česká republika,připravovaný pivovar,Praha,Hlavní město Praha,Neuvedeno,Neuvedeno,NULL,NULL,https://www.facebook.com/pivovarprazan/?locale=cs_CZ,0,0
+452,HoppyHedgehog,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Neklanova 126/10, Praha",2020,NULL,NULL,https://hoppyhedgehog.cz,0,0
+453,Horák,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Košíře, Praha",2019,NULL,Pivovar Horák,NULL,NULL,0
+454,Horymír,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Horymírovo náměstí 9, Praha",2020,8697825,Pivovar Horymír s.r.o.,https://pivovarhorymir.cz,1,1
+455,Hostivar,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Lochotínská 656, Praha",2013,3336883,Mateřská škola Sluníčka Hostivař s.r.o.,https://pivovar-hostivar.cz/,1,1
+456,Hostivar H²,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Hornoměcholupská 755/115, Praha",2017,NULL,NULL,https://pivovar-hostivar.cz/h2,1,1
+457,Chroust,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Přerušená 189/4, Praha",2016,1137042,Michal Chroust,https://pivochroust.cz,1,0
+458,Isao,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Sudoměřská 1707/19, Praha",2017,6037402,ISAO s.r.o.,https://isao.com,NULL,0
+459,Jihoměstský pivovar,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Podjavorinské 1602/11, Praha 4",2010,NULL,"Jihoměstský pivovar, s.r.o.",https://www.jihomestskypivovar.cz,1,1
+460,Kail,NULL,Česká republika,minipivovar,Praha,Hlavní město Praha,"Strakonická 100, Praha",2017,7326793,KAIL brewery s.r.o.,https://www.pivovarkail.cz,1,NULL
+461,Kbelský pivovar,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Mladoboleslavská 1122, Praha",2019,4852222,Kbelský pivovar a.s.,https://kbelskypivovar.cz,1,1
+462,Klášterní pivovar Strahov,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Strahovské nádvoří 301, Praha 1",2001,NULL,NULL,https://www.klasterni-pivovar.cz/cs,1,1
+463,Klínec-Katz,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,Praha,2014,5472547,Pivovarské družstvo Klínec-Katz,https://www.facebook.com/klineckatz/?locale=cs_CZ,0,0
+464,Kodl & Kodl,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,Praha,2020,NULL,NULL,NULL,NULL,0
+465,Kolčavka / Nad Kolčavkou,NULL,Česká republika,uzavřený pivovar,Praha,Hlavní město Praha,"Nad Kolčavkou 8, Praha",2014,NULL,NULL,NULL,0,0
+466,Kolektivní vina,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,Praha,2022,NULL,Létající pivovar Kolektivní vina!,NULL,NULL,0
+467,Kompas,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,Praha,2022,676268,KOMPAS PRAGOKOMERC v.o.s. v likvidaci,https://pivovarkompas.cz,0,0
+468,Lajka,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"U Akademie 11, 17000 Praha",2019,24283347,Lajka a spol s.r.o.,https://pivovarlajka.cz,1,1
+469,Létající pivovar Knír,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"V Olšinách 1025/29, Praha",2018,5160537,Be-Brew-er s.r.o.,beerknir.cz,1,0
+470,Libocký pivovar,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Evropská 209, Praha",2013,8895767,Libocký pivovar s.r.o.,https://www.facebook.com/libockypivovar/?locale=cs_CZ,0,1
+471,Loď,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Dvořákovo nábřeží, Praha",2017,569593,MODRÁ LOĎ - bytové družstvo,https://www.lod.cz,1,1
+472,Lužiny,NULL,Česká republika,uzavřený pivovar,Praha,Hlavní město Praha,"Archeologická 1, Praha",2014,1747142,"Pivovar Lužiny, s.r.o.",NULL,0,0
+473,Malastrana Beer / Interpivo Czech,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"náměstí 14. října 1307/2, Praha",2012,27643344,Pivovar Malastrana a.s.,malastranabeer.com,1,0
+474,Malešický mikropivovar,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Malešická 50, Praha",2014,2895951,"Malešický mikropivovar, s.r.o.",https://malesickymikropivovar.cz,1,0
+475,Marina,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Jankovcova 12, Praha",2013,942278,Ing. Marina Jurjevna Šulcová,https://www.pivovarmarina.cz,0,1
+476,Métaphore,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,Praha,2019,19981708,metaphore s.r.o.,https://metaphore.com,0,0
+477,Mikuláš,NULL,Česká republika,připravovaný pivovar,Praha,Hlavní město Praha,Neuvedeno,Neuvedeno,1839101,PIVOVAR MIKULÁŠ s.r.o.,https://www.pivovarmikulas.cz,0,0
+478,Moucha,NULL,Česká republika,minipivovar,Praha,Hlavní město Praha,"Údolní 212/1, Praha",2016,1878654,Robin Moucha,https://mouchapivo.cz,1,1
+479,Na Lochkově,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Ke Slivenci 36, Praha",2016,NULL,NULL,NULL,NULL,1
+480,Nedomlel / Dům várečný na Žižkově,NULL,Česká republika,minipivovar,Praha,Hlavní město Praha,"Víta Nejedlého 509/15, Praha",2018,NULL,NULL,https://www.facebook.com/pivonedomlel/,0,NULL
+481,Nota Bene,NULL,Česká republika,uzavřený pivovar,Praha,Hlavní město Praha,"Mikovcova 605/4, Praha",2015,14080150,"NOTA BENE, ADVOKÁTNÍ KANCELÁŘ s.r.o.",https://notabene.ai/,0,0
+482,Novoměstský pivovar,NULL,Česká republika,uzavřený pivovar,Praha,Hlavní město Praha,"Vodičkova 20, Praha 1",1993,NULL,Novoměstský pivovar  spol. s r.o.,NULL,0,0
+483,O:Var,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Slepá I 166/13, Praha",2023,2616076,Var Company s.r.o.,NULL,NULL,0
+484,Panaczech,NULL,Česká republika,minipivovar,Praha,Hlavní město Praha,"Pod hřištěm 77, 11101 Praha",2020,NULL,Revival of the Titanic s.r.o.,https://www.pivovar-panaczech.cz,1,1
+485,Patchwork,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,Praha,2017,27039307,Bohemia patchwork klub Praha z.s.,https://patchwork.cz,0,0
+486,Pivo Board,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Dr. Zikmunda Wintra 834/10, Praha",2021,5802717,"VRPix, s.r.o.",https://pivoboard.cz,1,0
+487,Pivo Karlín,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Pernerova 691/42, 18600 Praha",2019,NULL,Pivovar Karlín,https://www.pivokarlin.cz/,1,1
+488,Pivovar Kolkovna,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Výstaviště 415, 170 00 Praha 7-Bubeneč",2024,14328356,PIVOVAR KOLKOVNA s.r.o.,https://www.pivovarkolkovna.cz/,1,1
+489,Pivovar Kunratice,NULL,Česká republika,minipivovar,Praha,Hlavní město Praha,"Vídeňská 405, Praha 4 - Kunratice",2016,3461602,Pivovar Kunratice s.r.o.,https://pivovarmuflon.cz/,1,1
+490,Pivovar Národní,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Národní 8, Praha",2015,3453596,PIVOVAR NÁRODNÍ TŘÍDA s.r.o.,https://www.pivovarnarodni.eu/,1,1
+491,Pivovar U Dobřenských,NULL,Česká republika,uzavřený pivovar,Praha,Hlavní město Praha,"U Dobřenských 268/3, Praha",2015,NULL,Pivovar U Dobřenských,https://www.udobrenskych.com/,0,0
+492,Pivovarský dům Benedict,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Ječná 14, Praha",1998,17062292,Benedict Group s.r.o.,www.pivo-dum.cz,1,1
+493,PM Beers,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Revoluční 1082/8, Praha",2018,NULL,NULL,NULL,NULL,0
+494,Počerňák,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Libuňská 631/2, 19300 Praha",2019,24608530,"Počerňák, s.r.o.",https://pocernak.cz/,1,1
+495,Počernický pivovar,NULL,Česká republika,minipivovar,Praha,Hlavní město Praha,"Národních hrdinů 3, Praha",2016,27606775,POČERNICKÝ PIVOVAR s.r.o.,https://www.pddp.cz/pocernicky-pivovar/,1,1
+496,Potmehúd,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Podnikatelská 553, Praha",2018,22505989,Potmehúd s.r.o.,https://potmehud.cz,1,0
+497,PowerBrew,NULL,Česká republika,minipivovar,Praha,Hlavní město Praha,"Kolbenova 438/7, Praha",2019,6044905,PowerBrew s.r.o.,https://sibeeria.cz/,1,1
+498,Pragajaga,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,Praha,2017,NULL,NULL,NULL,NULL,0
+499,Prager Laffe,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,Praha,2012,29129231,"Prager Laffe, s.r.o.",https://www.pragerlaffe.cz/,1,0
+500,Pražský most u Valšů / Boršov,NULL,Česká republika,uzavřený pivovar,Praha,Hlavní město Praha,"Betlémská 5, Praha",2008,NULL,NULL,NULL,0,0
+501,Prokopák,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Do Klukovic 305, Praha",2020,27050092,Pozemkový spolek Prokopák,https://www.pivovar-prokopak.cz,1,1
+502,Risktaker Brewery,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Chudenická 1059/30, Praha",2019,NULL,Risktaker Brewery s.r.o.,NULL,NULL,0
+503,Rodinný pivovar Vik,NULL,Česká republika,minipivovar,Praha,Hlavní město Praha,"U továren 999/31, Praha 15",2020,NULL,Prague beer s.r.o.,https://www.pivovarvik.cz,1,1
+504,Royal Czech Beer,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Štepánska 615/24, Praha",2016,NULL,NULL,https://royalczechbeer.cz,0,0
+505,Řeporyje,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"K Tržišti 14, Praha",2018,6038140,Industrial park Řeporyje s.r.o.,https://www.facebook.com/pivovarreporyje/?locale=cs_CZ,0,1
+506,Římská,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Římská 2135/45, Praha 2-Vinohrady",2018,1502531,Blanka Rímská,https://rimska.cz,1,1
+507,Sibeeria,BeerLab,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Slavíkova 10, Praha",2014,NULL,PowerBrew s.r.o.,https://sibeeria.cz,1,0
+508,Skylon Brewery,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,Praha,2019,7786336,Skylon Brewery s.r.o.,https://www.skylonbrewery.cz/,NULL,0
+509,Slepice,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Václavské náměstí, Praha",2017,22042865,Ohnivá Slepice s.r.o.,NULL,NULL,0
+510,Smíchovský Maják,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Za Ženskými domovy 7, Praha",2016,NULL,NULL,NULL,NULL,0
+511,Sousedský pivovar Bašta,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Táborská 389/49, Praha",2007,NULL,"Bašta a spol., s.r.o.",https://pivovar-basta.eatbu.com,1,1
+512,Spojovna,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"U Kunratického Lesa 1801, Praha",2018,5622247,"Pivovar SPOJOVNA, a.s.",https://pivovarspojovna.cz,1,1
+513,SQBRU [skjuːbru],NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,Praha,2017,NULL,NULL,NULL,NULL,0
+514,Staropramen,MolsonCoors,Česká republika,průmyslový pivovar,Praha,Hlavní město Praha,"Nádražní 84, Praha 5",1869,24240711,Pivovary Staropramen s.r.o.,https://www.pivovary-staropramen.cz/,1,1
+515,Starosta,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Pobřežní 394/12, Praha",2013,1503723,Starosta s.r.o.,https://www.starosta.cz/,0,0
+516,Strašnický pivovar,domovarnictví,Česká republika,domovarnictví,Praha,Hlavní město Praha,Praha Strašnice,Neuvedeno,NULL,NULL,NULL,0,0
+517,Sukin Syn,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Krymská 36, Praha",2018,NULL,NULL,NULL,NULL,0
+518,Svatý Petr,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Nádražní 762/32, Praha",2019,19868880,"Chalet Svatý Petr, s.r.o.",https://apartman-sv-petr.webnode.cz/,0,0
+519,Šedivák,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Katovická 410/6, Praha 8",2014,13968254,Daniel Šedivák,https://www.sedivak.cz,0,1
+520,Školička - Minipivovar Beznoska,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Klíčovská 11, Praha",2013,NULL,NULL,NULL,NULL,1
+521,Školní minipivovar Podskalská,NULL,Česká republika,domovarnictví,Praha,Hlavní město Praha,"Podskalská 10, Praha",2007,NULL,Střední průmyslová škola potravinářské technologie,https://www.podskalska.cz,0,0
+522,Školní pivovar Praha - Suchdol,NULL,Česká republika,minipivovar,Praha,Hlavní město Praha,"Kamýcká 129, Praha 6 - Suchdol",2006,NULL,Česká zemědělská univerzita,https://pivovar.tf.czu.cz/,1,1
+523,To Sødeten,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,Praha,2018,NULL,To Sødeten,NULL,NULL,0
+524,Trilobit,NULL,Česká republika,minipivovar,Praha,Hlavní město Praha,"U Libeňského pivovaru 1499, Praha",2018,5702402,PIVOVAR TRILOBIT s.r.o.,https://pivovartrilobit.cz,0,0
+525,Třebonický rukodělný pivovárek,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"K Řeporyjím 4, Praha - Třebonice",2010,64566986,David Staněk fyzická osoba,www.pivovartrebonice.com,1,1
+526,Two Tales Brewing,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Náměstí Míru 1221/4, Praha",2014,NULL,Two Tales Brewing s.r.o.,NULL,NULL,0
+527,U Bulovky,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Bulovka 17, Praha",2004,66040744,František Richter fyzická osoba,https://pivovarubulovky.cz,1,1
+528,U Dvou koček,NULL,Česká republika,uzavřený pivovar,Praha,Hlavní město Praha,"Uhelný trh 10, Praha",2010,8239843,Mydlárna U Dvou koček s.r.o.,https://udvoukocek.cz,0,0
+529,U Fleků,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Křemencova 11, Praha",1499,25677284,PIVOVAR A RESTAURACE U FLEKŮ s.r.o.,https://ufleku.cz,1,1
+530,U Medvídků,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Na Perštýně 7, Praha 1",2005,28710843,U Dvou medvídků s.r.o.,https://umedvidku.cz/cs/,1,1
+531,U Supa,NULL,Česká republika,uzavřený pivovar,Praha,Hlavní město Praha,"Celetná 22, Praha 1",2017,26449030,"U SUPA, s.r.o.",https://www.pivovarusupa.cz/,0,0
+532,U Tří růží,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Husova 10, Praha 1",2012,NULL,NULL,https://www.utriruzi.cz/en/home/,1,1
+533,Uhříněves,NULL,Česká republika,minipivovar,Praha,Hlavní město Praha,"K sokolovně 37, Praha",2016,3844951,PIVOVAR UHŘÍNĚVES s.r.o.,https://www.upiva.cz,1,1
+534,Victor,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Husitská 72, Praha",2011,1132997,Diego Victor Van Den Braver,http://www.pivovarvictor.cz/,1,1
+535,Vinohradský pivovar,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"Korunní 106, Praha 10",2014,1551906,"Vinohradský pivovar, a.s.",https://www.vinohradskypivovar.cz/,1,1
+536,Vojanův dvůr,NULL,Česká republika,restaurační pivovar,Praha,Hlavní město Praha,"U Lužického semináře 21, Praha 1",2018,24196240,Vojanův dvůr s.r.o.,https://www.vojanuvdvur.cz/,1,1
+537,Vrátnice Craft Beers,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Thámova 221/7, Praha",2021,9888349,Vrátnice Craft Beers s.r.o.,NULL,NULL,0
+538,War Brewery,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Mladoboleslavská 968, Praha",2019,NULL,NULL,NULL,NULL,0
+539,WildCock,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Revoluční 1403/28, Praha",2020,NULL,NULL,NULL,NULL,0
+540,Yonder Folk Brewing / First Order Brewing,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Naskové 1318/1d, Praha",2017,NULL,NULL,NULL,NULL,0
+541,Zbraslavská koza,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,"Zbraslav, Praha",2017,NULL,Létající pivovar Zbraslavská koza,NULL,NULL,0
+542,Zemský akciový pivovar,NULL,Česká republika,létající pivovar,Praha,Hlavní město Praha,Praha,2013,NULL,NULL,NULL,NULL,0
+543,1. karlštejnský mikropivovar Karlíček,NULL,Česká republika,minipivovar,Karlštějn,Středočeský kraj,Karlštejn 109,2020,61507784,"BOHEMIA RAINBOW, spol. s r.o.",www.pivokarlicek.com,1,1
+544,Akciový pivovar Libertas,NULL,Česká republika,minipivovar,Úvaly,Středočeský kraj,"Škvorecká, Úvaly",2019,4799411,Akciový pivovar LIBERTAS a.s.,https://pivovar-libertas.cz,1,1
+545,Antoš,NULL,Česká republika,restaurační pivovar,Slaný,Středočeský kraj,"Vinařického 14, Slaný",2010,1337858,Petr Antoš,https://www.pivovarantos.cz,0,1
+546,Bad Boy / Pacovský pivovar Na Mýtince,NULL,Česká republika,létající pivovar,Říčany,Středočeský kraj,"Na Mýtince, Pacov, Říčany",2017,NULL,NULL,NULL,NULL,0
+547,Bakalář,NULL,Česká republika,průmyslový pivovar,Rakovník,Středočeský kraj,"Havlíčkova 69, Rakovník, Středočeský kraj",1454,3395243,Miroslav Bakalář,https://www.pivobakalar.cz/entry,1,NULL
+548,Baštecký pivovar,NULL,Česká republika,minipivovar,Starý Kolín,Středočeský kraj,"Za poštou 95, Starý Kolín",2018,NULL,Baštecká s.r.o.,https://basteckypivovar.cz,1,0
+549,Berounský medvěd,NULL,Česká republika,restaurační pivovar,Beroun,Středočeský kraj,"Tyršova 135, Beroun",1999,NULL,Hana Mayerová fyzická osoba,https://www.berounskymedved.com/,1,1
+550,Bitches Brew Company,NULL,Česká republika,létající pivovar,Bakov nad Jizerou,Středočeský kraj,"Brigádnická 734, Bakov nad Jizerou",2020,NULL,"GARP CB, s. r. o.",NULL,NULL,0
+551,BiyrLab,NULL,Česká republika,uzavřený pivovar,Nymburk,Středočeský kraj,"Za Žoskou 2506, 288 02 Nymburk",2022,NULL,NULL,NULL,0,0
+552,Bobr,NULL,Česká republika,minipivovar,Zadní Třebaň,Středočeský kraj,"U Mlýna 8, Zadní Třebaň",2013,1843834,MS Bobr Meclov,https://www.bobr.com/,0,NULL
+553,Český Brod,NULL,Česká republika,minipivovar,Český Brod,Středočeský kraj,"Tuchorazská 1433, Český Brod",2019,235334,Město Český Brod,https://cesbrod.cz/,1,NULL
+554,Čestmír,NULL,Česká republika,minipivovar,Brandýs nad Labem,Středočeský kraj,"Sídliště BSS 1335/8, 25001 Brandýs nad Labem-Stará Boleslav",2019,702498,Čestmír Poul,https://www.pivovarcestmir.cz/,1,NULL
+555,Dědkův mlýn,NULL,Česká republika,minipivovar,Unhošť,Středočeský kraj,"Dědkův mlýn 488, Unhošť",2017,4900723,"Osada Dědkův mlýn, z.s.",https://www.dedkuv-mlyn.cz/cz/,0,1
+556,Domácí pivovar KOMA,domovarnictví,Česká republika,domovarnictví,Beroun,Středočeský kraj,Beroun,2014,NULL,NULL,NULL,0,0
+557,eMBe,NULL,Česká republika,restaurační pivovar,Mladá Boleslav,Středočeský kraj,"Na Klenici 46/9, 29301 Mladá Boleslav",2019,6846530,eMBe pivovar s.r.o.,https://embepivovar.cz,0,1
+558,Energon,NULL,Česká republika,restaurační pivovar,Obořiště,Středočeský kraj,"Obořiště 53, Obořiště",2013,6178154,"Energon Energy Solutions, s.r.o.",https://www.energon.cz/,1,1
+559,Ettore,NULL,Česká republika,restaurační pivovar,Jíloviště,Středočeský kraj,"Všenorská 45, Jíloviště",2017,5276381,Ettore Vassallo,https://ettore.com,1,1
+560,Ferdinand,NULL,Česká republika,průmyslový pivovar,Benešov,Středočeský kraj,"Táborská 306, Benešov",1897,1316664,MUDr. Ferdinand Třebický,https://www.pivovarferdinand.cz/,1,1
+561,Garp,NULL,Česká republika,minipivovar,Bakov nad Jizerou,Středočeský kraj,"Brigádnická 734, Bakov nad Jizerou",2018,6516785,"GARP CB, s. r. o.",https://www.pivogarp.cz/,1,1
+562,Gwern,NULL,Česká republika,minipivovar,Nupaky,Středočeský kraj,Benická,2015,3515087,Gwern s.r.o.,https://gwern.cz,1,1
+563,Herold,NULL,Česká republika,minipivovar,Březnice,Středočeský kraj,"Zámecký obvod 31, Březnice",1506,1194313,Libor Herold,https://www.pivovar-herold.cz/,0,0
+564,Holanďan,NULL,Česká republika,minipivovar,Hlízov,Středočeský kraj,"Hlízov 230, 285 32 Hlízov",2022,6632653,Pivovar Holanďan s.r.o.,https://www.pivovarholandan.cz/,1,1
+565,Hostomice pod Brdy,NULL,Česká republika,minipivovar,Hostomice,Středočeský kraj,"Pivovarská 214, Hostomice",2014,462365,Vlastenecko-dobročinná obec baráčníků Hostomice pod Brdy z.s.,https://pivovarhostomice.cz/,1,1
+566,Hubertus Kácov,NULL,Česká republika,průmyslový pivovar,Kácov,Středočeský kraj,"V Podskalí 6, Kácov, Středočeský kraj",1457,NULL,"Pivovar Hubertus, a. s.",https://www.pivovarkacov.cz/,0,0
+567,Chernobeer Brewing Co.,NULL,Česká republika,létající pivovar,Kladno,Středočeský kraj,Kladno,2017,NULL,NULL,https://www.facebook.com/chernobeer.brewing.co/,0,0
+568,Chmeloun létající pivovar,NULL,Česká republika,létající pivovar,Kralupy nad Vltavou,Středočeský kraj,"Grégrova 187, Kralupy nad Vltavou",2020,NULL,NULL,https://www.facebook.com/Chmelounpivovar/,0,0
+569,Illegal Brewery,NULL,Česká republika,minipivovar,Kladno,Středočeský kraj,"Kleinerova 1504, Kladno",2017,NULL,Illegal Brewery,https://www.facebook.com/profile.php?id=100063721701945#,0,NULL
+570,Industrybeer,NULL,Česká republika,restaurační pivovar,Nymburk,Středočeský kraj,"Drahelická 60, 28802 Nymburk",2019,6993184,Industrybeer s.r.o.,NULL,NULL,1
+571,Kaberna,NULL,Česká republika,minipivovar,Neratovice-Mlékojedy,Středočeský kraj,"Hlavní 129, Mlékojedy",2016,61123765,Jaroslav Verner fyzická osoba,www.kaberna.cz,0,NULL
+572,Klášter,"Pivovary Lobkowicz, a.s.",Česká republika,průmyslový pivovar,Klášter Hradiště nad Jizerou,Středočeský kraj,"Klášter Hradiště nad Jizerou 16, Klášter Hradiště nad Jizerou 16",1570,238007,Obec Klášter Hradiště nad Jizerou,https://www.pivovarklaster.cz/,1,1
+573,Klokočka,NULL,Česká republika,připravovaný pivovar,Bakov nad Jizerou,Středočeský kraj,Neuvedeno,Neuvedeno,6187561,Restaurace Klokočka s.r.o.,https://klokocka.cz,0,0
+574,Kokeš,NULL,Česká republika,minipivovar,Drahouš,Středočeský kraj,"Drahouš 2, Drahouš",2013,1049372,Ing. Václav Kokeš,https://pivovarkokes.cz,1,1
+575,Kounický pivovar,NULL,Česká republika,minipivovar,Kounice,Středočeský kraj,"Kounice 52, Kounice u Českého Brodu",2012,24828645,Kounický pivovar s.r.o,https://kounicky.cz,0,0
+576,Krušovice,Heineken,Česká republika,průmyslový pivovar,Krušovice,Středočeský kraj,"U Pivovaru 1, Krušovice, Středočeský kraj",1581,243965,Obec Krušovice,https://krusovice.cz/cs/,1,1
+577,Květák,NULL,Česká republika,létající pivovar,Mělník,Středočeský kraj,Mělník,2019,19909152,Adam Květák,https://www.facebook.com/pivovarKvetak/?locale=cs_CZ,0,0
+578,Kytín,NULL,Česká republika,restaurační pivovar,Kytín,Středočeský kraj,Kytín 19,2017,48951960,Pivovar Kytín s.r.o.,https://www.pivovarkytin.cz/,1,1
+579,Létající pivovar Strašák,NULL,Česká republika,létající pivovar,Nové Strašecí,Středočeský kraj,"Palackého 31, Nové Strašecí",2017,NULL,Pivovar Strašák,NULL,NULL,0
+580,Lisý dědek,NULL,Česká republika,minipivovar,Kounice,Středočeský kraj,"Kounice 70, Kounice",2014,60450398,Jan Lisý fyzická osoba,www.minipivovarlisydedek.cz,0,0
+581,Lobeč,NULL,Česká republika,restaurační pivovar,Lobeč,Středočeský kraj,"Lobeč 34, Lobeč",2015,41195833,Pivovar Lobeč s.r.o.,https://lobec.cz,1,1
+582,Malešov,NULL,Česká republika,minipivovar,Malešov,Středočeský kraj,Malešov 56,2017,2133792,Přátelský pivovar Malešov a.s.,https://www.pivovarmalesov.cz/,1,1
+583,Malý Janek,NULL,Česká republika,restaurační pivovar,Jince,Středočeský kraj,"Eškova 33, Jince",2020,7849605,Malý Janek z Jinec s.r.o.,https://www.malyjanek.cz/,1,1
+584,Matuška,NULL,Česká republika,minipivovar,Broumy,Středočeský kraj,"U radnice 115, Broumy",2009,1718886,Pivovar Matuška s.r.o.,https://www.pivovarmatuska.cz,1,0
+585,Maus Craft Brewery,NULL,Česká republika,létající pivovar,Kladno,Středočeský kraj,Kladno,2021,5780951,Maus Craft Brewing s.r.o.,www.pivovarmaus.cz,1,0
+586,Měšťanský pivovar Kutná Hora,NULL,Česká republika,průmyslový pivovar,Kutná Hora,Středočeský kraj,"U Lorce 11, Šipší, Kutná Hora",2017,NULL,Pivovar Cvikov a.s.,https://pivokutnahora.cz,1,1
+587,Minipivovar Šnajdr,NULL,Česká republika,restaurační pivovar,Kostelec nad Černými lesy,Středočeský kraj,"Českobrodská 17, Kostelec nad Černými lesy",2014,NULL,"Dej Bůh štěstí, s.r.o.",NULL,NULL,1
+588,MMX,NULL,Česká republika,restaurační pivovar,Lety u Dobřichovic,Středočeský kraj,"Dobřichovická 452, Lety u Dobřichovic",2010,5844576,MMX Beer s.r.o.,https://mmxpivo.com,1,1
+589,Modrá Vosa,domovarnictví,Česká republika,domovarnictví,Neuvedeno,Středočeský kraj,Neuvedeno,Neuvedeno,NULL,NULL,NULL,0,0
+590,Na Vývoji,NULL,Česká republika,restaurační pivovar,Vlašim,Středočeský kraj,"Havlíčkova 1135, 25801 Vlašim",2018,24397865,"Hotel Na Vývoji, s.r.o.",https://www.navyvoji.cz/cs/home-ceska/,0,1
+591,Němý Medvěd,NULL,Česká republika,minipivovar,Mělník,Středočeský kraj,"Bezručova 613/30, 276 01 Mělník 1",2015,19307730,Pivovar Němý Medvěd s.r.o.,https://nemymedved.cz,0,1
+592,Neumann,NULL,Česká republika,restaurační pivovar,Mělnické Vtelno,Středočeský kraj,"Chorušická 93, Mělnické Vtelno",2012,797120,Ing. Daniel Neumann,https://neumann.cz,1,1
+593,Novej svět,NULL,Česká republika,minipivovar,Čečelice,Středočeský kraj,"Konětopská 166/31, Čečelice",2016,63853213,Daniel Merc fyzická osoba,https://www.novejsvet.cz/,0,0
+594,Nymburk,NULL,Česká republika,průmyslový pivovar,Nymburk,Středočeský kraj,"Pražská 581, Nymburk",1895,36421,Stavební bytové družstvo Nymburk,https://nymburk.com,1,1
+595,Olešná,NULL,Česká republika,minipivovar,Olešná,Středočeský kraj,"Olešná 1, 26901",2019,233676,Obec Olešná,https://www.pivovarolesna.cz/,1,1
+596,Olivův pivovar,NULL,Česká republika,restaurační pivovar,Dolní Břežany,Středočeský kraj,"Za Radnicí 739, Dolní Břežany",2015,1498878,Olivův pivovar s.r.o.,https://www.olivuvpivovar.cz/,1,1
+597,Ondra,NULL,Česká republika,uzavřený pivovar,Brandýs nad Labem,Středočeský kraj,"V Olšinkách 596, Brandýs nad Labem",2016,3679713,Pivovar Ondra s.r.o. v likvidaci,https://www.ondra.cz/,0,0
+598,Parovar,NULL,Česká republika,minipivovar,Rudná,Středočeský kraj,"Na Výsluní 1026/68, 25219 Rudná",2018,NULL,Pavel Rokoš fyzická osoba,https://parovar.cz,1,1
+599,Pikovar,NULL,Česká republika,minipivovar,Hradištko - Pikovice,Středočeský kraj,"Nádražní 19, 252 09 Hradištko-Pikovice",2022,2776821,PIKOVAR s.r.o.,https://pikovar.cz,0,0
+600,Pivovar Kladno Kročehlavy / Pivo Václav,NULL,Česká republika,minipivovar,Kladno,Středočeský kraj,"Dlouhá 33, Kladno",2021,NULL,NULL,https://www.pivovaclav.cz/,1,0
+601,Pivovar Máša,NULL,Česká republika,minipivovar,Řevničov,Středočeský kraj,"Vrchlického 259, Řevničov",2017,15827143,David Máša fyzická osoba,https://pivomasa.cz,1,0
+602,Pivovarský dvůr Chýně,NULL,Česká republika,uzavřený pivovar,Chýně,Středočeský kraj,"Hlavní 525, Chýně",1992,7187785,Pivovarský dvůr Chýně s.r.o.,NULL,0,0
+603,Poddžbánský pivovar,NULL,Česká republika,minipivovar,Mutějovice,Středočeský kraj,"Velká strana 2, Mutějovice",2009,26756935,Poddžbánský pivovar s.r.o.,https://www.poddzbanskypivovar.cz/,1,1
+604,Poděbradský minipivovar,NULL,Česká republika,restaurační pivovar,Poděbrady,Středočeský kraj,"Husova 24, Poděbrady",2017,NULL,"Gebauer Poděbrady, s.r.o.",https://podebradskypivovar.cz,1,1
+605,Podkováň,NULL,Česká republika,minipivovar,Dolní Cetno,Středočeský kraj,"Kováň 21, Dolní Cetno",1434,10981764,Podkováň OD s.r.o.,https://podkovan.com/cs/,1,1
+606,Podlesí,NULL,Česká republika,restaurační pivovar,Podlesí,Středočeský kraj,"Podlesí 139, Podlesí",2013,279382,Obec Podlesí,https://www.pivovarpodlesi.cz/,1,1
+607,Prádelník Kolín,NULL,Česká republika,minipivovar,Kolín,Středočeský kraj,"Heverova 502, 280 02 Kolín",2019,NULL,NULL,https://www.facebook.com/PivovarPradelnikKolin/,0,NULL
+608,Psychovar,NULL,Česká republika,létající pivovar,Řevnice,Středočeský kraj,"Pražská 231, Řevnice",2020,21793492,"Pivovar Psychovar, s.r.o.",https://www.psychovar.cz,1,0
+609,Rodinný pivovar Švihov,NULL,Česká republika,restaurační pivovar,Němčice,Středočeský kraj,"Němčice 23, Loket",2020,5218608,Rodinný pivovar Švihov s.r.o.,NULL,NULL,1
+610,Rodinný pivovar Vilém,NULL,Česká republika,uzavřený pivovar,Jince,Středočeský kraj,"Eškova 33, Jince",2012,NULL,Zythum a.s.,NULL,0,0
+611,Roztoky,NULL,Česká republika,uzavřený pivovar,Roztoky,Středočeský kraj,"Roztoky 14, Roztoky",2003,67733,Technické služby města Roztoky,https://www.roztoky.cz/,0,0
+612,Řevnice,NULL,Česká republika,minipivovar,Řevnice,Středočeský kraj,"Pod Lipami 71, Řevnice",2019,241636,Město Řevnice,https://www.pivovar-revnice.cz/,1,1
+613,Říčanský pivovar,NULL,Česká republika,restaurační pivovar,Říčany,Středočeský kraj,"Olivova 246/23, Říčany",2018,3740781,Říčanský pivovar s.r.o.,https://www.ricanskypivovar.cz/,1,1
+614,Sedlčanský pivovar Krčín,NULL,Česká republika,uzavřený pivovar,Sedlčany,Středočeský kraj,"Na Červeném hrádku 793, Sedlčany, Středočeský kraj",2014,NULL,Farma Druhaz spol. s r.o.,NULL,0,0
+615,Slepý krtek,NULL,Česká republika,minipivovar,Ujkovice,Středočeský kraj,"Ujkovice 52, Středočeský kraj",2011,NULL,Marek Havlas fyzická osoba,https://www.minipivovar-ujkovice.cz/,1,1
+616,Srbecký lok,NULL,Česká republika,restaurační pivovar,Srbsko,Středočeský kraj,"Na Břiči, Srbsko",2018,NULL,Camp Srbsko,NULL,NULL,1
+617,Starokladenský městský pivovar U Kozlíků,NULL,Česká republika,restaurační pivovar,Kladno,Středočeský kraj,"Československé armády 3230, Kladno",2009,64657299,Starokladenský pivovar,www.starokladno.cz,1,1
+618,Svatý Ján,NULL,Česká republika,minipivovar,Polepy u Kolína,Středočeský kraj,"Polepy u Kolína 232, Kolín",1996,243388,Obec Svatý Jan,https://pivovarek.cz/,1,1
+619,Šestajovický pivovar,NULL,Česká republika,restaurační pivovar,Šestajovice,Středočeský kraj,"Husova 66, Šestajovice",2019,7248822,Šestajovický pivovar s.r.o.,https://www.sestajovickypivovar.cz/,1,1
+620,Špácal,NULL,Česká republika,minipivovar,Louňovice Pod Blaníkem,Středočeský kraj,"U Pivovaru 76, Louňovice Pod Blaníkem",2018,8925992,Michal Spáčal,https://www.spacal.com/,0,0
+621,Štiřínský pivovar,NULL,Česká republika,restaurační pivovar,Štiřín,Středočeský kraj,"Želivecká 707, Štiřín",2010,NULL,NULL,NULL,NULL,1
+622,Tahoun,NULL,Česká republika,restaurační pivovar,Všejany,Středočeský kraj,"Hlavní 58, 294 43 Všejany",2022,NULL,"JL Stream, s.r.o.",https://www.pivovartahoun.cz/,1,1
+623,Taschenberg,NULL,Česká republika,uzavřený pivovar,Buštěhrad,Středočeský kraj,"Palackého 50/2, Buštěhrad",2011,NULL,Pivovar Taschenberg,NULL,0,0
+624,Továrna Pivovar,NULL,Česká republika,restaurační pivovar,Slaný,Středočeský kraj,"Wilsonova 689, Slaný",2016,10867791,TOVÁRNA PIVOVAR s.r.o.,https://www.tovarnapivovar.cz/,0,1
+625,Tupadly,NULL,Česká republika,minipivovar,Tupadly,Středočeský kraj,"Tupadly 113, Tupadly",2020,29006899,Pivovar Tupadly s.r.o.,https://pivovartupadly.cz,1,1
+626,U Bezoušků,uzavřeno,Česká republika,uzavřený pivovar,Průhonice,Středočeský kraj,"Květnové náměstí 5, Průhonice",1994,NULL,Coloseum restaurants s.r.o.,NULL,0,0
+627,Únětický pivovar,NULL,Česká republika,průmyslový pivovar,Únětice,Středočeský kraj,"Rýznerova 19/5, Únětice",2011,24736708,Únětický pivovar a.s.,https://unetickypivovar.cz,1,1
+628,United Breweries,NULL,Česká republika,létající pivovar,Rakovník,Středočeský kraj,"Husovo náměstí 22, Rakovník",2004,NULL,NULL,NULL,NULL,0
+629,Varga Brothers,NULL,Česká republika,létající pivovar,Plaňany,Středočeský kraj,"Pražská 15, Plaňany",2023,19475730,Varga Brothers Brewing Company s.r.o.,https://www.vargabrothers.com/,1,0
+630,Velké Popovice,Asahi,Česká republika,průmyslový pivovar,Velké Popovice,Středočeský kraj,"Ringhofferova 1, Velké Popovice",1874,240966,Obec Velké Popovice,https://www.kozel.cz/,0,0
+631,Vítek z Prčice,NULL,Česká republika,restaurační pivovar,Sedlec-Prčice,Středočeský kraj,"Komenského 21, Sedlec-Prčice",2010,26168073,Vítek z Prčice s.r.o.,https://www.vitekzprcice.cz/,1,1
+632,Vlastenec Březová,NULL,Česká republika,restaurační pivovar,Březová,Středočeský kraj,"Pražská 11, 25245 Březová",2019,NULL,Milan Bohuslav fyzická osoba,https://pivovar-brezova.cz,1,1
+633,Vlčák,NULL,Česká republika,minipivovar,Miřetice,Středočeský kraj,"Miřetice 49, 257 65 Miřetice",2019,18253504,MS Vlčák,https://pivovlcak.cz,1,0
+634,Vysoký Chlumec,"Pivovary Lobkowicz, a.s.",Česká republika,průmyslový pivovar,Vysoký Chlumec,Středočeský kraj,"Vysoký Chlumec 29, Vysoký Chlumec",1466,46353224,"Pivovar Vysoký Chlumec, a.s.",https://www.pivovar-vysokychlumec.cz/,1,1
+635,Záhora,NULL,Česká republika,minipivovar,Kněžičky,Středočeský kraj,Kněžičky 10,2016,7439407,Pivovar Záhora s.r.o.,https://www.pivovarzahora.cz/,1,1
+636,Zámecký dvůr Všeradice / U Paní Magdaleny,NULL,Česká republika,restaurační pivovar,Všeradice,Středočeský kraj,"Všeradice 1, Všeradice",2013,NULL,NULL,https://www.zamecky-dvur.cz/,0,1
+637,Zámecký pivovar Zbraslavice,NULL,Česká republika,minipivovar,Zbraslavice,Středočeský kraj,"Zbraslavice 2, Zbraslavice",2015,NULL,Pivovar Zbraslavice s.r.o.,https://www.pivovarzbraslavice.cz,1,1
+638,Zdibský pivovar Zdivar,NULL,Česká republika,restaurační pivovar,Zdiby,Středočeský kraj,"U Továrny 1, Zdiby",2021,NULL,NULL,NULL,NULL,1
+639,Zichovec,NULL,Česká republika,restaurační pivovar,Zichovec,Středočeský kraj,"Zichovec 99, Zichovec",2012,28434684,Pivovar Zichovec s.r.o.,https://pivovarzichovec.cz,1,1
+640,Biskupský minipivovar U sv. Štěpána,NULL,Česká republika,restaurační pivovar,Litoměřice,Ústecký kraj,"Komenského 748, Litoměřice",2016,NULL,In Principio s.r.o.,https://biskupskypivovar.cz,1,1
+641,Černý Orel,Osek,Česká republika,restaurační pivovar,Osek,Ústecký kraj,"Vilová 18, Osek",2015,233684,Obec Osek,https://www.cerny-orel.cz/,1,1
+642,Dvůr Perlová voda,NULL,Česká republika,restaurační pivovar,Budyně nad Ohří,Ústecký kraj,"Kostelec nad Ohří 13, Budyně nad Ohří",2016,8131147,Dvůr Perlová Voda Nemovitostní s.r.o.,https://www.dvurperlovavoda.cz/,1,1
+643,Emeran,NULL,Česká republika,restaurační pivovar,Klíny,Ústecký kraj,"Klíny 210, 43601 Litvínov",2019,8163693,"Pivovar Emeran, s.r.o.",https://www.emeran.cz/,1,1
+644,Falkon,NULL,Česká republika,létající pivovar,Žatec,Ústecký kraj,"Šafaříkova 2538, Žatec",2012,4199260,Pivo Falkon s.r.o.,https://www.pivofalkon.cz/,1,0
+645,Hákův parní pivovar,NULL,Česká republika,minipivovar,Mlékojedy,Ústecký kraj,"Mlékojedy 84, 41201 Mlékojedy",2018,7459238,Hákův parní pivovar s.r.o.,https://www.hpp.beer,1,1
+646,Hotel Koliba,NULL,Česká republika,restaurační pivovar,Litoměřice,Ústecký kraj,"Českolipská 2100, Litoměřice",2011,63146321,Hotel KOLIBA s.r.o.,https://www.hotelkoliba.cz/,0,1
+647,Chalupník Perštejn,NULL,Česká republika,restaurační pivovar,Perštejn,Ústecký kraj,"Husova 47,  Perštejn, Ústecký kraj",2013,NULL,NULL,NULL,NULL,1
+648,Chmelařský institut,NULL,Česká republika,minipivovar,Žatec,Ústecký kraj,"Kadaňská 2525, Žatec",1963,14864347,Chmelařský institut s.r.o.,https://www.chizatec.cz/kontakty/?arc=4,1,1
+649,Chotěšov,domovarnictví,Česká republika,domovarnictví,Chotěšov,Ústecký kraj,Neuvedeno,Neuvedeno,19961065,Starý pivovar Chotěšov s.r.o.,NULL,0,0
+650,Chotěšov / Děvče,NULL,Česká republika,minipivovar,Chotěšov,Ústecký kraj,"Libochovická 2, Chotěšov, Ústecký kraj",2014,NULL,NULL,NULL,NULL,NULL
+651,Kapitán / Centrum pivovar Děčín,NULL,Česká republika,restaurační pivovar,Děčín,Ústecký kraj,"Sofijská 2/3, Děčín",2014,NULL,NULL,NULL,NULL,1
+652,Karásek a Stülpner,NULL,Česká republika,minipivovar,Chomutov,Ústecký kraj,"28. října 1081/19, Chomutov",2013,NULL,"První občanský pivovar v Chomutově, a.s.",https://www.karasekastulpner.cz,0,0
+653,Knajzl,NULL,Česká republika,minipivovar,Brňany,Ústecký kraj,Brňany 155,2017,4866380,"Rodinný pivovar KNAJZL, s.r.o.",https://pivovarknajzl.cz,1,1
+654,Kocour,NULL,Česká republika,restaurační pivovar,Varnsdorf,Ústecký kraj,"Rumburská 1920, Varnsdorf",2008,2933675,Mateřská škola Kocour s.r.o.,https://www.pivovarkocour.cz,0,1
+655,Křinický pivovar Falkenštejn,NULL,Česká republika,restaurační pivovar,Krásná Lípa,Ústecký kraj,"Křinické náměstí 7/12, Krásná Lípa",2013,NULL,NULL,https://www.krinickypivovar.cz/,0,1
+656,Lounský žejdlík,NULL,Česká republika,restaurační pivovar,Louny,Ústecký kraj,"Rybalkova 1323, Louny",2013,1649795,Lounský žejdlík s.r.o.,http://www.lounskyzejdlik.cz,1,1
+657,Millénium,NULL,Česká republika,restaurační pivovar,Ústí nad Labem,Ústecký kraj,"Sibiřská 55, Ústí nad Labem",2016,2239221,MILLENIUM INTERNATIONAL s.r.o. v likvidaci,NULL,NULL,1
+658,Minipivovar Labuť,NULL,Česká republika,uzavřený pivovar,Litoměřice,Ústecký kraj,"Zítkova 784/5, Litoměřice",2011,NULL,Minipivovar Labuť s.r.o.,https://www.minipivovarlabut.cz/,0,0
+659,Minipivovar Most,NULL,Česká republika,restaurační pivovar,Most,Ústecký kraj,"Pod Koňským vrchem 3450, Most",2020,NULL,"Pivovar M3, a.s.",https://minipivovarmost.cz,1,1
+660,Mlýn,NULL,Česká republika,restaurační pivovar,Střížovice,Ústecký kraj,"Střížovice 41, Štětí",2017,278343,Město Špindlerův Mlýn,https://www.mestospindleruvmlyn.cz/,1,1
+661,Monopol,NULL,Česká republika,restaurační pivovar,Teplice,Ústecký kraj,"Masarykova 433, Teplice",2015,7503334,Pivovar Monopol s.r.o.,https://www.pivovarmonopol.cz/,1,1
+662,Mostecký Kahan,NULL,Česká republika,restaurační pivovar,Most,Ústecký kraj,"Obránců míru 2629/5, Most",2009,28709161,MOSTECKÝ KAHAN s.r.o.,http://mosteckykahan.cz/,1,1
+663,Na Rychtě,NULL,Česká republika,restaurační pivovar,Ústí nad Labem,Ústecký kraj,"Klášterní 75/9, Ústí nad Labem",2010,28694767,"PIVOVAR NA RYCHTĚ, s.r.o.",https://www.pivovarnarychte.cz/,1,1
+664,Nomád,NULL,Česká republika,uzavřený pivovar,Děčín,Ústecký kraj,"U Plovárny 10, Děčín",2018,1960962,NOMAD design s.r.o.,https://www.nomad-design.com/,0,0
+665,Pension Helene,NULL,Česká republika,restaurační pivovar,Kytlice,Ústecký kraj,Kytlice 120,2015,15079431,Vladimír Štich fyzická osoba,https://www.pensionhelene.cz/,NULL,1
+666,Pioneer Beer,NULL,Česká republika,minipivovar,Žatec,Ústecký kraj,"Náměstí Prokopa Velkého 303, Žatec",2018,6007619,Pioneer Beer s.r.o.,https://pioneerbeer.cz,1,1
+667,Pivo ZLoun,NULL,Česká republika,restaurační pivovar,Louny,Ústecký kraj,"Rybalkova 1267, Louny",2013,22799125,Pivo ZLoun s.r.o.,https://www.pivozloun.cz/,1,1
+668,Pivovar a palírna Česká Kamenice,NULL,Česká republika,restaurační pivovar,Česká Kamenice,Ústecký kraj,Pivovarská 3,2015,NULL,NULL,NULL,NULL,1
+669,Pivovar Ossegg,NULL,Česká republika,restaurační pivovar,Osek,Ústecký kraj,"Rooseveltova 1, Osek",2015,7745761,OSSEGG Pivovar Cisterciáckého opatství s. r. o.,https://www.ossegg.cz/,1,1
+670,Pivovar Pánů z Růže Židovice,NULL,Česká republika,minipivovar,Židovice,Ústecký kraj,Židovice 16,2016,3933164,Bureš-sdružení s.r.o.,NULL,NULL,NULL
+671,Podřipský rodinný pivovar,NULL,Česká republika,restaurační pivovar,Ctiněves,Ústecký kraj,"Ctiněves 1, Ctiněves",2014,42115817,Aleš Lípa fyzická osoba,www.podripske-pivo.cz,0,1
+672,Rodinný pivovar Litoměřice,NULL,Česká republika,minipivovar,Litoměřice,Ústecký kraj,"Tyršovo náměstí 282/1, Litoměřice",2021,NULL,Pivovar Litoměřice s.r.o.,https://www.facebook.com/pivovar.litomerice/,0,NULL
+673,Siřem,NULL,Česká republika,minipivovar,Siřem,Ústecký kraj,"Siřem 7, 43801 Siřem",2019,6522726,Řemeslný pivovar Siřem s.r.o.,https://sirem.cz,NULL,1
+674,Středohoř,NULL,Česká republika,létající pivovar,Ústí nad Labem,Ústecký kraj,"Vaníčkova 1318/25, Ústí nad Labem, Česko",2023,1583328,Amatérský tenisový klub Středohor Dřevce,https://www.pivovar-stredohor.cz,1,0
+675,Špitt,NULL,Česká republika,restaurační pivovar,Křešice,Ústecký kraj,"Zahořany 90, Křešice",2017,69913773,Richard Špitt,https://spitt.com,0,1
+676,U Orloje,NULL,Česká republika,restaurační pivovar,Žatec,Ústecký kraj,"Náměstí Prokopa Velkého 1951, Žatec",2010,24482544,Restaurant U Orloje s.r.o.,https://www.olivaverde.cz/,0,1
+677,Velké Březno,Heineken,Česká republika,průmyslový pivovar,Velké Březno,Ústecký kraj,"Pivovarská 116, Velké Březno",1753,267139,Obec Velké Březno,https://www.breznak.cz/,0,0
+678,Žatecký pivovar,NULL,Česká republika,průmyslový pivovar,Žatec,Ústecký kraj,"Žižkovo náměstí 81, Žatec",1801,25020323,"Žatecký pivovar, spol. s r.o.",https://zatecky.com,1,NULL
+679,Balónový pivovar Radešín,NULL,Česká republika,restaurační pivovar,Radešín,Vysočina,Radešín 11,2016,NULL,Balónový hotel s.r.o.,https://www.balonovypivovar.cz,1,1
+680,Bernard,NULL,Česká republika,průmyslový pivovar,Humpolec,Vysočina,"5 května 1, Humpolec",1597,776459,Bernard Plavec,https://www.bernard.cz/,1,1
+681,Centrum Eden,NULL,Česká republika,restaurační pivovar,Bystřice nad Pernštejnem,Vysočina,"Nový dvůr 318, Bystřice nad Pernštejnem",2015,9460365,Sportovní centrum Eden s.r.o.,https://www.edencentrum.cz/,0,1
+682,Čechovka,NULL,Česká republika,minipivovar,Havlíčkův Brod,Vysočina,"U kasáren 1518, Havlíčkův Brod",2016,24454150,Profit - Čechovka s.r.o.,https://pivovarcechovka.cz,1,0
+683,Česká whisky Trebitsch,NULL,Česká republika,létající pivovar,Třebíč,Vysočina,"Leopolda Pokorného 59/13, Třebíč",2018,NULL,NULL,NULL,NULL,0
+684,Dalešice,NULL,Česká republika,průmyslový pivovar,Dalešice,Vysočina,"Dalešice 71, Dalešice",2002,26236800,"AKCIOVÝ PIVOVAR DALEŠICE, a.s.",https://www.pivovar-dalesice.cz,1,1
+685,Dědkovo pivo,NULL,Česká republika,minipivovar,Dobronín,Vysočina,"Za Tratí 82/2, Dobronín",2015,22861874,Dědkovo pivo z.s.,https://www.facebook.com/dedkovopivo/?locale=cs_CZ,0,NULL
+686,Džekův ranč,NULL,Česká republika,restaurační pivovar,Ždírec nad Doubravou,Vysočina,"Žďárská ulice 22, Ždírec nad Doubravou",2011,NULL,MINIGAL s.r.o.,https://dzekuvranc.cz,1,1
+687,Gajdoš Biskupice,NULL,Česká republika,minipivovar,Biskupice-Pulkov,Vysočina,"Biskupice 2, Biskupice - Pulkov",2013,NULL,Gajdoš s.r.o.,https://www.pivovargajdos.cz/,1,1
+688,Hejkal,NULL,Česká republika,minipivovar,Nové Město na Moravě,Vysočina,"Žďárská 48, 59231 Nové Město na Moravě",2019,5911346,Pivovar Hejkal s.r.o.,https://www.pivovarhejkal.cz/,1,1
+689,Heřman,NULL,Česká republika,restaurační pivovar,Vladislav,Vysočina,Vladislav 130,2014,249653,Obec Heřmaň,https://www.obec-herman.cz/obec/,1,1
+690,Hladov,NULL,Česká republika,minipivovar,Hladov,Vysočina,Hladov 76,2015,17923271,Horácký nábytek pivovar Hladov s.r.o.,NULL,NULL,NULL
+691,Horácký pivovar,NULL,Česká republika,minipivovar,Jihlava,Vysočina,"Pávovská 3106/19, 586 01 Jihlava",2016,47674989,"Horácký pivovar, a.s.",https://horacky.cz,1,NULL
+692,Hospodský pivovar U Sudu,NULL,Česká republika,restaurační pivovar,Jihlava,Vysočina,"Fibichova 21, Jihlava",2017,29287413,"Zdarsa, s.r.o.",NULL,NULL,1
+693,Hrboun,NULL,Česká republika,uzavřený pivovar,Jihlava,Vysočina,Pávovská 3106/19,2015,3475964,Pivovar Hrboun s.r.o.,NULL,0,0
+694,Chotěboř,NULL,Česká republika,průmyslový pivovar,Chotěboř,Vysočina,"Průmyslová 1755, Chotěboř",2009,267538,Město Chotěboř,https://pivovarchotebor.cz,0,NULL
+695,Jihlava,"Pivovary Lobkowicz, a.s.",Česká republika,průmyslový pivovar,Jihlava,Vysočina,"Vrchlického 2, Jihlava",1860,27258611,"Pivovary Lobkowicz Group, a.s.",https://www.pivovar-jihlava.cz/,1,1
+696,Jihlavský radniční právovárečný pivovar,NULL,Česká republika,restaurační pivovar,Jihlava,Vysočina,"Masarykovo náměstí 66/67, Jihlava",2011,NULL,NULL,NULL,NULL,1
+697,Kamenice nad Lipou,NULL,Česká republika,průmyslový pivovar,Kamenice nad Lipou,Vysočina,"náměstí Československé armády 2, Kamenice nad Lipou",2017,248380,Město Kamenice nad Lipou,https://www.pivovar-kamenice.cz,1,1
+698,Kamenické pivo / MadCat,NULL,Česká republika,minipivovar,Kamenice,Vysočina,"Kamenice 299, 58823 Kamenice",2019,NULL,NULL,https://www.madcat.beer/,1,1
+699,Kozlíček,NULL,Česká republika,minipivovar,Batelov,Vysočina,"Horní Dubenky 145, Batelov",2006,1883127,Jan Kozlíček,http://www.pivovar-kozlicek.cz/,0,0
+700,Malostránský Pivovar Velké Meziříčí Jelínkova vila,NULL,Česká republika,restaurační pivovar,Velké Meziříčí,Vysočina,"Třebíčská 342/10, Velké Meziříčí",2004,NULL,"Aqueko, spol. s r.o.",https://www.jelinkovavila.cz,1,1
+701,Mazaný Lišák,NULL,Česká republika,létající pivovar,Žďár nad Sázavou,Vysočina,"Bezručova 51, Žďár nad Sázavou",2015,NULL,Mazaný Lišák s.r.o.,NULL,NULL,0
+702,Medard / Borovinka / Domanínské pivo,NULL,Česká republika,uzavřený pivovar,Bystřice nad Pernštejnem,Vysočina,"Domanín 127, Bystřice nad Pernštejnem",2014,NULL,NULL,NULL,0,0
+703,Měšťanský pivovar Havlíčkův Brod,NULL,Česká republika,průmyslový pivovar,Havlíčkův Brod,Vysočina,"Dobrovského 2027, Havlíčkův Brod",1834,60917628,Měšťanský pivovar Havlíčkův Brod a.s.,https://www.hbrebel.cz/,1,1
+704,Měšťanský Pivovar Trojan,NULL,Česká republika,restaurační pivovar,Telč,Vysočina,"Myslibořská 299, Telč",2017,NULL,NULL,NULL,NULL,1
+705,Na Čtyřce,NULL,Česká republika,restaurační pivovar,Pelhřimov,Vysočina,"Masarykovo náměstí 4, Pelhřimov",2016,NULL,NULL,https://www.nactyrce.cz/,1,1
+706,Náměstkovo - létající oný,NULL,Česká republika,létající pivovar,Červená Lhota,Vysočina,Červená Lhota,2017,NULL,Náměstkovo létající oný,NULL,NULL,0
+707,Pacov,NULL,Česká republika,restaurační pivovar,Pacov,Vysočina,"Jana Autengrubera 318, Pacov",2010,248789,Město Pacov,https://www.pivovarpacov.cz/,1,1
+708,Panský pivovar Telč,NULL,Česká republika,restaurační pivovar,Telč,Vysočina,"Slavatovská 86, Telč",2019,NULL,"Panský dvůr Telč, s.r.o.",https://www.panskypivovartelc.cz,1,1
+709,PePe - Serious Punk Brewery,NULL,Česká republika,létající pivovar,Žďár nad Sázavou,Vysočina,Žďár nad Sázavou,2015,NULL,PePe - Serious Punk Brewery,NULL,NULL,0
+710,Podklášterní pivovar Třebíč,NULL,Česká republika,restaurační pivovar,Třebíč,Vysočina,"Nad Zámkem 7, Třebíč",2012,NULL,Podklášterní pivovar URBAN s.r.o.,NULL,NULL,1
+711,Poutník Pelhřimov,NULL,Česká republika,průmyslový pivovar,Pelhřimov,Vysočina,"Pivovarská 856, Pelhřimov",1552,NULL,DUP družstvo Pelhřimov,https://www.pivovarpoutnik.cz/,1,1
+712,Račínský minipivovar / Leopold hotel,NULL,Česká republika,minipivovar,Račín,Vysočina,Račín 10,2015,NULL,NULL,https://www.racin.cz/cs/pivovar/,1,1
+713,Revolta,NULL,Česká republika,minipivovar,Žďár nad Sázavou,Vysočina,"náměstí Republiky 64, Žďár nad Sázavou",2016,5611539,Pivovar Revolta s.r.o.,https://revolta.cz,0,0
+714,Ruprenz,NULL,Česká republika,minipivovar,Uhřínovice,Vysočina,"Uhřínovice 26, Uhřínovice",2013,19838816,Pivovar Ruprenz s.r.o.,pivoruprenz.cz,0,NULL
+715,Sobíňov,NULL,Česká republika,minipivovar,Sobíňov,Vysočina,"Sobíňov 65, 58262 Sobíňov",2019,268275,Obec Sobíňov,https://www.facebook.com/minipivovar.Sobinov/,0,NULL
+716,Svatojakubský pivovar,NULL,Česká republika,restaurační pivovar,Hluboké,Vysočina,Hluboké 27,2016,41548868,Miroslav Kopuletý fyzická osoba,https://svatojakubskypivovar.cz,1,1
+717,Šepťák,NULL,Česká republika,minipivovar,Ledeč nad Sázavou,Vysočina,"Hrnčíře 24, Ledeč nad Sázavou",2021,2633205,Aleš Šepták,https://pivovarseptak.cz/web/,1,1
+718,Želivský klášterní pivovar,NULL,Česká republika,minipivovar,Želiv,Vysočina,"Želiv 122, Želiv",2003,28118685,Želivský klášterní pivovar s.r.o. v likvidaci,https://www.pivovarzeliv.com/,1,1
+719,1. selský pivovárek Kroměříž,NULL,Česká republika,minipivovar,Kroměříž,Zlínský kraj,"Havlíčkova 4252/130, Kroměříž",2013,NULL,"1.selský pivovárek, s.r.o.",https://www.selsky-pivovarek.cz,1,1
+720,Bylnice,NULL,Česká republika,minipivovar,Brumov-Bylnice,Zlínský kraj,"Mýto 44, Brumov-Bylnice",2015,2694981,PIVOVAR Bylnice s. r. o.,https://www.bylnice.cz,0,0
+721,Čechmánek,uzavřeno,Česká republika,uzavřený pivovar,Zlín,Zlínský kraj,"2. května 2728, Zlín",2013,2133431,Ing. Michal Čechmánek,NULL,0,0
+722,Černý orel Kroměříž,NULL,Česká republika,restaurační pivovar,Kroměříž,Zlínský kraj,"Velké náměstí 9/24, Kroměříž",2009,NULL,ČERNÝ OREL pivovar s.r.o.,https://www.cerny-orel.eu/,1,1
+723,Harley Pub,NULL,Česká republika,restaurační pivovar,Otrokovice,Zlínský kraj,Dr. E. Beneše 512,2015,NULL,Pivovar Restaurace Muzeum - Harley Pub,https://www.harleypub.com/,1,1
+724,Holendr,NULL,Česká republika,restaurační pivovar,Valašské Meziříčí,Zlínský kraj,Hřbitovní 484,2015,21954691,Pivovar Holendr s.r.o.,https://www.holendr.cz/,1,1
+725,Hrádek,NULL,Česká republika,minipivovar,Slavičín,Zlínský kraj,"Družstevní 195,  Slavičín",2013,108405,Zemědělsko obchodní družstvo Starosedlský Hrádek,https://www.pivovar-hradek.cz/,1,NULL
+726,Hutisko-Solanec,Balitovy valašské pivovary,Česká republika,uzavřený pivovar,Hutisko,Zlínský kraj,"Hutisko - Solanec 609, Hutisko",2013,5046360,"Klub důchodců Hutisko-Solanec, z.s.",NULL,0,0
+727,Chmelnice,NULL,Česká republika,restaurační pivovar,Napajedla,Zlínský kraj,"Palackého 115, Napajedla",2017,4828500,Pivovar Chmelnice s.r.o.,www.pivovarchmelnice.cz,0,1
+728,Jarošovský pivovar,NULL,Česká republika,minipivovar,Uherské Hradiště,Zlínský kraj,"Pivovarská 303, Uherské Hradiště",2017,4500504,Jarošovský pivovar a.s.,https://www.jarosovskypivovar.cz/,1,1
+729,Karlovský minipivovar / Pod Pralesem,NULL,Česká republika,restaurační pivovar,Velké Karlovice,Zlínský kraj,"Velké Karlovice 545, Velké Karlovice",2014,NULL,Vršák s.r.o.,https://karlovskyminipivovar.cz,0,1
+730,Kelč,NULL,Česká republika,uzavřený pivovar,Kelč,Zlínský kraj,Kelč 112,2015,3639126,Minipivovar Kelč s.r.o.,https://www.kelc.cz/,0,0
+731,Krásenský pivovar,NULL,Česká republika,restaurační pivovar,Valašské Meziříčí,Zlínský kraj,"Na Tržnici 78/1, Valašské Meziříčí",2017,6351883,Krásenský pivovar s.r.o.,https://www.krasenskypivovar.cz,0,1
+732,Minipivovar Maxmilian,NULL,Česká republika,minipivovar,Kroměříž,Zlínský kraj,"Na Sádkách 2798/9, Kroměříž",2012,NULL,Pivovar Kroměříž s.r.o.,https://www.pivomaxmilian.cz/,1,1
+733,Rotor,NULL,Česká republika,minipivovar,Kunovice,Zlínský kraj,"V Pastouškách 1781, Kunovice",2020,2244225,ROTOR POWER s.r.o.,https://rotorpower.cz,0,0
+734,Rožnovský pivovar,NULL,Česká republika,restaurační pivovar,Rožnov pod Radhoštěm,Zlínský kraj,"Pivovarská 6, Rožnov pod Radhoštěm",2010,NULL,Rožnovské pivní lázně s.r.o.,https://www.roznovskepivnilazne.cz,1,1
+735,Skřivánek,NULL,Česká republika,připravovaný pivovar,Lukov,Zlínský kraj,Neuvedeno,Neuvedeno,1277600,Martin Skřivánek,https://www.martinskrivanek.com/,0,0
+736,Theodor,NULL,Česká republika,minipivovar,Velké Těšany,Zlínský kraj,Velké Těšany 21,2020,1949381,Theodor Dietl,https://www.pivovartheodor.cz/,1,1
+737,Topolský pivovar,NULL,Česká republika,restaurační pivovar,Topolná,Zlínský kraj,"Topolná 224, Topolná",2018,24198773,Topolský pivovar s.r.o.,https://www.topolskypivovar.cz/,1,1
+738,Uherský Brod,"Pivovary Lobkowicz, a.s.",Česká republika,průmyslový pivovar,Uherský Brod,Zlínský kraj,"Neradice 369, Uherský Brod",1894,30848,"Lidová tvorba, družstvo umělecké výroby Uherský Brod",https://www.pivovar-uherskybrod.cz/,1,1
+739,Valášek,NULL,Česká republika,restaurační pivovar,Vsetín,Zlínský kraj,"Dolní Jasénka 190, Vsetín",2002,970301,Jan Valášek,https://pivovarvalasek.cz,1,1
+740,Vraník,NULL,Česká republika,restaurační pivovar,Trnava u Zlína,Zlínský kraj,"Trnava 23, Trnava, Česká republika",2014,26919214,Pivovar Vraník s.r.o.,https://www.pivovarvranik.cz/,1,1
+741,Záhlinice,NULL,Česká republika,minipivovar,Záhlinice,Zlínský kraj,"Záhlinice 67, Hulín",2016,46998276,TJ Sokol Záhlinice z.s.,https://www.zahlinicky-pivovar.cz,1,1
+742,Zašová,Valašský pivovar Bon,Česká republika,minipivovar,Zašová,Zlínský kraj,"Zašová 595, Valašské Meziříčí",2004,304476,Obec Zašová,https://www.pivovarzasova.cz/,0,0
+743,Zlínský švec,NULL,Česká republika,restaurační pivovar,Zlín,Zlínský kraj,"Švermova 101, Zlín - Malenovice",2010,NULL,Pivovar Malenovice s.r.o.,https://www.zlinskysvec.cz/,1,1
+744,Minipivovar Bohdaneč,NULL,CZ,minipivovar,Bohdaneč,Středočeský kraj,"Bohdaneč 3, 285 25 Bohdaneč",2022,NULL,NULL,NULL,NULL,NULL
+745,Minipivovar Fénix Brno,NULL,CZ,minipivovar,Brno - Veveří,Jihomoravský kraj,"Hrnčířská 813/23, 60200 Brno - Veveří",2025,NULL,NULL,https://hostinecpodschody.cz/,1,1
+746,Univerzitní minipivovar Johann Brno,NULL,CZ,minipivovar,Brno,Jihomoravský kraj,"Zemědělská 1, 613 00 Brno",2016,NULL,NULL,https://utp.af.mendelu.cz/pivovar,1,1
+747,Minipivovar Fčelín Budišovice,NULL,CZ,minipivovar,Budišovice,Moravskoslezský kraj,"Opavská 41, 747 64 Budišovice",2024,NULL,NULL,www.pivovarfcelin.cz,1,0
+748,Minipivovar Pešek Černá,NULL,CZ,restaurační pivovar,Černá,Vysočina,"Černá 139, 594 42 Černá",2022,NULL,NULL,www.pivo-pesek.cz,1,1
+749,Minipivovar Gryf Černilov,NULL,CZ,minipivovar,Černilov,Královéhradecký kraj,"Černilov 350, 503 43 Černilov",2022,NULL,NULL,NULL,NULL,NULL
+750,Minipivovar Kotouč Česká Kamenice,NULL,CZ,minipivovar,Česká Kamenice,Ústecký kraj,"Pivovarská 3, 407 21 Česká Kamenice",2015,NULL,NULL,www.pivovarkamenice.cz,0,0
+751,Minipivovar Sever Děčín,NULL,CZ,minipivovar,Děčín,Ústecký kraj,"U Plovárny 1264/10c, 405 02 Děčín",2018,NULL,NULL,www.pivovarsever.cz,0,NULL
+752,Minipivovar Fojtovice,NULL,CZ,minipivovar,Krupka - Fojtovice,Ústecký kraj,"Fojtovice 172, 417 41 Krupka - Fojtovice",2022,NULL,NULL,NULL,NULL,NULL
+753,Minipivovar Frymburk,NULL,CZ,minipivovar,Frymburk č. 11,Jihočeský kraj,Frymburk č. 11,2025,NULL,NULL,www.lipno-markus.cz,1,1
+754,Mikropivovar Hlučov,NULL,CZ,mikropivovar,Kokořínský Důl,Středočeský kraj,"Kokořínský Důl 57, 27723 Kokořínský Důl",2023,NULL,NULL,www.hlucov.cz,1,1
+755,Minipivovar Splávek Choceň,NULL,CZ,minipivovar,Choceň,Pardubický kraj,"Pernerova 95, 565 01 Choceň",2021,NULL,NULL,www.pivovarchocen.cz,1,1
+756,Nanopivovar Radování Chvaletice u Protivína,NULL,Česká republika,minipivovar,Protivín,Jihočeský kraj,"Chvaletice 47, 398 11 Protivín",2024,NULL,NULL,www.uroubenestudny.cz,1,1
+757,Minipivovar Ivančice,NULL,CZ,mikropivovar,Ivančice,Jihomoravský kraj,"Kounická 1736/86, 66491 Ivančice",2023,NULL,NULL,www.pivovarivancice.cz,1,1
+758,Minipivovar Jičín,NULL,CZ,minipivovar,Jičín - Valdické Předměstí,Královéhradecký kraj,"Hradecká 519, 506 01 Jičín - Valdické Předměstí",2023,NULL,NULL,www.minipivovarjicin.cz,1,1
+759,Malopivovar Hunec Kamýk nad Vltavou,NULL,CZ,minipivovar,Kamýk nad Vltavou,Středočeský kraj,"Kamýk nad Vltavou 96, 262 63 Kamýk nad Vltavou",2024,NULL,NULL,www.hunec.cz,0,0
+760,Minipivovar Habakuk Kaplice,NULL,CZ,minipivovar,Kaplice,Jihočeský kraj,"Českobudějovická 409, 382 41 Kaplice",2025,NULL,NULL,www.pivovarhabakuk.cz,0,0
+761,Minipivovar Bratři v pivu Kaznějov,NULL,CZ,mikropivovar,Kaznějov,Plzeňský kraj,"Pod Továrnou 49, 331 51 Kaznějov",2025,NULL,NULL,www.bratrivpivu.cz,0,0
+762,Minipivovar Myjavka Klobouky u Brna,NULL,CZ,minipivovar,Klobouky u Brna,Jihomoravský kraj,"Nádražní 830/85, 691 72 Klobouky u Brna",2025,NULL,NULL,https://www.facebook.com/profile.php?id=61574865627869&ref=embed_page#,0,NULL
+763,Minipivovar Orlík Kožlí,NULL,CZ,minipivovar,Kožlí,Jihočeský kraj,"Kožlí 5, 398 04 Kožlí",2024,NULL,NULL,https://www.pivovarorlik.cz/,1,1
+764,Minipivovar Breimis Krhová,NULL,CZ,minipivovar,Krhová,Olomoucký kraj,"Barvířka 25, 756 63 Krhová",2023,NULL,NULL,www.breimis.cz,0,0
+765,Minipivovar Arogant Krnov,NULL,CZ,minipivovar,Krnov - Opavské předměstí,Moravskoslezský kraj,"Chářovská, Krnov - Opavské předměstí",2023,NULL,NULL,www.pivovar-arogant.cz,1,1
+766,Minipivovar Dobrá Kára Kvasice,NULL,CZ,minipivovar,Kvasice,Zlínský kraj,"Horní 7, 768 21 Kvasice",2025,NULL,NULL,https://www.facebook.com/groups/pivovaryceskerepubliky/posts/24097843636511046/,0,NULL
+767,Lázeňský pivovar Luhačovice,NULL,CZ,minipivovar,Luhačovice,Zlínský kraj,"Družstevní 142, 763 26 Luhačovice",2021,NULL,NULL,www.pivovarluhacovice.cz,1,1
+768,Minipivovar Nechan Lysá nad Labem,NULL,CZ,minipivovar,Lysá nad Labem,Středočeský kraj,"Poděbradova 150/26, 289 22 Lysá nad Labem",2026,NULL,NULL,https://pivovarnechan.cz/,1,NULL
+769,Minipivovar Rauš Morašice,NULL,Česká republika,minipivovar,Morašice,Jihomoravský kraj,"Morašice 12, 67171 Morašice",2024,NULL,NULL,www.pivovar-raus.cz,1,1
+770,Knížecí minipivovar Moravská Třebová,NULL,CZ,minipivovar,Moravská Třebová - Město,Pardubický kraj,"Zámecké nám. 183/4, 571 01, Moravská Třebová - Město",2023,NULL,NULL,www.cateringzapletal.cz,1,1
+771,Minipivovar Starý hrad Nivy,NULL,CZ,minipivovar,Děpoltovice,Karlovarský kraj,"Nivy 4, 362 25 Děpoltovice",2014,NULL,NULL,www.eurocentrum-pivnilazne.cz,1,0
+772,Minipivovar Kořenáč Odry-Pohoř,NULL,CZ,minipivovar,Odry - Pohoř,Moravskoslezský kraj,"Pohoř 42, 74235 Odry - Pohoř",2026,NULL,NULL,www.pivovar-korenac.cz,1,1
+773,Minipivovar Fenik Ohrazenice,NULL,CZ,minipivovar,Ohrazenice,Středočeský kraj,"Ohrazenice 148, 262 23 Ohrazenice",2022,NULL,NULL,www.pivovarfenik.cz,0,0
+774,Minipivovar Bejval Olešnice,NULL,CZ,minipivovar,Olešnice,Jihočeský kraj,"Olešnice 30, 373 31 Olešnice",2023,NULL,NULL,www.pivovarbejval.cz,1,1
+775,Minipivovar Garage Ostrava,NULL,CZ,minipivovar,Ostrava - Martinov,Moravskoslezský kraj,"Martinovská 3262/50, 723 00 Ostrava - Martinov",2013,NULL,NULL,www.garageclub.cz,1,1
+776,Minipivovar Hřebec Pardubice,NULL,CZ,minipivovar,Pardubice,Pardubický kraj,"Semtín 105, 530 02 Pardubice VII - Semtín",2025,2025,NULL,NULL,NULL,1
+777,Minipivovar Petrovice,NULL,CZ,minipivovar,Mladošovice - Petrovice,Jihočeský kraj,"Petrovice 23, 373 12 Mladošovice - Petrovice",2021,NULL,NULL,www.pivovarpetrovice.cz,1,1
+778,Minipivovar Petrovické zlato,NULL,CZ,minipivovar,Petrovice u Rakovníka,Středočeský kraj,"Petrovice č.p. 1, Zámecký areál, 270 35 Petrovice u Rakovníka",2026,NULL,NULL,www.petrovickepivo.cz,1,1
+779,Minipivovar Lectvar Plzeň,NULL,CZ,minipivovar,Plzeň 4 - Újezd,Plzeňský kraj,"Pod Rozhlednou 791/23, 312 00 Plzeň 4 - Újezd",2025,NULL,NULL,NULL,NULL,NULL
+780,Minipivovar Smíšek Podmoky,NULL,CZ,minipivovar,Podmoky,Středočeský kraj,"Podmoky 49, 289 04 Podmoky",2020,NULL,NULL,www.pivovar-smisek.cz,0,0
+781,Minipivovar Komonec Pozlovice,NULL,CZ,minipivovar,Pozlovice,Zlínský kraj,"K Přehradě 334, 763 26 Pozlovice",2025,NULL,NULL,www.komonec.cz,1,1
+782,Školní pivovar VŠCHT Praha,NULL,CZ,minipivovar,Praha 6,Hlavní město Praha,"Vysoká škola chemicko-technologická, Technická 5 , 166 28 Praha 6",2010,NULL,NULL,www.vscht.cz,1,1
+783,Minipivovar Kolčavka Praha,NULL,CZ,minipivovar,Praha 9 - Libeň,Hlavní město Praha,"Lihovarská 1060/12, 190 00 Praha 9 - Libeň",2014,NULL,NULL,https://pivovarkolcavka.cz/,1,1
+784,Minipivovar Beznoska Praha,NULL,CZ,minipivovar,Praha 9 - Prosek,Hlavní město Praha,"Klíčovská 805/11, Praha 9 - Prosek",2013,NULL,NULL,www.skolicka.cz,1,1
+785,Minipivovar Loď Praha,NULL,CZ,minipivovar,Praha 1,Hlavní město Praha,"Dvořákovo nábřeží, Štefánikův most, Kotviště číslo 19, 110 00 Praha 1",2017,NULL,NULL,https://www.lodpivovar.cz/,1,1
+786,Minipivovar Contract brewing Praha,NULL,CZ,restaurační pivovar,Praha 13 - Stodůlky,Hlavní město Praha,"OC Lužiny, Archeologická 2256/1, 155 00 Praha 13 - Stodůlky",2024,NULL,NULL,www.contractbrewing.cz,0,1
+787,Minipivovar U Tří králů Prostějov,NULL,CZ,mikropivovar,Prostějov,Olomoucký kraj,"Finská 4592/8, 796 04 Prostějov",2011,NULL,NULL,www.kolibautrikralu.cz,1,1
+788,Přepyšský pivovárek Přepychy,NULL,CZ,mikropivovar,Přepychy,Pardubický kraj,"Přepychy 42, 533 16 Přepychy",2025,NULL,NULL,NULL,NULL,NULL
+789,Minipivovar Pivojem Příbor,NULL,CZ,minipivovar,Příbor,Moravskoslezský kraj,"Josefa Rašky 392, 742 58 Příbor",2023,NULL,NULL,www.pivojem.cz,1,1
+790,Minipivovar Šarovec Ptení,NULL,CZ,minipivovar,Ptení,Olomoucký kraj,"Ptení 304, 798 43 Ptení",2024,NULL,NULL,NULL,NULL,NULL
+791,Minipivovar Na Statku Radíkovice,NULL,CZ,minipivovar,Radíkovice,Královéhradecký kraj,"Radíkovice 12, 503 27 Radíkovice",2023,NULL,NULL,https://pivovarnastatku.cz/,1,NULL
+792,Minipivovar Anna Rokytňany,NULL,CZ,minipivovar,Rokytňany - Horní Rokytňany,Královéhradecký kraj,"Horní Rokytňany, 50723 Rokytňany - Horní Rokytňany",2022,NULL,NULL,www.annakrava.cz,1,1
+793,Minipivovar Rožmberk,NULL,CZ,minipivovar,Rožmberk nad Vltavou,Jihočeský kraj,"Rožmberk nad Vltavou 65, 382 18 Rožmberk nad Vltavou",2023,NULL,NULL,www.pivovarrozmberk.cz,1,1
+794,Minipivovar Rožnov pod Radhoštěm,NULL,CZ,minipivovar,Rožnov pod Radhoštěm,Olomoucký kraj,"Pivovarská 6, 756 61 Rožnov pod Radhoštěm",2010,NULL,NULL,www.roznovskepivo.cz,0,0
+795,Minipivovar Rýmařov,NULL,CZ,minipivovar,Rýmařov,Olomoucký kraj,"Pivovarská 14/16, 795 01 Rýmařov",1995,NULL,NULL,www.hotelexcelent.cz,1,1
+796,Mipivovar Libor Hančar Seč-Počátky,NULL,CZ,minipivovar,Seč - Počátky,Pardubický kraj,"Počátky 36, 538 07 Seč - Počátky",2021,NULL,NULL,www.pivovarhancar.cz,1,1
+797,Měšťanský minipivovar Soběslav,NULL,CZ,minipivovar,Soběslav II,Jihočeský kraj,"Na Pískách 488, 392 01 Soběslav II",2021,NULL,NULL,www.raselina.cz,1,1
+798,Minipivovar 66 Sosnová,NULL,CZ,restaurační pivovar,Sosnová,Liberecký kraj,"Sosnová 66, 470 01 Sosnová",2024,NULL,NULL,www.pivovar66.cz,1,1
+799,Minipivovar Stráž nad Nežárkou,NULL,CZ,minipivovar,Stráž nad Nežárkou,Jihočeský kraj,"náměstí Emy Destinnové 7, 378 02 Stráž nad Nežárkou",2022,NULL,NULL,www.pivovarstraz.cz,1,1
+800,Minipivovar Friesovy boudy Strážné,NULL,CZ,minipivovar,Strážné,Pardubický kraj,"Penzion Andula, Strážné 96, 543 52 Strážné",2013,NULL,NULL,www.penzionandula.cz,1,1
+801,Minipivovar Strážnický Slavjan,NULL,CZ,minipivovar,Strážnice,Jihomoravský kraj,"Radějovská 954, 696 62 Strážnice",2021,NULL,NULL,NULL,NULL,NULL
+802,Ruxusní minipivovar Telč,NULL,CZ,minipivovar,Telč - Telč-Štěpnice,Pardubický kraj,"Slavatovská 307, 588 56, Telč - Telč-Štěpnice",2023,NULL,NULL,https://www.facebook.com/p/Ruxusn%C3%AD-minipivovar-100092296327335/,0,NULL
+803,Minipivovar Fenek Třebíč,NULL,CZ,minipivovar,Třebíč,Jihomoravský kraj,"Nad Zámkem 7, 674 01, Třebíč",2012,NULL,NULL,www.pivovar-trebic.cz,1,1
+804,Minipivovar Kulivá Hora Třebotov,NULL,CZ,minipivovar,Třebotov,Středočeský kraj,"Hlavní 425, 252 26 Třebotov",2024,NULL,NULL,www.pivovarkulivahora.cz,1,1
+805,Minipivovar Orlovna Uherské Hradiště,NULL,CZ,minipivovar,Uherské Hradiště,Jihomoravský kraj,"Mariánské náměstí 78, 68601 Uherské Hradiště",2021,NULL,NULL,www.minipivovar-orlovna.cz,1,NULL
+806,Minipivovar Many Worlds Unhošť,NULL,CZ,minipivovar,Unhošť,Středočeský kraj,"Křivoklátská 170, 273 51 Unhošť",2021,NULL,NULL,www.manyworlds.cz,0,0
+807,Minipivovar Rychtik Velké Bílovice,NULL,CZ,minipivovar,Velké Bílovice,Jihomoravský kraj,"Polní 1480, 691 02 Velké Bílovice",2024,NULL,NULL,www.rychtik.cz,0,0
+808,Školní minipivovar SOŠEP Veselí nad Lužnicí,NULL,CZ,minipivovar,Veselí na Lužnicí,Jihočeský kraj,"Blatské sídliště 600/I., 391 81 Veselí na Lužnicí",2011,NULL,NULL,www.sos-veseli.cz,1,0
+809,Zmolský minipivovar Višňové,NULL,CZ,minipivovar,Višňové,Jihomoravský kraj,"Višňové 148, 671 38 Višňové",2023,NULL,NULL,www.zmolskypivovar.cz,1,1
+810,Minipivovar Balík Vosná,NULL,CZ,minipivovar,Šebířov - Vosná,Jihočeský kraj,"Vosná 1, 391 43 Šebířov - Vosná",2023,NULL,NULL,www.pivovarbalik.cz,0,0
+811,Minipivovar Bobr Zadní Třebaň,NULL,CZ,mikropivovar,Zadní Třebaň,Středočeský kraj,"U mlýna 8, 267 29 Zadní Třebaň",2013,NULL,NULL,www.pivovarbobr.cz,1,0
+812,Minipivovar Misionář Zlín,NULL,CZ,minipivovar,Zlín - Mladcová,Zlínský kraj,"Ulička 601, 76001 Zlín - Mladcová",2024,NULL,NULL,www.pivovarmisionar.cz,1,1
+813,Mikropivovar Jonatán Znojmo,NULL,CZ,mikropivovar,Znojmo,Jihomoravský kraj,"Masarykovo náměstí 389/14, 66902 Znojmo",2020,NULL,NULL,www.vinarskydumznojmo.cz,1,1
+814,Minipivovar Old Cock Znojmo,NULL,CZ,minipivovar,Znojmo,Jihomoravský kraj,"Na Valech 1560/15, 669 02 Znojmo",2023,NULL,NULL,https://www.oldcock.cz/full/#pivo,1,1
+815,Hell Bastard,NULL,CZ,domovarnictví,Brno,Jihomoravský kraj,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+816,Four Elements Brewery,NULL,CZ,minipivovar,Praha,Hlavní město Praha,"Svatoplukova 528, 128 00, Praha 2-Nusle",2019,NULL,NULL,https://fourelementsbrewery.com/,1,1
+817,NOZIB Special Brews,NULL,CZ,minipivovar,Čižic,Plzeňský kraj,NULL,2018,NULL,NULL,https://nozib.eu/,1,NULL
+818,buDDha Karlín,NULL,CZ,domovarnictví,Praha,Hlavní město Praha,NULL,2021,NULL,NULL,NULL,NULL,NULL
+819,Beergeek,NULL,CZ,minipivovar,Praha,Hlavní město Praha,"Slavíkova 10, Praha 3",2014,NULL,NULL,https://beergeek.cz/,1,1
+820,Domácí pivovar Partyzán,NULL,CZ,domovarnictví,Liberec,Liberecký kraj,NULL,NULL,NULL,NULL,NULL,0,0
+821,Zubatý pes Brew,NULL,CZ,uzavřený pivovar,Praha,Hlavní město Praha,NULL,2012,NULL,NULL,NULL,0,0
+822,Létající Ovčáček,NULL,CZ,létající pivovar,Osvětimany,Zlínský kraj,NULL,NULL,NULL,NULL,NULL,NULL,0
+823,Lachout VŠCHT,NULL,CZ,minipivovar,Praha,Hlavní město Praha,"Technická 5, 166 28 Praha 6",1900,NULL,NULL,https://www.vscht.cz/pivovar,1,1
+824,Beerware,NULL,CZ,domovarnictví,Praha,Hlavní město Praha,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+826,Haksna,NULL,CZ,minipivovar,Ostrava,Moravskoslezský kraj,"Proskovická 1169/215, 724 00 Ostrava-Stará Bělá",2022,NULL,NULL,https://eshop.haksna.cz/,1,1
+827,Saxenberg,NULL,CZ,minipivovar,Český Těšín,Moravskoslezský kraj,"Ostravská 585, 737 01 Český Těšín 1",2010,NULL,NULL,https://www.saxenberg.com/,1,NULL
+828,Dannyy,NULL,CZ,domovarnictví,Praha,Plzeňský kraj,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+829,Platin,NULL,CZ,domovarnictví,Praha,Hlavní město Praha,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+830,Podolák,NULL,CZ,domovarnictví,Praha,Hlavní město Praha,NULL,NULL,NULL,NULL,NULL,NULL,NULL
