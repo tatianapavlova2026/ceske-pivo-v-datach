@@ -1,0 +1,314 @@
+═══════════════════════════════════════════════════════════════════
+PRAVIDLÁ DETEKCIE PREDAJNE A VÝČEPU PIVOVAROV
+═══════════════════════════════════════════════════════════════════
+
+Vstup: webová stránka pivovaru + jeho mesto + typ
+Výstup: prodejna, prodejna_vycap
+
+══════════════════════════════════════════════════════════════════
+1. AUTO-PRAVIDLÁ PODĽA TYPU PIVOVARU (bez webu, prednosť)
+══════════════════════════════════════════════════════════════════
+
+  uzavřený pivovar       → prodejna=False, vycap=False
+  připravovaný pivovar   → prodejna=False, vycap=False
+  domovar                → prodejna=False, vycap=False
+  létající pivovar       → vycap=False (predajňa sa hľadá normálne)
+  restaurační pivovar    → vycap=True  (predajňa sa hľadá normálne)
+
+══════════════════════════════════════════════════════════════════
+2. KĽÚČOVÉ SLOVÁ — PRODEJNA (fyzická predajňa balených pív)
+══════════════════════════════════════════════════════════════════
+
+VŠETKY SLOVÁ SÚ NORMALIZOVANÉ (lowercase, bez diakritiky)
+
+KORENE PREDAJ (sloveso/podstatné meno predaja):
+  prodej, prodav, prodame, prodavame, vydej, vydav,
+  stocime, stacime, stacirn, naceps
+  EN: for sale, buy, purchase, shop, store, available,
+      we sell, selling
+
+KORENE OBAL (typy balenia):
+  sud, lah, pet, petk, litr, keg, skle, plast
+  EN: bottle, bottl, can, cans, growler, barrel, kegs
+
+KORENE PIVO:
+  piv (pivo, piva, pivem, pivovar, ...)
+  EN: beer, ale, lager, brew
+
+KORENE PRODEJNA (priame slovo):
+  prodejn, pivotek, obchod s pivem, vydejn, stacirn
+  EN: tap room, taproom, tap-room, brewery shop, brewery store,
+      our shop, our store, bottle shop, bottle-shop, off-licence
+
+KORENE ODBER:
+  odber, odnest, odnes, domu, s sebou, na cestu,
+  vyzvednut, vyzved
+  EN: to go, takeaway, take-away, to take home,
+      pick up, pickup, self-collect
+
+KONTEXTOVÉ SLOVÁ — LEN AK SÚ BLÍZKO (do 80 znakov) "U NÁS / V PIVOVARU":
+  zakoupit, koupit, kupte
+  → ak je v texte aj "u nas", "v pivovaru", "v sidle",
+    "na pivovare", "primo v pivovaru" alebo MESTO pivovaru
+    → ráta sa ako predaj
+  → inak ignorovať (môže byť e-shop)
+
+KONTEXTOVÉ SLOVÁ — SILNÝ INDIKÁTOR OSOBNÉHO ODBERU:
+  po domluve, po dohode, po predchozim objednani,
+  na zavolani, na telefon, kontaktujte nas
+  EN: by appointment, by arrangement
+  → ak sú v texte spolu s typmi obalov (sud/PET/lahev)
+    alebo s mestom pivovaru → SILNÝ +2 body
+
+OTVÁRACIA DOBA:
+  po-ne, po-pa, po-ct, "po - ct", "po - pa",
+  "po - pá", "po - ne", "pondělí - pátek",
+  hodiny vo formáte "13-17", "9:00-16:30", "9 - 17",
+  provozni doba, provozní doba, oteviraci doba, otevírací doba
+  → samé o sebe málo
+  → +1 ak je v okolí typov obalov alebo "u nas"
+  → +2p, +4v ak "provozní/otevírací doba" + časy v texte (silný signál)
+  → +1p, +3v ak "provozní/otevírací doba" + dni v texte
+  → +1p, +2v ak časy + dni (bez kľúčového slova)
+  → +1v ak samotné časy
+
+E-SHOP (zradné):
+  objedn (objednejte, objednavka)
+  rozvoz, dorucujeme, kuryr, posilame, posleme
+  EN: order, ordering, delivery, ship, shipping
+  → samé o sebe NERATAJU
+  → AK sú JEDINÉ indikátory → "len e-shop"
+  → AK sú spolu s "u nas/v pivovaru" alebo osobným odberom
+    → predajna=True
+
+══════════════════════════════════════════════════════════════════
+3. SILNÉ FRÁZY — PRODEJNA (priame slová "máme predajňu")
+══════════════════════════════════════════════════════════════════
+
+CZ:
+  podnikova prodejna, firemni prodejna,
+  pivoteka, pivni obchod,
+  pivo s sebou, pivo na cestu, pivo domu,
+  stacirna piva,
+  v nasi prodejne, do nasi prodejny, nase prodejna,
+  kde nas najdete, navstivte nas,
+  muzete koupit, muzete zakoupit, muzete si zakoupit,
+  prodavame piva, prodej piva,
+  odber piva, odnest domu,
+  stacame do petlahvi, stacame do sudu,
+  kde koupit nase pivo, kde se da koupit,
+  nase piva najdete, nase piva si muzete koupit
+
+EN:
+  beer to go, beer to take home, take home beer,
+  buy our beer, buy beer, purchase beer, buy beers,
+  our beers are available, available for purchase,
+  fill your growler, growler fills,
+  open for takeaway, available to take away,
+  visit our shop, visit our store, visit our taproom,
+  available at our brewery, directly from the brewery
+
+══════════════════════════════════════════════════════════════════
+4. KĽÚČOVÉ SLOVÁ — VÝČAP (vlastná reštaurácia / výčep)
+══════════════════════════════════════════════════════════════════
+
+KORENE VÝČAP REŠTAURÁCIA (priame slovo):
+  restaurac, hospod, pivnic, hostine,
+  pivobar, pivni bar, pivní bar
+  EN: restaurant, pub, tavern, brewpub, brew pub,
+      tap house, taphouse, taproom, beer hall
+
+KORENE VÝČAP ČAPOVANIE (technika):
+  cepuj, cepovan, cepu, tocim, tocime, tankov, vycep
+  EN: on tap, on draught, on draft, draft beer,
+      draught beer, tap beer, tank beer
+
+KORENE REŠTAURÁCIA OSTATNÉ (slabšie):
+  jidelni, obed, vecere, obcerstv, rezervace stol,
+  nase provozovny, nase pobocky
+  EN: menu, lunch, dinner, reservation,
+      book a table, booking
+
+══════════════════════════════════════════════════════════════════
+5. "KAM NA PIVO" — LEN AK V MESTE PIVOVARU
+══════════════════════════════════════════════════════════════════
+
+Frázy typu "kde nás najdete na pivo" sú silným signálom výčapu,
+no len ak odkazujú na vlastné sídlo pivovaru. Veľké pivovary
+uvádzajú na webe zoznamy barov a reštaurácií po celej krajine
+kde čapujú ich pivo — to je distribúcia, nie vlastný výčap.
+Preto sa tieto frázy vyhodnocujú len v kombinácii s blízkosťou
+mesta pivovaru (do 100 znakov). Ak je v okolí frázy mesto
+pivovaru → vlastný výčap (+3 body). Ak sú tam len iné mestá
+alebo mesto chýba → 0 bodov.
+
+KORENE KAM NA:
+  kam na pivo, kde se napit, kam zajit na pivo,
+  kam na nase pivo, kde nas najdete na pivo,
+  kde nase pivo cepujem, kde nase pivo capuje
+  EN: where to drink, where to find our beer,
+      find our beer at
+
+PRAVIDLO:
+  Tieto slová sa kontrolujú s blízkosťou MESTA pivovaru
+  (do 100 znakov):
+  • "kam na pivo" + MESTO pivovaru blízko → +3v, +1p
+  • "kam na pivo" + INÉ mestá v zozname  → 0 bodov (distribúcia)
+  • "kam na pivo" bez mesta vôbec        → 0 bodov (neznámy kontext)
+
+PRÍKLAD:
+  Pivovar v Třeboni:
+    "Kam na Regenta? Pivovarská restaurace, Trocnovské nám. 124"
+       ↑                                                ↑
+       slovo                                       Třeboň blízko? hľadáme
+    → ak je v texte "Trebon" do 100 znakov → +3 body
+    → ak je tam len "Praha, Brno, Ostrava" → 0 bodov
+
+══════════════════════════════════════════════════════════════════
+6. ŠPECIÁLNE STAVY WEBU
+══════════════════════════════════════════════════════════════════
+
+  Facebook profil (facebook.com/...)
+    → prodejna = "Facebook profil"
+    → vycap: podľa typu pivovaru (restaurační=True, létající=False,
+              ostatné = '' bez ďalšej detekcie)
+
+  Web obce/mesta (2+ obecné slová, pozri sekciu 7)
+    → prodejna = "web obce"
+    → vycap = False
+
+  Iba e-shop (rozvoz/objednávka bez fyzickej predajne)
+    → prodejna = "len e-shop"
+    → vycap = False (zvyčajne)
+
+══════════════════════════════════════════════════════════════════
+7. WEB OBCE — DETEKCIA
+══════════════════════════════════════════════════════════════════
+
+Ak text obsahuje 2+ z týchto slov → web je obce/mesta:
+  obecni urad, obecniho uradu, mestsky urad, mestskeho uradu,
+  starosta obce, starostka obce, mistostarosta,
+  obecni zastupitelstvo, zastupitelstvo obce, zastupitelstvo mesta,
+  samosprava obce, samosprava mesta, uredni deska, uredni hodiny,
+  matrika, ohlasovna pobytu, podatelna obce, podatelna mesta,
+  vyhlaska obce, vyhlaska mesta, rozpocet obce, rozpocet mesta,
+  kronika obce, kronika mesta, historie obce
+  → prodejna = "web obce"
+  → vycap = False
+
+══════════════════════════════════════════════════════════════════
+8. AGE GATE BYPASS
+══════════════════════════════════════════════════════════════════
+
+DETEKCIA AGE GATE:
+  Stránka kratšia ako 5000 znakov + obsahuje:
+    "bylo vam", "bylo vám", "18 let", "18 years",
+    "of legal age", "overeni veku", "agegate",
+    "age verification", "jste starsi 18"
+
+OBCHÁDZANIE:
+  1. Pre-naplnenie cookies pred prvým GET:
+     age_verified=1, ageVerified=true, age_confirmed=1,
+     age_check=1, age=18, isAdult=1, over18=1,
+     ageGate=1, ac=1
+
+  2. Detekcia "Ano" linku v age gate stránke:
+     hľadanie textu: Ano, ANO, Yes, YES, Souhlasím,
+     Vstoupit, Pokračovat, Continue, Enter, Potvrdit
+
+  3. Kliknutie na "Ano" link → server nastaví session cookie
+  4. Re-fetch hlavnej stránky s aktívnymi cookies
+
+══════════════════════════════════════════════════════════════════
+9. DRUHÝ PRECHOD CEZ PODSTRÁNKY
+══════════════════════════════════════════════════════════════════
+
+PRE NEISTÉ (skóre < 4 v predajni alebo výčape) skript navštívi:
+
+  /kontakt, /kontakty,
+  /prodej, /prodej-piva, /prodejna,
+  /eshop, /e-shop, /obchod,
+  /o-nas, /onas, /o-pivovaru, /about,
+  /restaurace, /restauracia, /hospoda, /pivnice,
+  /sluzby, /services,
+  /cenik,
+  /kam-na-pivo, /kam-na-nase-pivo, /kde-koupit, /kde-najdete,
+  /distribuce, /where-to-find, /where-to-buy, /find-us,
+  /provozovny, /pobocky,
+  /provozni-doba, /oteviraci-doba, /opening-hours
+
+Plus všetky linky z hlavnej stránky ktoré obsahujú tieto slová.
+Limit: 5 navštívených podstránok.
+
+══════════════════════════════════════════════════════════════════
+10. SKÓRE A PRAHY
+══════════════════════════════════════════════════════════════════
+
+PRODEJNA:
+  ≥ 4 body  → True (silné)
+  ≥ 2 body  → True (slabšie)
+  = 1 bod   → '' (neisté, prázdne)
+  = 0 bodov → False
+  Špeciálne: iba e-shop signály bez fyzického miesta → "len e-shop"
+
+VÝČAP:
+  ≥ 4 body  → True
+  ≥ 1 bod   → '' (neisté)
+  = 0 bodov → False
+  Auto-override:
+    restaurační pivovar → True
+    létající/uzavřený/domovar/připravovaný → False
+
+══════════════════════════════════════════════════════════════════
+11. BODOVANIE PRODEJNA
+══════════════════════════════════════════════════════════════════
+
+  +3 za každú silnú frázu (max 9 bodov)
+  +2 za "predaj+pivo" (alebo "predaj+obal") v blízkosti 60 znakov
+     (max +6 bodov za viac výskytov)
+  +2 za samostatný koreň "prodejn"
+  +1 až +3 za "odber+pivo" v blízkosti
+  +1 za 2 typy obalov v texte
+  +2 za 3+ typov obalov v texte
+  +2 ak "po domluve" / "po dohode" v texte spolu s obalmi
+  +1 ak otváracia doba blízko obalov
+  +2 provozní/otevírací doba + časy v texte
+  +1 provozní/otevírací doba + dni v texte
+  +1 časy + dni (bez kľúčového slova)
+  +1 za "kam na pivo" + MESTO blízko
+
+  PODMIENENÉ:
+  +2 za "zakoupit/koupit" LEN ak blízko "u nas/v pivovaru/MESTO"
+  -1 za samotné "objednejte online" bez fyzických indikátorov
+
+══════════════════════════════════════════════════════════════════
+12. BODOVANIE VÝČAP
+══════════════════════════════════════════════════════════════════
+
+  +4 za VYCAP_RESTAURACE + MESTO pivovaru blízko
+  +2 za VYCAP_RESTAURACE (bez mesta)
+  +4 za VYCAP_CEPOVANIE + MESTO pivovaru blízko
+  +2 za VYCAP_CEPOVANIE (bez mesta)
+  +3 za "kam na pivo" + MESTO pivovaru blízko (do 100 znakov)
+   0 za "kam na pivo" v zozname iných miest
+  +2 za 2+ slová z RESTAURACE_OSTATNE
+  +4 provozní/otevírací doba + časy v texte
+  +3 provozní/otevírací doba + dni v texte
+  +2 časy + dni (bez kľúčového slova)
+  +1 samotné časy
+
+══════════════════════════════════════════════════════════════════
+13. POLIA V JSON/CSV
+══════════════════════════════════════════════════════════════════
+
+  prodejna           True | False | "" | "Facebook profil"
+                     | "web obce" | "len e-shop"
+  prodejna_vycap     True | False | ""
+  prodejna_dovod     text z čoho sa to vyhodnotilo
+  vycap_dovod        text z čoho sa to vyhodnotilo
+  skore_p            číslo (suma za prodejna)
+  skore_v            číslo (suma za vycap)
+
+═══════════════════════════════════════════════════════════════════
+KONIEC PRAVIDIEL
+═══════════════════════════════════════════════════════════════════
