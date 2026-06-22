@@ -1,0 +1,115 @@
+═══════════════════════════════════════════════════════════════════
+PRAVIDLÁ KATEGORIZÁCIE PIVNÝCH ŠTÝLOV A VÝPOČTU DIVERZITY
+═══════════════════════════════════════════════════════════════════
+
+Vstup: dataset pív (stĺpec styl)
+Výstup: mapping_stylov, pivovary_agregacia
+
+══════════════════════════════════════════════════════════════════
+1. VZNIK KATEGÓRIÍ A PODKATEGÓRIÍ
+══════════════════════════════════════════════════════════════════
+
+Názvy pivných štýlov v zdrojovom datasete boli príliš rôznorodé —
+dlhé, zložené, v cudzom jazyku alebo kombinácia viacerých názvov.
+Pre potreby analýzy diverzity sme ich zjednotili do hierarchie:
+
+  KATEGÓRIE (7 hlavných skupín):
+    1. Ale        — vrchne kvasené pivá
+    2. Lager      — spodne kvasené pivá
+    3. Wheat      — pšeničné a iné obilné
+    4. Non-alco   — nealkoholické, radler, pivní mix
+    5. Sour       — kyslé pivá
+    6. Special    — špeciálne/netradičné
+    7. Dark       — tmavé pivá
+
+  PODKATEGÓRIE:
+    Konkrétne podštýly v rámci kategórií
+    (napr. IPA, Stout, Porter, Pilsner, Hefeweizen...)
+    Priradené na základe lookup tabuľky zostavenej manuálne.
+
+PRAVIDLO PRIRADENIA KATEGÓRIÍ:
+  - kategoria1 = vždy Ale alebo Lager (primárna fermentácia)
+  - kategoria2 = ďalšia skupina (Wheat/Non-alco/Sour/Special/Dark)
+                 ak sa nájde zhoda v názve štýlu
+  - kategoria3 = druhá doplnková skupina, ak sa nájde ďalšia zhoda
+  - podkategoria = konkrétny podštýl z lookup tabuľky
+
+  Jedno pivo môže mať teda 1-3 kategórie a viacero podkategórií.
+
+══════════════════════════════════════════════════════════════════
+2. MAPPING_STYLOV
+══════════════════════════════════════════════════════════════════
+
+Výstupný súbor mapping_stylov obsahuje pre každé pivo:
+  - pôvodný názov štýlu (styl)
+  - priradené kategórie (kategoria1, kategoria2, kategoria3)
+  - priradenú podkategóriu (podkategoria)
+  - väzbu na pivovar (pivovar_id_1, pivovar_id_2)
+
+Priradenie bolo realizované Python skriptom na základe
+lookup tabuľky kľúčových slov pre každú kategóriu a podkategóriu.
+
+══════════════════════════════════════════════════════════════════
+3. PRAVIDLÁ AGREGÁCIE NA ÚROVNI PIVOVARU
+══════════════════════════════════════════════════════════════════
+
+Pre každý pivovar sa počítajú DISTINCT hodnoty — teda každá
+kategória a podkategória sa zarátava len raz bez ohľadu na to,
+koľkokrát sa vyskytuje v pivách pivovaru.
+
+  DISTINCT KATEGÓRIE:
+    Zo všetkých pív pivovaru sa zozbierajú unikátne hodnoty
+    stĺpcov kategoria1, kategoria2, kategoria3.
+    Výsledok je množina kategórií pre daný pivovar.
+    → pocet_kategorii = počet unikátnych kategórií
+
+  DISTINCT PODKATEGÓRIE (štýly):
+    Zo všetkých pív pivovaru sa zozbierajú unikátne podkategórie.
+    Každá podkategória sa namapuje do hlavnej skupiny
+    (ALE/LAGER/DARK/SOUR/WHEAT/SPECIAL/NON_ALCO).
+    → pre každú skupinu: {skupina}_styly = zoznam unikátnych podštýlov
+    → pre každú skupinu: {skupina}_pocet_stylov = počet unikátnych podštýlov
+
+══════════════════════════════════════════════════════════════════
+4. VÝPOČET CELKOVEJ DIVERZITY
+══════════════════════════════════════════════════════════════════
+
+Celková diverzita pivovaru je kombinovaná miera:
+
+  celkova_diverzita = počet unikátnych podkategórií (štýlov)
+                    + počet kategórií BEZ akejkoľvek podkategórie
+
+LOGIKA:
+  - Ak má kategória aspoň jeden podštýl → počítame podštýly
+  - Ak má pivo kategóriu, ale žiadny podštýl nebol rozpoznaný
+    → zarátame kategóriu samotnú ako +1
+
+  Príklad:
+    Pivovar má: ALE (IPA, Belgian), DARK (Stout, Porter), LAGER (bez podštýlu)
+    celkova_diverzita = 2 (ALE štýly) + 2 (DARK štýly) + 1 (LAGER bez podštýlu)
+                     = 5
+
+POZNÁMKA:
+  Táto miera je aproximácia — ak má pivovar pivá s podštýlom
+  aj bez podštýlu v rámci tej istej kategórie, príspevok
+  "holej" kategórie sa nezarátava (kategória má podštýl).
+  Vplyv tohto zjednodušenia na výsledky analýzy je minimálny.
+
+══════════════════════════════════════════════════════════════════
+5. OBMEDZENIA A LIMITÁCIE
+══════════════════════════════════════════════════════════════════
+
+  - Diverzita vychádza z pív evidovaných na pivnici.cz —
+    reálne portfólio pivovaru môže byť širšie.
+
+  - 176 pív (2,4 %) bolo vyrobených v spolupráci dvoch pivovarov
+    (pivovar_id_2). Tieto pivá sú priradené len pivovaru_id_1.
+    Vplyv na celkovú diverzitu je minimálny.
+
+  - Podkategórie boli priradené na základe lookup tabuľky —
+    štýly neuvedené v tabuľke nemajú podkategóriu
+    (zarátavajú sa len ako kategória).
+
+═══════════════════════════════════════════════════════════════════
+KONIEC PRAVIDIEL
+═══════════════════════════════════════════════════════════════════
